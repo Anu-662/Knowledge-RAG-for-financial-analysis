@@ -1,0 +1,23 @@
+{
+  "companies": [
+    {
+      "name": "Coinbase",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [],
+  "sectors": [
+    "Cryptocurrency"
+  ],
+  "events": [],
+  "metrics": [],
+  "locations": [
+    "UK"
+  ],
+  "products": [],
+  "relationships": [],
+  "article_id": "9c4a1db9a21b",
+  "article_title": "UK bans Coinbase ads implying crypto can ease cost of living concerns",
+  "extraction_date": "2026-02-07T13:12:57.531580"
+}

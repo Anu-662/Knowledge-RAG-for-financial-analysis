@@ -1,0 +1,36 @@
+{
+  "companies": [
+    {
+      "name": "Federal Reserve",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [
+    {
+      "name": "Jerome Powell",
+      "role": "Chairman",
+      "company": "Federal Reserve"
+    },
+    {
+      "name": "Donald Trump",
+      "role": "former President",
+      "company": ""
+    }
+  ],
+  "sectors": [],
+  "events": [
+    {
+      "type": "criminal_probe",
+      "description": "US justice department opens criminal probe",
+      "date": null
+    }
+  ],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "240d694c5b75",
+  "article_title": "US justice department opens criminal probe into Fed Chair Jerome Powell",
+  "extraction_date": "2026-02-07T13:00:47.228691"
+}

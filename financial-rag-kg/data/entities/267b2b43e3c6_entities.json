@@ -1,0 +1,47 @@
+{
+  "companies": [
+    {
+      "name": "Micron Technology, Inc.",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Powerchip Semiconductor Manufacturing Corporation",
+      "ticker": "",
+      "role": "acquired entity"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "acquisition_value",
+      "value": "1.8",
+      "unit": "billion USD",
+      "period": null
+    },
+    {
+      "type": "investment_value",
+      "value": "9.5",
+      "unit": "billion USD",
+      "period": null
+    }
+  ],
+  "locations": [
+    "Taiwan"
+  ],
+  "products": [
+    "DRAM"
+  ],
+  "relationships": [
+    {
+      "entity1": "Micron Technology, Inc.",
+      "relationship": "acquires",
+      "entity2": "Powerchip Semiconductor Manufacturing Corporation"
+    }
+  ],
+  "article_id": "267b2b43e3c6",
+  "article_title": "Micron finds a way to make more DRAM with $1.8bn chip plant purchase",
+  "extraction_date": "2026-02-07T13:01:00.967900"
+}

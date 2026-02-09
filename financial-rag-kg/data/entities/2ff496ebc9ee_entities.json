@@ -1,0 +1,38 @@
+{
+  "companies": [
+    {
+      "name": "Palantir",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [
+    {
+      "type": "earnings_report",
+      "description": "record revenue from the American government",
+      "date": "2025"
+    }
+  ],
+  "metrics": [
+    {
+      "type": "revenue",
+      "value": "2 billion",
+      "unit": "USD",
+      "period": "2025"
+    },
+    {
+      "type": "revenue",
+      "value": "1.855 billion",
+      "unit": "USD",
+      "period": "2025"
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "2ff496ebc9ee",
+  "article_title": "Palantir Touts $2 Billion in Revenue from Aiding Trump Administration\u2019s \u2018Unusual\u2019 Operations",
+  "extraction_date": "2026-02-07T13:01:42.485973"
+}

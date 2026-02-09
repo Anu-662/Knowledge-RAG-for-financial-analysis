@@ -1,0 +1,43 @@
+{
+  "companies": [
+    {
+      "name": "SpaceX",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "xAI",
+      "ticker": "",
+      "role": "acquired company"
+    }
+  ],
+  "people": [
+    {
+      "name": "Elon Musk",
+      "role": "entrepreneur",
+      "company": "SpaceX"
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "merger_value",
+      "value": "1.25",
+      "unit": "trillion USD",
+      "period": null
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [
+    {
+      "entity1": "SpaceX",
+      "relationship": "merges_with",
+      "entity2": "xAI"
+    }
+  ],
+  "article_id": "3fdf0c0df37e",
+  "article_title": "Musk announces record merger",
+  "extraction_date": "2026-02-07T13:02:39.460099"
+}

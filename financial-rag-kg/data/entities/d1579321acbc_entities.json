@@ -1,0 +1,42 @@
+{
+  "companies": [
+    {
+      "name": "Meta",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [
+    {
+      "name": "Mark Zuckerberg",
+      "role": "CEO",
+      "company": "Meta"
+    }
+  ],
+  "sectors": [
+    "Technology"
+  ],
+  "events": [
+    {
+      "type": "future_projection",
+      "description": "Meta believes 2026 will be the year it starts reaping the benefits",
+      "date": null
+    }
+  ],
+  "metrics": [
+    {
+      "type": "investment",
+      "value": "billions upon billions",
+      "unit": "USD",
+      "period": null
+    }
+  ],
+  "locations": [],
+  "products": [
+    "Meta Superintelligence Labs"
+  ],
+  "relationships": [],
+  "article_id": "d1579321acbc",
+  "article_title": "\u2018AI That Understands You\u2019: Mark Zuckerberg Plans to Deepen AI\u2019s Presence in Our Online Lives",
+  "extraction_date": "2026-02-07T13:18:14.201058"
+}

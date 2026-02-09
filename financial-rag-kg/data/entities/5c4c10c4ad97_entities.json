@@ -1,0 +1,41 @@
+{
+  "companies": [
+    {
+      "name": "SpaceX",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "xAI",
+      "ticker": "",
+      "role": "potential merger partner"
+    }
+  ],
+  "people": [
+    {
+      "name": "Elon Musk",
+      "role": "CEO",
+      "company": "SpaceX"
+    }
+  ],
+  "events": [
+    {
+      "type": "IPO",
+      "description": "record-breaking IPO",
+      "date": null
+    }
+  ],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [
+    {
+      "entity1": "SpaceX",
+      "relationship": "potential_merger_with",
+      "entity2": "xAI"
+    }
+  ],
+  "article_id": "5c4c10c4ad97",
+  "article_title": "I'm trying to guess why Elon Musk wants to mash xAI into SpaceX. I'm stumped.",
+  "extraction_date": "2026-02-07T13:04:45.304990"
+}

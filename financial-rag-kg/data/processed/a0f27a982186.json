@@ -1,0 +1,18 @@
+{
+  "id": "a0f27a982186",
+  "title": "Cerebras Scores OpenAI Deal Worth Over $10 Billion",
+  "url": "https://slashdot.org/story/26/01/14/2253220/cerebras-scores-openai-deal-worth-over-10-billion",
+  "source": "Slashdot.org",
+  "published_at": "2026-01-15T00:45:00Z",
+  "sector": "General",
+  "sentiment": {
+    "polarity": 0.0,
+    "label": "neutral"
+  },
+  "full_text": "Cerebras Scores OpenAI Deal Worth Over $10 Billion. Cerebras Systems landed a more than $10 billion deal to supply up to 750 megawatts of compute to OpenAI through 2028, according to a blog post by OpenAI. CNBC reports: The deal will help diversify Cerebras away from the United Arab Emirates' G42, which accoun\u2026. The deal will help diversify Cerebras away from the United Arab Emirates' G42, which accounted for 87% of revenue in the first half of 2024. \"The way you have three very large customers is start with\u2026 [+932 chars]",
+  "chunks": [
+    "Cerebras Scores OpenAI Deal Worth Over $10 Billion. Cerebras Systems landed a more than $10 billion deal to supply up to 750 megawatts of compute to OpenAI through 2028, according to a blog post by OpenAI. CNBC reports: The deal will help diversify Cerebras away from the United Arab Emirates' G42, which accoun\u2026. The deal will help diversify Cerebras away from the United Arab Emirates' G42, which accounted for 87% of revenue in the first half of 2024. \"The way you have three very large customers is start with\u2026 [+932 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.592674"
+}

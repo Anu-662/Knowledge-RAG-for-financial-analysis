@@ -1,0 +1,18 @@
+{
+  "id": "9c4a1db9a21b",
+  "title": "UK bans Coinbase ads implying crypto can ease cost of living concerns",
+  "url": "https://www.bbc.com/news/articles/cx2yv31482vo",
+  "source": "BBC News",
+  "published_at": "2026-01-29T11:40:44Z",
+  "sector": "General",
+  "sentiment": {
+    "polarity": 0.0,
+    "label": "neutral"
+  },
+  "full_text": "UK bans Coinbase ads implying crypto can ease cost of living concerns. The ASA upheld complaints that Coinbase's adverts trivialised the risks of investing in cryptocurrency.. \"While we respect the ASA's decision, we fundamentally disagree with the characterisation of a campaign that critically reflects widely reported economic conditions as socially irresponsible,\" it sai\u2026 [+16 chars]",
+  "chunks": [
+    "UK bans Coinbase ads implying crypto can ease cost of living concerns. The ASA upheld complaints that Coinbase's adverts trivialised the risks of investing in cryptocurrency.. \"While we respect the ASA's decision, we fundamentally disagree with the characterisation of a campaign that critically reflects widely reported economic conditions as socially irresponsible,\" it sai\u2026 [+16 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.594437"
+}

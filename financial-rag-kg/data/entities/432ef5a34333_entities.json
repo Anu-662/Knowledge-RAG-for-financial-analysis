@@ -1,0 +1,43 @@
+{
+  "companies": [
+    {
+      "name": "Federal Reserve",
+      "ticker": "",
+      "role": "central bank"
+    }
+  ],
+  "people": [
+    {
+      "name": "Lisa Cook",
+      "role": "Fed governor",
+      "company": "Federal Reserve"
+    },
+    {
+      "name": "Donald Trump",
+      "role": "President",
+      "company": ""
+    }
+  ],
+  "sectors": [
+    "Finance"
+  ],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [
+    {
+      "entity1": "Donald Trump",
+      "relationship": "attempts_to_fire",
+      "entity2": "Lisa Cook"
+    },
+    {
+      "entity1": "Lisa Cook",
+      "relationship": "member_of",
+      "entity2": "Federal Reserve"
+    }
+  ],
+  "article_id": "432ef5a34333",
+  "article_title": "Supreme Court appears wary of allowing Trump to fire Fed's Cook in closely watched case",
+  "extraction_date": "2026-02-07T13:02:55.974054"
+}

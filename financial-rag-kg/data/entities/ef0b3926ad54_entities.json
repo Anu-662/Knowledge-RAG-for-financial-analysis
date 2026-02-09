@@ -1,0 +1,35 @@
+{
+  "companies": [
+    {
+      "name": "OpenClaw",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "1Password",
+      "ticker": "",
+      "role": "mentioned"
+    }
+  ],
+  "people": [
+    {
+      "name": "Jason M.",
+      "role": "VP",
+      "company": "1Password"
+    },
+    {
+      "name": "Emma Roth",
+      "role": "author",
+      "company": ""
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "ef0b3926ad54",
+  "article_title": "OpenClaw\u2019s AI \u2018skill\u2019 extensions are a security nightmare",
+  "extraction_date": "2026-02-07T13:19:49.257498"
+}

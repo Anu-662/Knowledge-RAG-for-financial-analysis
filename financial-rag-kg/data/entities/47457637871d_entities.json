@@ -1,0 +1,27 @@
+{
+  "companies": [],
+  "people": [
+    {
+      "name": "Donald Trump",
+      "role": "president",
+      "company": ""
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "gold_price",
+      "value": "4800",
+      "unit": "USD"
+    }
+  ],
+  "locations": [
+    "Greenland"
+  ],
+  "products": [],
+  "relationships": [],
+  "article_id": "47457637871d",
+  "article_title": "Gold prices surge past $4,800 on jitters over Greenland dispute",
+  "extraction_date": "2026-02-07T13:03:15.624699"
+}

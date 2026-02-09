@@ -1,0 +1,18 @@
+{
+  "id": "042d5c766274",
+  "title": "Software Company Bonds Drop As Investors' AI Worries Mount",
+  "url": "https://tech.slashdot.org/story/26/01/28/2214257/software-company-bonds-drop-as-investors-ai-worries-mount",
+  "source": "Slashdot.org",
+  "published_at": "2026-01-29T00:02:00Z",
+  "sector": "Technology",
+  "sentiment": {
+    "polarity": -1.0,
+    "label": "negative"
+  },
+  "full_text": "Software Company Bonds Drop As Investors' AI Worries Mount. An anonymous reader quotes a report from Bloomberg: Investors are souring on the bonds of software companies that service industries ranging from automotive to finance as fast-paced artificial intelligence innovations threaten to upend their business models. \u2026. Investors are souring on the bonds of software companies that service industries ranging from automotive to finance as fast-paced artificial intelligence innovations threaten to upend their business \u2026 [+936 chars]",
+  "chunks": [
+    "Software Company Bonds Drop As Investors' AI Worries Mount. An anonymous reader quotes a report from Bloomberg: Investors are souring on the bonds of software companies that service industries ranging from automotive to finance as fast-paced artificial intelligence innovations threaten to upend their business models. \u2026. Investors are souring on the bonds of software companies that service industries ranging from automotive to finance as fast-paced artificial intelligence innovations threaten to upend their business \u2026 [+936 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.581813"
+}

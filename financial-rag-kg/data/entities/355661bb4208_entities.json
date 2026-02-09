@@ -1,0 +1,41 @@
+{
+  "companies": [
+    {
+      "name": "Nvidia",
+      "ticker": "",
+      "role": "subject"
+    },
+    {
+      "name": "AMD",
+      "ticker": "",
+      "role": "subject"
+    }
+  ],
+  "people": [
+    {
+      "name": "Donald Trump",
+      "role": "President",
+      "company": ""
+    }
+  ],
+  "sectors": [
+    "Semiconductor"
+  ],
+  "events": [],
+  "metrics": [
+    {
+      "type": "tariff",
+      "value": "25",
+      "unit": "percent"
+    }
+  ],
+  "locations": [],
+  "products": [
+    "H200 processor",
+    "MI325X chips"
+  ],
+  "relationships": [],
+  "article_id": "355661bb4208",
+  "article_title": "Trump places a 25% tariff on high-end computing chips, and said more duties may be coming for the semiconductor industry",
+  "extraction_date": "2026-02-07T13:02:02.260745"
+}

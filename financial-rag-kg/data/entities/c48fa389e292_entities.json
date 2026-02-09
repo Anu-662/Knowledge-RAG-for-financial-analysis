@@ -1,0 +1,19 @@
+{
+  "companies": [
+    {
+      "name": "Microsoft",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "c48fa389e292",
+  "article_title": "Evelyn Stealer Malware Abuses VS Code Extensions to Steal Developer Credentials and Crypto",
+  "extraction_date": "2026-02-07T13:16:36.347328"
+}

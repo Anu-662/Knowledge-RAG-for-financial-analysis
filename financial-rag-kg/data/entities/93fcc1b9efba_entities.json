@@ -1,0 +1,53 @@
+{
+  "companies": [
+    {
+      "name": "Prism",
+      "ticker": "",
+      "role": "parent company"
+    },
+    {
+      "name": "Oyo",
+      "ticker": "",
+      "role": "subsidiary"
+    },
+    {
+      "name": "Sunday PropTech",
+      "ticker": "",
+      "role": "acquirer"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [
+    {
+      "type": "acquisition",
+      "description": "acquired eight premium hotels",
+      "date": null
+    }
+  ],
+  "metrics": [
+    {
+      "type": "number_of_hotels_acquired",
+      "value": "8",
+      "unit": "",
+      "period": null
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [
+    {
+      "entity1": "Prism",
+      "relationship": "owns",
+      "entity2": "Oyo"
+    },
+    {
+      "entity1": "Prism",
+      "relationship": "backs",
+      "entity2": "Sunday PropTech"
+    }
+  ],
+  "article_id": "93fcc1b9efba",
+  "article_title": "Prism-Backed Asset Arm Acquires 8 Hotels in Upmarket Push",
+  "extraction_date": "2026-02-07T13:12:23.895107"
+}

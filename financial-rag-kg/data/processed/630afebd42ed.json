@@ -1,0 +1,18 @@
+{
+  "id": "630afebd42ed",
+  "title": "The electrification of everything: Best ideas of the century",
+  "url": "https://www.newscientist.com/article/2510618-the-electrification-of-everything-best-ideas-of-the-century/",
+  "source": "New Scientist",
+  "published_at": "2026-01-19T16:00:09Z",
+  "sector": "Energy",
+  "sentiment": {
+    "polarity": 0.0,
+    "label": "neutral"
+  },
+  "full_text": "The electrification of everything: Best ideas of the century. Transitioning from fossil fuels to renewable power is crucial. The opening of Tesla's first \"gigafactory\", which used economies of scale to electrify our transport and energy systems, marked a turning point in this endeavour. Stephan Walter Batteries and the harnessing of solar energy have been around in one form or another for centuries, but only in 2016 did these technologies, arguably, become world-changing. This was \u2026 [+2382 chars]",
+  "chunks": [
+    "The electrification of everything: Best ideas of the century. Transitioning from fossil fuels to renewable power is crucial. The opening of Tesla's first \"gigafactory\", which used economies of scale to electrify our transport and energy systems, marked a turning point in this endeavour. Stephan Walter Batteries and the harnessing of solar energy have been around in one form or another for centuries, but only in 2016 did these technologies, arguably, become world-changing. This was \u2026 [+2382 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.601333"
+}

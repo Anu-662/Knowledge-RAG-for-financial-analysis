@@ -1,0 +1,29 @@
+{
+  "companies": [
+    {
+      "name": "Taiwan Semiconductor Manufacturing",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Nvidia",
+      "ticker": "",
+      "role": "investor"
+    },
+    {
+      "name": "Broadcom",
+      "ticker": "",
+      "role": "investor"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "25a22b28681b",
+  "article_title": "Taiwan Semiconductor Manufacturing Just Delivered Fantastic News for Nvidia and Broadcom Stock Investors",
+  "extraction_date": "2026-02-07T13:00:55.107921"
+}

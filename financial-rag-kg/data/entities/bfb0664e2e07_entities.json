@@ -1,0 +1,30 @@
+{
+  "companies": [
+    {
+      "name": "Netflix",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Warner Bros",
+      "ticker": "",
+      "role": "subject of acquisition"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [
+    {
+      "entity1": "Netflix",
+      "relationship": "acquires",
+      "entity2": "Warner Bros"
+    }
+  ],
+  "article_id": "bfb0664e2e07",
+  "article_title": "Theater Owners Call Pending Netflix Warner Bros Merger \u201cCatastrophic\u201d In Statement To Senate Lawmakers",
+  "extraction_date": "2026-02-07T13:16:06.745966"
+}

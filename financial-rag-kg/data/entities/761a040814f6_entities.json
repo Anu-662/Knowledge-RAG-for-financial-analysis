@@ -1,0 +1,58 @@
+{
+  "companies": [
+    {
+      "name": "WRU",
+      "ticker": "",
+      "role": "owner"
+    },
+    {
+      "name": "Y11",
+      "ticker": "",
+      "role": "owner"
+    },
+    {
+      "name": "Ospreys",
+      "ticker": "",
+      "role": "subject"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [
+    {
+      "type": "legal_action",
+      "description": "Swansea Council started legal action against WRU and Y11",
+      "date": null
+    }
+  ],
+  "metrics": [],
+  "locations": [
+    "Swansea"
+  ],
+  "products": [],
+  "relationships": [
+    {
+      "entity1": "Swansea Council",
+      "relationship": "initiates_action_against",
+      "entity2": "WRU"
+    },
+    {
+      "entity1": "Swansea Council",
+      "relationship": "initiates_action_against",
+      "entity2": "Y11"
+    },
+    {
+      "entity1": "Ospreys",
+      "relationship": "owned_by",
+      "entity2": "WRU"
+    },
+    {
+      "entity1": "Ospreys",
+      "relationship": "owned_by",
+      "entity2": "Y11"
+    }
+  ],
+  "article_id": "761a040814f6",
+  "article_title": "Swansea Council 'were told Ospreys wouldn't exist'",
+  "extraction_date": "2026-02-07T13:10:28.892611"
+}

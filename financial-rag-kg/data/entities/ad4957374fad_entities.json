@@ -1,0 +1,28 @@
+{
+  "companies": [],
+  "people": [
+    {
+      "name": "Donald Trump",
+      "role": "President",
+      "company": "U.S."
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "tariff",
+      "value": "10",
+      "unit": "percent"
+    }
+  ],
+  "locations": [
+    "U.S.",
+    "BANGKOK"
+  ],
+  "products": [],
+  "relationships": [],
+  "article_id": "ad4957374fad",
+  "article_title": "US futures sink after Trump warns of higher tariffs for 8 countries over Greenland issue",
+  "extraction_date": "2026-02-07T13:14:15.309942"
+}

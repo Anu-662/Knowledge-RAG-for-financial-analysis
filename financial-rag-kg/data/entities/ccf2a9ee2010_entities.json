@@ -1,0 +1,32 @@
+{
+  "companies": [],
+  "people": [
+    {
+      "name": "Donald Trump",
+      "role": "President",
+      "company": "United States"
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "gold_price",
+      "value": "record high",
+      "unit": "",
+      "period": null
+    }
+  ],
+  "locations": [
+    "Greenland",
+    "Hong Kong",
+    "United States"
+  ],
+  "products": [
+    "gold"
+  ],
+  "relationships": [],
+  "article_id": "ccf2a9ee2010",
+  "article_title": "US futures edge higher and gold hits another record as markets swoon over Greenland dispute",
+  "extraction_date": "2026-02-07T13:17:42.010511"
+}

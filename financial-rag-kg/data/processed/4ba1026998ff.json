@@ -1,0 +1,18 @@
+{
+  "id": "4ba1026998ff",
+  "title": "Windows 11 Has Reached 1 Billion Users Faster Than Windows 10",
+  "url": "https://tech.slashdot.org/story/26/01/29/1611252/windows-11-has-reached-1-billion-users-faster-than-windows-10",
+  "source": "Slashdot.org",
+  "published_at": "2026-01-29T16:12:00Z",
+  "sector": "General",
+  "sentiment": {
+    "polarity": 1.0,
+    "label": "positive"
+  },
+  "full_text": "Windows 11 Has Reached 1 Billion Users Faster Than Windows 10. An anonymous reader shares a report: Windows 11 now has one billion users. Microsoft hit the milestone during the recent holiday quarter, meaning Windows 11 has managed to reach one billion users faster than Windows 10 did nearly six years ago. \"Windows rea\u2026. Do they mean a 45% increase in installs, or a 45% increase in the quarter-over-quarter upgrade rate? I.e., did they really gain almost a half a billion installs in 3 months? That's hard to imagine e\u2026 [+143 chars]",
+  "chunks": [
+    "Windows 11 Has Reached 1 Billion Users Faster Than Windows 10. An anonymous reader shares a report: Windows 11 now has one billion users. Microsoft hit the milestone during the recent holiday quarter, meaning Windows 11 has managed to reach one billion users faster than Windows 10 did nearly six years ago. \"Windows rea\u2026. Do they mean a 45% increase in installs, or a 45% increase in the quarter-over-quarter upgrade rate? I.e., did they really gain almost a half a billion installs in 3 months? That's hard to imagine e\u2026 [+143 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.581452"
+}

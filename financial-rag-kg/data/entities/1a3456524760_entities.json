@@ -1,0 +1,34 @@
+{
+  "companies": [
+    {
+      "name": "Warner Bros.",
+      "ticker": "",
+      "role": "subject"
+    },
+    {
+      "name": "Paramount",
+      "ticker": "",
+      "role": "subject"
+    },
+    {
+      "name": "Disney",
+      "ticker": "",
+      "role": "subject"
+    },
+    {
+      "name": "Fox",
+      "ticker": "",
+      "role": "subject"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "1a3456524760",
+  "article_title": "The Fight for Warner Bros. Is Paramount\u2019s Most Embarrassing Moment Yet",
+  "extraction_date": "2026-02-07T13:00:06.175806"
+}

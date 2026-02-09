@@ -1,0 +1,36 @@
+{
+  "companies": [
+    {
+      "name": "National Stock Exchange",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Securities and Exchange Board of India",
+      "ticker": "",
+      "role": "regulatory body"
+    }
+  ],
+  "people": [
+    {
+      "name": "Tuhin Kanta Pandey",
+      "role": "Chairman",
+      "company": "Securities and Exchange Board of India"
+    }
+  ],
+  "sectors": [],
+  "events": [
+    {
+      "type": "IPO_approval",
+      "description": "NSE receives approval for its IPO",
+      "date": null
+    }
+  ],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "84a662f23f32",
+  "article_title": "NSE gets Sebi\u2019s IPO approval after decade-long wait",
+  "extraction_date": "2026-02-07T13:11:14.496536"
+}

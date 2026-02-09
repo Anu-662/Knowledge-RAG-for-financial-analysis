@@ -1,0 +1,40 @@
+{
+  "companies": [
+    {
+      "name": "Trump Media & Technology Group",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "TAE Technologies",
+      "ticker": "",
+      "role": "partner"
+    }
+  ],
+  "people": [
+    {
+      "name": "Donald Trump",
+      "role": "President",
+      "company": "Trump Media & Technology Group"
+    }
+  ],
+  "sectors": [
+    "Energy"
+  ],
+  "events": [],
+  "metrics": [],
+  "locations": [
+    "California"
+  ],
+  "products": [],
+  "relationships": [
+    {
+      "entity1": "Trump Media & Technology Group",
+      "relationship": "partners_with",
+      "entity2": "TAE Technologies"
+    }
+  ],
+  "article_id": "89ecb678279d",
+  "article_title": "Company owned by President Trump surprises observers with unexpected partnership: 'To guarantee America's dominance'",
+  "extraction_date": "2026-02-07T13:11:32.478727"
+}

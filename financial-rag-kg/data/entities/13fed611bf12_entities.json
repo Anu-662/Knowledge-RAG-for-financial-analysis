@@ -1,0 +1,41 @@
+{
+  "companies": [
+    {
+      "name": "SpaceX",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "xAI",
+      "ticker": "",
+      "role": "partner"
+    }
+  ],
+  "people": [
+    {
+      "name": "Elon Musk",
+      "role": "CEO",
+      "company": "SpaceX"
+    }
+  ],
+  "sectors": [],
+  "events": [
+    {
+      "type": "merger",
+      "description": "SpaceX merger with xAI",
+      "date": null
+    },
+    {
+      "type": "IPO",
+      "description": "SpaceX ahead of IPO",
+      "date": null
+    }
+  ],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "13fed611bf12",
+  "article_title": "Elon Musk confirms SpaceX merger with xAI ahead of IPO",
+  "extraction_date": "2026-02-07T12:59:48.987066"
+}

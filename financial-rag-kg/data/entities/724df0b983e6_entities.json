@@ -1,0 +1,28 @@
+{
+  "companies": [
+    {
+      "name": "Broadcom",
+      "ticker": "AVGO",
+      "role": "primary subject"
+    }
+  ],
+  "people": [],
+  "sectors": [
+    "Technology"
+  ],
+  "events": [],
+  "metrics": [
+    {
+      "type": "market_share",
+      "value": "60",
+      "unit": "percent",
+      "period": "2027"
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "724df0b983e6",
+  "article_title": "Get Ready for ASIC Shipments to Triple With This Leading AI Stock",
+  "extraction_date": "2026-02-07T13:08:56.858512"
+}

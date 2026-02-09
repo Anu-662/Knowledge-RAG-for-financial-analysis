@@ -1,0 +1,27 @@
+{
+  "companies": [
+    {
+      "name": "Jackery",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "discount",
+      "value": "31",
+      "unit": "percent"
+    }
+  ],
+  "locations": [],
+  "products": [
+    "Explorer 300 Portable Power Station"
+  ],
+  "relationships": [],
+  "article_id": "371ca974ba62",
+  "article_title": "Jackery Is Offloading the Explorer 300 Portable Power Station at an All-Time Low, Priced Like Small Power Banks",
+  "extraction_date": "2026-02-07T13:02:09.407518"
+}

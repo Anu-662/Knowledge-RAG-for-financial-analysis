@@ -1,0 +1,22 @@
+{
+  "companies": [],
+  "people": [
+    {
+      "name": "Donald Trump",
+      "role": "President",
+      "company": ""
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [
+    "Chagos Islands",
+    "Mauritius"
+  ],
+  "products": [],
+  "relationships": [],
+  "article_id": "4282974c2215",
+  "article_title": "Minister claims 'sabotage' behind Chagos debate delay",
+  "extraction_date": "2026-02-07T13:02:48.404780"
+}

@@ -1,0 +1,24 @@
+{
+  "companies": [
+    {
+      "name": "New York Stock Exchange",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Bitcoin",
+      "ticker": "",
+      "role": "subject"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "e987e5f7adf9",
+  "article_title": "NYSE\u2019s Tokenized Stocks Create More Questions for Crypto\u2019s Relevance",
+  "extraction_date": "2026-02-07T13:19:32.823867"
+}

@@ -1,0 +1,38 @@
+{
+  "companies": [
+    {
+      "name": "Take-Two Interactive",
+      "ticker": "",
+      "role": "parent company"
+    },
+    {
+      "name": "Rockstar",
+      "ticker": "",
+      "role": "developer"
+    }
+  ],
+  "people": [
+    {
+      "name": "CEO",
+      "role": "CEO",
+      "company": "Take-Two Interactive"
+    }
+  ],
+  "sectors": [],
+  "events": [
+    {
+      "type": "earnings_report",
+      "description": "quarterly earnings report",
+      "date": null
+    }
+  ],
+  "metrics": [],
+  "locations": [],
+  "products": [
+    "GTA 6"
+  ],
+  "relationships": [],
+  "article_id": "af3dc3a74109",
+  "article_title": "GTA 6 Still Confirmed For November With Summer Marketing Blitz Planned",
+  "extraction_date": "2026-02-07T13:14:22.132939"
+}

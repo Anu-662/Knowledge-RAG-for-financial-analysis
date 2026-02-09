@@ -1,0 +1,54 @@
+{
+  "companies": [
+    {
+      "name": "Apple",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [
+    {
+      "name": "James Daley",
+      "role": "financial campaigner",
+      "company": ""
+    }
+  ],
+  "sectors": [],
+  "events": [
+    {
+      "type": "legal_action",
+      "description": "class action lawsuit against Apple",
+      "date": null
+    }
+  ],
+  "metrics": [
+    {
+      "type": "legal_action_amount",
+      "value": "1.5 billion",
+      "unit": "pound",
+      "period": null
+    },
+    {
+      "type": "legal_action_amount_usd",
+      "value": "1.5 billion",
+      "unit": "USD",
+      "period": null
+    },
+    {
+      "type": "legal_action_amount_total",
+      "value": "2 billion",
+      "unit": "USD",
+      "period": null
+    }
+  ],
+  "locations": [
+    "UK"
+  ],
+  "products": [
+    "mobile phone wallet"
+  ],
+  "relationships": [],
+  "article_id": "1d6fb41cdfc9",
+  "article_title": "Campaigner Launches $2 Billion Legal Action In UK Against Apple Over Wallet's 'Hidden Fees'",
+  "extraction_date": "2026-02-07T13:00:23.430497"
+}

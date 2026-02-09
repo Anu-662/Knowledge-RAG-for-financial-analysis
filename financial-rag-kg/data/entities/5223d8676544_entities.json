@@ -1,0 +1,32 @@
+{
+  "companies": [
+    {
+      "name": "Apple",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "logins_exposed",
+      "value": "149M",
+      "unit": "",
+      "period": ""
+    },
+    {
+      "type": "apple_accounts_exposed",
+      "value": "900k",
+      "unit": "",
+      "period": ""
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "5223d8676544",
+  "article_title": "149M logins exposed in unsecured database, inc 900k Apple accounts",
+  "extraction_date": "2026-02-07T13:04:08.988371"
+}

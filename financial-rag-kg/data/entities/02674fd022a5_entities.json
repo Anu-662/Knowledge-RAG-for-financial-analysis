@@ -1,0 +1,21 @@
+{
+  "companies": [],
+  "people": [],
+  "sectors": [
+    "Clean Energy"
+  ],
+  "events": [],
+  "metrics": [
+    {
+      "type": "cost_savings",
+      "value": "trillions",
+      "unit": "USD"
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "02674fd022a5",
+  "article_title": "How clean energy could save the world trillions",
+  "extraction_date": "2026-02-07T12:56:08.747149"
+}

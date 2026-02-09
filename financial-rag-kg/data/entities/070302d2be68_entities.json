@@ -1,0 +1,25 @@
+{
+  "companies": [
+    {
+      "name": "Tesla",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [
+    {
+      "type": "earnings_report",
+      "description": "Q4 earnings results",
+      "date": null
+    }
+  ],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "070302d2be68",
+  "article_title": "Tesla Q4 earnings updates: Wall Street analysts are jittery over sales slump, AI roadmap",
+  "extraction_date": "2026-02-07T12:57:20.578034"
+}

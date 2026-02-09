@@ -1,0 +1,23 @@
+{
+  "companies": [],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "theft_amount",
+      "value": "tens of billions",
+      "unit": "USD"
+    }
+  ],
+  "locations": [
+    "Cambodia",
+    "Kuala Lumpur",
+    "Malaysia"
+  ],
+  "products": [],
+  "relationships": [],
+  "article_id": "15bfb9ddcb36",
+  "article_title": "Why Southeast Asia\u2019s online scam industry is so hard to shut down",
+  "extraction_date": "2026-02-07T12:59:53.188734"
+}

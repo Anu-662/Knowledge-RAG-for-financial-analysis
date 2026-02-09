@@ -1,0 +1,18 @@
+{
+  "id": "ff41d5b66ddd",
+  "title": "Is It Easy Being Green?",
+  "url": "http://www.nybooks.com/articles/2026/02/26/is-it-easy-being-green/",
+  "source": "The New York Review of Books",
+  "published_at": "2026-02-05T12:30:00Z",
+  "sector": "Energy",
+  "sentiment": {
+    "polarity": 0.0,
+    "label": "neutral"
+  },
+  "full_text": "Is It Easy Being Green?. To the Editors: Regarding Bill McKibben\u2019s review of The Story of CO 2 Is the Story of Everything [\u201cIt\u2019s a Gas,\u201d NYR, January 15], and with all due respect to McKibben, I believe that his characterization of the transition to a wind and solar economy as someth\u2026. To the Editors: Regarding Bill McKibbens review of The Story of CO2 Is the Story of Everything [Its a Gas, NYR, January 15], and with all due respect to McKibben, I believe that his characterization\u2026 [+9626 chars]",
+  "chunks": [
+    "Is It Easy Being Green?. To the Editors: Regarding Bill McKibben\u2019s review of The Story of CO 2 Is the Story of Everything [\u201cIt\u2019s a Gas,\u201d NYR, January 15], and with all due respect to McKibben, I believe that his characterization of the transition to a wind and solar economy as someth\u2026. To the Editors: Regarding Bill McKibbens review of The Story of CO2 Is the Story of Everything [Its a Gas, NYR, January 15], and with all due respect to McKibben, I believe that his characterization\u2026 [+9626 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.602167"
+}

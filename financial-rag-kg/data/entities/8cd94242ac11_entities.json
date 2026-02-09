@@ -1,0 +1,28 @@
+{
+  "companies": [
+    {
+      "name": "Securities and Exchange Commission",
+      "ticker": "",
+      "role": "regulatory body"
+    }
+  ],
+  "people": [
+    {
+      "name": "Paul Atkins",
+      "role": "Chairman",
+      "company": "Securities and Exchange Commission"
+    }
+  ],
+  "sectors": [
+    "Financial Services",
+    "Cryptocurrency"
+  ],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "8cd94242ac11",
+  "article_title": "Democrats Ask SEC to Explain Lack of Enforcement on Trump-Linked Crypto Entities",
+  "extraction_date": "2026-02-07T13:11:43.607445"
+}

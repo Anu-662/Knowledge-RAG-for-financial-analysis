@@ -1,0 +1,18 @@
+{
+  "id": "2f3beb630000",
+  "title": "China is betting on \u2018optical\u2019 computer chips \u2013 will they power AI?",
+  "url": "https://www.nature.com/articles/d41586-026-00274-9",
+  "source": "Nature.com",
+  "published_at": "2026-01-30T00:00:00Z",
+  "sector": "Technology",
+  "sentiment": {
+    "polarity": 0.0,
+    "label": "neutral"
+  },
+  "full_text": "China is betting on \u2018optical\u2019 computer chips \u2013 will they power AI?. Semiconductor chips that process light rather than electricity could boost processing speeds and reduce energy use.. Researchers at Peking University in China test an integrated photonic quantum chip.Credit: Xinhua via Alamy As generative artificial-intelligence models become more sophisticated and eat up more ene\u2026 [+3671 chars]",
+  "chunks": [
+    "China is betting on \u2018optical\u2019 computer chips \u2013 will they power AI?. Semiconductor chips that process light rather than electricity could boost processing speeds and reduce energy use.. Researchers at Peking University in China test an integrated photonic quantum chip.Credit: Xinhua via Alamy As generative artificial-intelligence models become more sophisticated and eat up more ene\u2026 [+3671 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.599697"
+}

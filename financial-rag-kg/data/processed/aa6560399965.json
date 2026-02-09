@@ -1,0 +1,18 @@
+{
+  "id": "aa6560399965",
+  "title": "GoBruteforcer Botnet Targets Crypto Project Databases by Exploiting Weak Credentials",
+  "url": "https://thehackernews.com/2026/01/gobruteforcer-botnet-targets-crypto.html",
+  "source": "Internet",
+  "published_at": "2026-01-12T10:48:00Z",
+  "sector": "General",
+  "sentiment": {
+    "polarity": -1.0,
+    "label": "negative"
+  },
+  "full_text": "GoBruteforcer Botnet Targets Crypto Project Databases by Exploiting Weak Credentials. A new wave of GoBruteforcer attacks has targeted databases of cryptocurrency and blockchain projects to co-opt them into a botnet that's capable of brute-forcing user passwords for services such as FTP, MySQL, PostgreSQL, and phpMyAdmin on Linux servers. \"The\u2026. A new wave of GoBruteforcer attacks has targeted databases of cryptocurrency and blockchain projects to co-opt them into a botnet that's capable of brute-forcing user passwords for services such as F\u2026 [+4830 chars]",
+  "chunks": [
+    "GoBruteforcer Botnet Targets Crypto Project Databases by Exploiting Weak Credentials. A new wave of GoBruteforcer attacks has targeted databases of cryptocurrency and blockchain projects to co-opt them into a botnet that's capable of brute-forcing user passwords for services such as FTP, MySQL, PostgreSQL, and phpMyAdmin on Linux servers. \"The\u2026. A new wave of GoBruteforcer attacks has targeted databases of cryptocurrency and blockchain projects to co-opt them into a botnet that's capable of brute-forcing user passwords for services such as F\u2026 [+4830 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.595248"
+}

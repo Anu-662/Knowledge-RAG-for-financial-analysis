@@ -1,0 +1,26 @@
+{
+  "companies": [],
+  "people": [
+    {
+      "name": "Jerome Powell",
+      "role": "Fed chair"
+    },
+    {
+      "name": "Donald Trump",
+      "role": "former President"
+    },
+    {
+      "name": "Biden",
+      "role": "current President"
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "4b6adb4ef520",
+  "article_title": "Jerome Powell\u2019s Thankless Rescue of Trump",
+  "extraction_date": "2026-02-07T13:03:37.984359"
+}

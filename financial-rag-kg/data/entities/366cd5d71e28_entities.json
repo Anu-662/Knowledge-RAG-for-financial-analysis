@@ -1,0 +1,48 @@
+{
+  "companies": [
+    {
+      "name": "Federal Reserve",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [
+    {
+      "name": "Kevin Warsh",
+      "role": "nominated chair",
+      "company": "Federal Reserve"
+    },
+    {
+      "name": "Jerome Powell",
+      "role": "current chair",
+      "company": "Federal Reserve"
+    },
+    {
+      "name": "Donald Trump",
+      "role": "President",
+      "company": ""
+    }
+  ],
+  "sectors": [
+    "Finance"
+  ],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [
+    {
+      "entity1": "Kevin Warsh",
+      "relationship": "succeeds",
+      "entity2": "Jerome Powell"
+    },
+    {
+      "entity1": "Donald Trump",
+      "relationship": "nominates",
+      "entity2": "Kevin Warsh"
+    }
+  ],
+  "article_id": "366cd5d71e28",
+  "article_title": "Trump nominates Kevin Warsh to succeed Jerome Powell as Federal Reserve chair",
+  "extraction_date": "2026-02-07T13:02:07.877163"
+}

@@ -1,0 +1,60 @@
+{
+  "companies": [],
+  "people": [
+    {
+      "name": "Elon Musk",
+      "role": "unknown",
+      "company": ""
+    },
+    {
+      "name": "Jeff Bezos",
+      "role": "unknown",
+      "company": ""
+    },
+    {
+      "name": "Mark Zuckerberg",
+      "role": "unknown",
+      "company": ""
+    },
+    {
+      "name": "Jensen Huang",
+      "role": "unknown",
+      "company": ""
+    },
+    {
+      "name": "Donald Trump",
+      "role": "President",
+      "company": ""
+    }
+  ],
+  "sectors": [
+    "Technology"
+  ],
+  "events": [
+    {
+      "type": "inauguration",
+      "description": "Trump's inauguration",
+      "date": null
+    }
+  ],
+  "metrics": [
+    {
+      "type": "wealth_increase",
+      "value": "288",
+      "unit": "billion",
+      "period": "first year back"
+    },
+    {
+      "type": "wealth_decrease",
+      "value": "192",
+      "unit": "billion",
+      "period": "since Inauguration Day"
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "a1f5b8428f14",
+  "article_title": "4 tech moguls who attended or donated to Trumps inauguration got $288 billion richer, cumulatively, in his first year back",
+  "extraction_date": "2026-02-07T13:13:24.669173"
+}

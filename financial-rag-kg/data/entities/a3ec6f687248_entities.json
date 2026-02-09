@@ -1,0 +1,29 @@
+{
+  "companies": [
+    {
+      "name": "Masdar",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [
+    {
+      "name": "CFO",
+      "role": "CFO",
+      "company": "Masdar"
+    }
+  ],
+  "sectors": [
+    "Renewable Energy"
+  ],
+  "events": [],
+  "metrics": [],
+  "locations": [
+    "United Arab Emirates"
+  ],
+  "products": [],
+  "relationships": [],
+  "article_id": "a3ec6f687248",
+  "article_title": "UAE\u2019s Masdar Raising Green Finance On An \u2018Industrial Scale\u2019, Says CFO",
+  "extraction_date": "2026-02-07T13:13:33.187703"
+}

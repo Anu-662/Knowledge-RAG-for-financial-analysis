@@ -1,0 +1,39 @@
+{
+  "companies": [
+    {
+      "name": "SpaceX",
+      "ticker": "",
+      "role": "acquirer"
+    },
+    {
+      "name": "xAI",
+      "ticker": "",
+      "role": "acquired"
+    }
+  ],
+  "people": [
+    {
+      "name": "Elon Musk",
+      "role": "CEO",
+      "company": "SpaceX"
+    }
+  ],
+  "sectors": [
+    "Aerospace",
+    "Artificial Intelligence"
+  ],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [
+    {
+      "entity1": "SpaceX",
+      "relationship": "acquires",
+      "entity2": "xAI"
+    }
+  ],
+  "article_id": "a52ccec86cf3",
+  "article_title": "Elon Musk's SpaceX Is Acquiring xAI With Big Plans for Data Centers in Space",
+  "extraction_date": "2026-02-07T13:13:36.649256"
+}

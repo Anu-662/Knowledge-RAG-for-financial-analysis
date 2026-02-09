@@ -1,0 +1,22 @@
+{
+  "companies": [],
+  "people": [
+    {
+      "name": "Donald Trump",
+      "role": "President"
+    },
+    {
+      "name": "Brett Matsumoto",
+      "role": "nominated commissioner"
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "d05262881fae",
+  "article_title": "Trump taps a longtime agency economist as the next Bureau of Labor Statistics commissioner",
+  "extraction_date": "2026-02-07T13:18:08.081006"
+}

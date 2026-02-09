@@ -1,0 +1,25 @@
+{
+  "companies": [
+    {
+      "name": "Federal Reserve",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [
+    {
+      "name": "Donald Trump",
+      "role": "President",
+      "company": ""
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "57cf295ab102",
+  "article_title": "As Trump pressures Fed, Supreme Court weighs his bid to fire board governor Lisa Cook",
+  "extraction_date": "2026-02-07T13:04:32.539343"
+}

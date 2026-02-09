@@ -1,0 +1,25 @@
+{
+  "companies": [
+    {
+      "name": "SoFi",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [
+    {
+      "name": "Anthony Noto",
+      "role": "CEO",
+      "company": "SoFi"
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "895b5cd07c3f",
+  "article_title": "SoFi CEO says Trump's proposed credit card cap would drive people to personal loans, and that's good for SoFi",
+  "extraction_date": "2026-02-07T13:11:25.084291"
+}

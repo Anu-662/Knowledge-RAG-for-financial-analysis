@@ -1,0 +1,29 @@
+{
+  "companies": [],
+  "people": [
+    {
+      "name": "Anthony Scaramucci",
+      "role": "commentator",
+      "company": ""
+    },
+    {
+      "name": "Donald Trump",
+      "role": "President",
+      "company": ""
+    },
+    {
+      "name": "Stuart Stevens",
+      "role": "GOP strategist",
+      "company": ""
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "b4ee82ba20f7",
+  "article_title": "Anthony Scaramucci thinks Trump\u2019s \u2018hard-left\u2019 move to cap credit-card fees is because he\u2019s \u2018texting back and forth with Mayor Mamdani\u2019",
+  "extraction_date": "2026-02-07T13:15:04.152766"
+}

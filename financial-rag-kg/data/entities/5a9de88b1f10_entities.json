@@ -1,0 +1,43 @@
+{
+  "companies": [
+    {
+      "name": "Taiwan Semiconductor Manufacturing Company",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Nvidia",
+      "ticker": "",
+      "role": "competitor"
+    },
+    {
+      "name": "Intel",
+      "ticker": "",
+      "role": "related"
+    }
+  ],
+  "people": [],
+  "sectors": [
+    "Semiconductors",
+    "Technology"
+  ],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [
+    {
+      "entity1": "Taiwan Semiconductor Manufacturing Company",
+      "relationship": "stops_supply_to",
+      "entity2": "Nvidia"
+    },
+    {
+      "entity1": "Intel",
+      "relationship": "benefits_from",
+      "entity2": "Taiwan Semiconductor Manufacturing Company"
+    }
+  ],
+  "article_id": "5a9de88b1f10",
+  "article_title": "TSMC Says 'No More' To Nvidia: Why That Is Intel's Golden Ticket",
+  "extraction_date": "2026-02-07T13:04:40.644851"
+}

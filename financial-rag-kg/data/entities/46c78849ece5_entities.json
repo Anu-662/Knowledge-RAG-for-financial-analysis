@@ -1,0 +1,27 @@
+{
+  "companies": [],
+  "people": [
+    {
+      "name": "Donald Trump",
+      "role": "President",
+      "company": "United States"
+    }
+  ],
+  "sectors": [],
+  "events": [
+    {
+      "type": "withdrawal",
+      "description": "U.S. withdrawal from the climate treaty",
+      "date": null
+    }
+  ],
+  "metrics": [],
+  "locations": [
+    "United States"
+  ],
+  "products": [],
+  "relationships": [],
+  "article_id": "46c78849ece5",
+  "article_title": "The US Will Stand Alone Outside the World\u2019s Climate Treaty",
+  "extraction_date": "2026-02-07T13:03:14.226438"
+}

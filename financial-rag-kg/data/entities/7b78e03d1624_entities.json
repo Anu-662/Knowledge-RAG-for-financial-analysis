@@ -1,0 +1,44 @@
+{
+  "companies": [
+    {
+      "name": "JPMorgan Chase",
+      "ticker": "",
+      "role": "defendant"
+    }
+  ],
+  "people": [
+    {
+      "name": "Jamie Dimon",
+      "role": "CEO",
+      "company": "JPMorgan Chase"
+    },
+    {
+      "name": "Trump",
+      "role": "plaintiff",
+      "company": ""
+    }
+  ],
+  "metrics": [
+    {
+      "type": "damages",
+      "value": "5B",
+      "unit": "USD",
+      "period": null
+    }
+  ],
+  "relationships": [
+    {
+      "entity1": "Trump",
+      "relationship": "sues",
+      "entity2": "JPMorgan Chase"
+    },
+    {
+      "entity1": "Jamie Dimon",
+      "relationship": "CEO_of",
+      "entity2": "JPMorgan Chase"
+    }
+  ],
+  "article_id": "7b78e03d1624",
+  "article_title": "Trump sues JPMorgan Chase and CEO Jamie Dimon for $5B over alleged 'debanking'",
+  "extraction_date": "2026-02-07T13:10:54.264589"
+}

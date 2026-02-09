@@ -1,0 +1,44 @@
+{
+  "companies": [
+    {
+      "name": "JPMorgan",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [
+    {
+      "name": "Jamie Dimon",
+      "role": "CEO",
+      "company": "JPMorgan"
+    }
+  ],
+  "sectors": [],
+  "events": [
+    {
+      "type": "warning",
+      "description": "Trump's proposed 10% cap on credit card rates could harm 80% of Americans",
+      "date": null
+    }
+  ],
+  "metrics": [
+    {
+      "type": "interest_rate_cap",
+      "value": "10",
+      "unit": "percent"
+    },
+    {
+      "type": "percentage_affected",
+      "value": "80",
+      "unit": "percent"
+    }
+  ],
+  "locations": [
+    "Davos"
+  ],
+  "products": [],
+  "relationships": [],
+  "article_id": "71c5b9ac54b5",
+  "article_title": "JPMorgan CEO Jamie Dimon said Trump's proposed 10% cap on credit card rates would be an 'economic disaster'",
+  "extraction_date": "2026-02-07T13:08:23.109723"
+}

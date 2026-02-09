@@ -1,0 +1,27 @@
+{
+  "companies": [
+    {
+      "name": "AlixPartners",
+      "ticker": "",
+      "role": "consulting firm"
+    }
+  ],
+  "people": [
+    {
+      "name": "Michelle Miller",
+      "role": "Co-Head",
+      "company": "AlixPartners"
+    }
+  ],
+  "sectors": [
+    "Software"
+  ],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "bdb7575d538a",
+  "article_title": "A consultant who called the AI software collapse almost a year ago says no part of the business will escape 'unscathed'",
+  "extraction_date": "2026-02-07T13:15:54.720722"
+}

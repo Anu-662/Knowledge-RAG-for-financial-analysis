@@ -1,0 +1,41 @@
+{
+  "companies": [
+    {
+      "name": "Dow Jones Industrial Average",
+      "ticker": "",
+      "role": "index"
+    },
+    {
+      "name": "S&P 500",
+      "ticker": "",
+      "role": "index"
+    },
+    {
+      "name": "Nasdaq",
+      "ticker": "",
+      "role": "index"
+    }
+  ],
+  "people": [
+    {
+      "name": "Donald Trump",
+      "role": "politician",
+      "company": ""
+    }
+  ],
+  "sectors": [],
+  "events": [
+    {
+      "type": "market_selloff",
+      "description": "worst day since October",
+      "date": null
+    }
+  ],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "c916214de951",
+  "article_title": "Stock market today: Dow, S&P 500, Nasdaq futures rise after Trump's Greenland threats prompt worst day since October",
+  "extraction_date": "2026-02-07T13:16:43.856737"
+}

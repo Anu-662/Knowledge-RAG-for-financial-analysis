@@ -1,0 +1,31 @@
+{
+  "companies": [
+    {
+      "name": "XPeng",
+      "ticker": "XPEV",
+      "role": "primary subject"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [
+    {
+      "type": "IPO",
+      "description": "Unit IPO",
+      "date": null
+    }
+  ],
+  "metrics": [
+    {
+      "type": "stock_price_change",
+      "value": "9",
+      "unit": "percent"
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "3298085b1019",
+  "article_title": "XPeng (XPEV) Soars 9% on Unit IPO",
+  "extraction_date": "2026-02-07T13:01:53.639425"
+}

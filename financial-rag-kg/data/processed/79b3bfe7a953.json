@@ -1,0 +1,18 @@
+{
+  "id": "79b3bfe7a953",
+  "title": "US Carbon Pollution Rose In 2025, a Reversal From Prior Years",
+  "url": "https://news.slashdot.org/story/26/01/16/043253/us-carbon-pollution-rose-in-2025-a-reversal-from-prior-years",
+  "source": "Slashdot.org",
+  "published_at": "2026-01-16T07:00:00Z",
+  "sector": "General",
+  "sentiment": {
+    "polarity": 0.0,
+    "label": "neutral"
+  },
+  "full_text": "US Carbon Pollution Rose In 2025, a Reversal From Prior Years. In a reversal from previous years, U.S. carbon emissions rose 2.4% in 2025 compared with the year before. NBC News reports: The increase in greenhouse gas emissions is attributable to a combination of a cool winter, the explosive growth of data centers and cr\u2026. The increase in greenhouse gas emissions is attributable to a combination of a cool winter, the explosive growth of data centers and cryptocurrency mining and higher natural gas prices, according to \u2026 [+1602 chars]",
+  "chunks": [
+    "US Carbon Pollution Rose In 2025, a Reversal From Prior Years. In a reversal from previous years, U.S. carbon emissions rose 2.4% in 2025 compared with the year before. NBC News reports: The increase in greenhouse gas emissions is attributable to a combination of a cool winter, the explosive growth of data centers and cr\u2026. The increase in greenhouse gas emissions is attributable to a combination of a cool winter, the explosive growth of data centers and cryptocurrency mining and higher natural gas prices, according to \u2026 [+1602 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.593932"
+}

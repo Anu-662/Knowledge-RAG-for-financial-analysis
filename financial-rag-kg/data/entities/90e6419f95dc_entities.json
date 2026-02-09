@@ -1,0 +1,25 @@
+{
+  "companies": [
+    {
+      "name": "Tesla Inc.",
+      "ticker": "TSLA",
+      "role": "primary subject"
+    }
+  ],
+  "people": [
+    {
+      "name": "Elon Musk",
+      "role": "CEO",
+      "company": "Tesla Inc."
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "90e6419f95dc",
+  "article_title": "Elon Musk Says He Hasn't Sold Tesla Stock For Over Three Years: 'Bought A Billion Dollars...'",
+  "extraction_date": "2026-02-07T13:11:56.908928"
+}

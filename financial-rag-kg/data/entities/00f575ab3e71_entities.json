@@ -1,0 +1,25 @@
+{
+  "companies": [
+    {
+      "name": "Verizon",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [
+    {
+      "name": "Trump",
+      "role": "influencer",
+      "company": ""
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "00f575ab3e71",
+  "article_title": "Thanks To Trump, Verizon Immediately Starts Making It Harder To Switch Mobile Carriers",
+  "extraction_date": "2026-02-07T12:56:05.234192"
+}

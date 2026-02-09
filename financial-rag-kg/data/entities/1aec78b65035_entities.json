@@ -1,0 +1,34 @@
+{
+  "companies": [
+    {
+      "name": "JPMorgan",
+      "ticker": "",
+      "role": "reporting earnings"
+    },
+    {
+      "name": "Goldman Sachs",
+      "ticker": "",
+      "role": "reporting earnings"
+    }
+  ],
+  "people": [],
+  "sectors": [
+    "Finance"
+  ],
+  "events": [
+    {
+      "type": "earnings_report",
+      "description": "fourth-quarter earnings",
+      "date": null
+    }
+  ],
+  "metrics": [],
+  "locations": [
+    "Wall Street"
+  ],
+  "products": [],
+  "relationships": [],
+  "article_id": "1aec78b65035",
+  "article_title": "Competition is heating up on Wall Street. Here are 4 things to watch as they report earnings.",
+  "extraction_date": "2026-02-07T13:00:17.351078"
+}

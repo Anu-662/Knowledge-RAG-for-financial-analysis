@@ -1,0 +1,27 @@
+{
+  "companies": [
+    {
+      "name": "Warner Bros Television",
+      "ticker": "",
+      "role": "employer"
+    }
+  ],
+  "people": [
+    {
+      "name": "Paul B. Stager Jr",
+      "role": "SVP Legal Affairs",
+      "company": "Warner Bros Television"
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [
+    "Westwood"
+  ],
+  "products": [],
+  "relationships": [],
+  "article_id": "fcbc8ebe131a",
+  "article_title": "Paul B. Stager Jr Dies: Former SVP Legal Affairs At Warner Bros TV Was 96",
+  "extraction_date": "2026-02-07T13:20:48.023065"
+}

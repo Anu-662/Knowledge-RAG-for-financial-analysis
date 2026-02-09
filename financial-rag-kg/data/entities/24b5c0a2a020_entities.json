@@ -1,0 +1,29 @@
+{
+  "companies": [
+    {
+      "name": "Anthropic",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [
+    {
+      "name": "Dario Amodei",
+      "role": "CEO",
+      "company": "Anthropic"
+    }
+  ],
+  "sectors": [
+    "Legal Software"
+  ],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [
+    "AI tool"
+  ],
+  "relationships": [],
+  "article_id": "24b5c0a2a020",
+  "article_title": "Anthropic's latest AI tool was seen by the legal software industry as a 'shot across the bow.' Here's what it means.",
+  "extraction_date": "2026-02-07T13:00:48.775931"
+}

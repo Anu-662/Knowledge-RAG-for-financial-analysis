@@ -1,0 +1,30 @@
+{
+  "companies": [
+    {
+      "name": "Apple",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [],
+  "sectors": [
+    "Technology"
+  ],
+  "events": [],
+  "metrics": [
+    {
+      "type": "active_devices",
+      "value": "2.5 billion",
+      "unit": "",
+      "period": ""
+    }
+  ],
+  "locations": [],
+  "products": [
+    "iPhone"
+  ],
+  "relationships": [],
+  "article_id": "9be4d9c2c52b",
+  "article_title": "Apple reveals it has 2.5 billion active devices around the world",
+  "extraction_date": "2026-02-07T13:12:52.615399"
+}

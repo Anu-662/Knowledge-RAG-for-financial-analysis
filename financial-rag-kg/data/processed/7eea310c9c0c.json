@@ -1,0 +1,18 @@
+{
+  "id": "7eea310c9c0c",
+  "title": "Amazon CEO warns shoppers of major changes ahead",
+  "url": "https://www.thestreet.com/retail/amazon-ceo-warns-shoppers-of-major-changes-ahead-price-increase",
+  "source": "TheStreet",
+  "published_at": "2026-01-23T19:03:00Z",
+  "sector": "Consumer",
+  "sentiment": {
+    "polarity": 0.0,
+    "label": "neutral"
+  },
+  "full_text": "Amazon CEO warns shoppers of major changes ahead. For only so long can economic reality be denied in uncertain times until it becomes too obvious to continue postponing, especially when the consequences.... For only so long can economic reality be denied in uncertain times until it becomes too obvious to continue postponing, especially when the consequences affect millions of consumers. If it feels like\u2026 [+6136 chars]",
+  "chunks": [
+    "Amazon CEO warns shoppers of major changes ahead. For only so long can economic reality be denied in uncertain times until it becomes too obvious to continue postponing, especially when the consequences.... For only so long can economic reality be denied in uncertain times until it becomes too obvious to continue postponing, especially when the consequences affect millions of consumers. If it feels like\u2026 [+6136 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.586185"
+}

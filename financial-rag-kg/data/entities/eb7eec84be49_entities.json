@@ -1,0 +1,36 @@
+{
+  "companies": [
+    {
+      "name": "SpaceX",
+      "ticker": "",
+      "role": "acquirer"
+    },
+    {
+      "name": "xAI",
+      "ticker": "",
+      "role": "acquired"
+    }
+  ],
+  "people": [
+    {
+      "name": "Elon Musk",
+      "role": "CEO",
+      "company": "SpaceX"
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "stock_value",
+      "value": "14",
+      "unit": "USD"
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "eb7eec84be49",
+  "article_title": "The Rational, Irrational, and Elon-Brained Reasons Why SpaceX Acquired xAI",
+  "extraction_date": "2026-02-07T13:19:37.960632"
+}

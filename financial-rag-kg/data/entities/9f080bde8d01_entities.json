@@ -1,0 +1,43 @@
+{
+  "companies": [
+    {
+      "name": "Federal Reserve",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [
+    {
+      "name": "Jerome Powell",
+      "role": "Chairman",
+      "company": "Federal Reserve"
+    },
+    {
+      "name": "Trump",
+      "role": "former President",
+      "company": ""
+    }
+  ],
+  "sectors": [],
+  "events": [
+    {
+      "type": "meeting",
+      "description": "January Fed meeting",
+      "date": null
+    }
+  ],
+  "metrics": [
+    {
+      "type": "interest_rates",
+      "value": "steady",
+      "unit": "",
+      "period": "January 2024"
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "9f080bde8d01",
+  "article_title": "What to expect from January's Fed meeting as Powell faces looming DOJ probe",
+  "extraction_date": "2026-02-07T13:13:11.447229"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "8a280859e74f",
+  "title": "Trump says he wants government to buy $200B in mortgage bonds in a push to bring down mortgage rates",
+  "url": "https://finance.yahoo.com/news/trump-says-wants-government-buy-214700242.html",
+  "source": "Yahoo Entertainment",
+  "published_at": "2026-01-08T21:47:00Z",
+  "sector": "General",
+  "sentiment": {
+    "polarity": 0.0,
+    "label": "neutral"
+  },
+  "full_text": "Trump says he wants government to buy $200B in mortgage bonds in a push to bring down mortgage rates. President Donald Trump said on social media Thursday that he is directing the federal government to buy $200 billion in mortgage bonds, a move he said would .... WASHINGTON (AP) President Donald Trump said on social media Thursday that he is directing the federal government to buy $200 billion in mortgage bonds, a move he said would help reduce mortgage rates\u2026 [+4041 chars]",
+  "chunks": [
+    "Trump says he wants government to buy $200B in mortgage bonds in a push to bring down mortgage rates. President Donald Trump said on social media Thursday that he is directing the federal government to buy $200 billion in mortgage bonds, a move he said would .... WASHINGTON (AP) President Donald Trump said on social media Thursday that he is directing the federal government to buy $200 billion in mortgage bonds, a move he said would help reduce mortgage rates\u2026 [+4041 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.584745"
+}

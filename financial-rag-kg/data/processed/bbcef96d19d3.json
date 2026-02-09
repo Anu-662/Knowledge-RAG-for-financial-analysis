@@ -1,0 +1,18 @@
+{
+  "id": "bbcef96d19d3",
+  "title": "Kalshi Claims 'Extortion,' Then Recants in Feud Over User Losses",
+  "url": "https://slashdot.org/story/26/02/05/1019252/kalshi-claims-extortion-then-recants-in-feud-over-user-losses",
+  "source": "Slashdot.org",
+  "published_at": "2026-02-05T12:30:00Z",
+  "sector": "General",
+  "sentiment": {
+    "polarity": -1.0,
+    "label": "negative"
+  },
+  "full_text": "Kalshi Claims 'Extortion,' Then Recants in Feud Over User Losses. Kalshi, the largest U.S. prediction market, accused a small data startup called Juice Reel of \"extortion\" after a stock analyst used the company's transaction-level data to argue that prediction market users lose money faster than gamblers on traditional bett\u2026. Kalshi, the largest U.S. prediction market, accused a small data startup called Juice Reel of \"extortion\" after a stock analyst used the company's transaction-level data to argue that prediction mark\u2026 [+826 chars]",
+  "chunks": [
+    "Kalshi Claims 'Extortion,' Then Recants in Feud Over User Losses. Kalshi, the largest U.S. prediction market, accused a small data startup called Juice Reel of \"extortion\" after a stock analyst used the company's transaction-level data to argue that prediction market users lose money faster than gamblers on traditional bett\u2026. Kalshi, the largest U.S. prediction market, accused a small data startup called Juice Reel of \"extortion\" after a stock analyst used the company's transaction-level data to argue that prediction mark\u2026 [+826 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.579189"
+}

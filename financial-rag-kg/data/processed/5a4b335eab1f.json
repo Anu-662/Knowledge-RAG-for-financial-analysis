@@ -1,0 +1,18 @@
+{
+  "id": "5a4b335eab1f",
+  "title": "4x faster network file sync with rclone (vs rsync) (2025)",
+  "url": "https://www.jeffgeerling.com/blog/2025/4x-faster-network-file-sync-rclone-vs-rsync/",
+  "source": "Jeffgeerling.com",
+  "published_at": "2026-01-30T03:17:32Z",
+  "sector": "General",
+  "sentiment": {
+    "polarity": 0.0,
+    "label": "neutral"
+  },
+  "full_text": "4x faster network file sync with rclone (vs rsync) (2025). For the past couple years, I have transported my 'working set' of video and project data to and from work on an external Thunderbolt NVMe SSD. But it's always been slow when I do the sync. In a typical day, I may generate a new project folder with 500-1000 in\u2026. For the past couple years, I have transported my 'working set' of video and project data to and from work on an external Thunderbolt NVMe SSD. But it's always been slow when I do the sync. In a typi\u2026 [+4920 chars]",
+  "chunks": [
+    "4x faster network file sync with rclone (vs rsync) (2025). For the past couple years, I have transported my 'working set' of video and project data to and from work on an external Thunderbolt NVMe SSD. But it's always been slow when I do the sync. In a typical day, I may generate a new project folder with 500-1000 in\u2026. For the past couple years, I have transported my 'working set' of video and project data to and from work on an external Thunderbolt NVMe SSD. But it's always been slow when I do the sync. In a typi\u2026 [+4920 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.596627"
+}

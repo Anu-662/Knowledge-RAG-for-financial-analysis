@@ -1,0 +1,27 @@
+{
+  "companies": [
+    {
+      "name": "Netflix",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Warner Bros.",
+      "ticker": "",
+      "role": "acquired company"
+    }
+  ],
+  "people": [],
+  "sectors": [
+    "Entertainment",
+    "Streaming"
+  ],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "71c900a28c8c",
+  "article_title": "Senators Open Netflix Hearing With Serious Concerns Over Warner Bros. Deal: \u201cExtraordinary In Both Scale And Potential Consequence\u201d",
+  "extraction_date": "2026-02-07T13:08:33.276434"
+}

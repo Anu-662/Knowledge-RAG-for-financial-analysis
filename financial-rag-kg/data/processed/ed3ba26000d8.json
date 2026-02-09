@@ -1,0 +1,18 @@
+{
+  "id": "ed3ba26000d8",
+  "title": "White House faces questions over UAE royal's investment in Trump family's crypto firm",
+  "url": "https://abcnews.go.com/Politics/white-house-faces-questions-uae-royals-investment-trump/story?id=129774262",
+  "source": "ABC News",
+  "published_at": "2026-02-02T15:24:44Z",
+  "sector": "Finance",
+  "sentiment": {
+    "polarity": 0.0,
+    "label": "neutral"
+  },
+  "full_text": "White House faces questions over UAE royal's investment in Trump family's crypto firm. President Donald Trump's administration is under growing pressure from congressional Democrats related to conflict of interest concerns over the Trump family's business.. President Donald Trump's cryptocurrency firm, World Liberty Financial, sold a $500 million stake to a member of the Emirati royal family shortly before his inauguration last January, The Wall Street \u2026 [+5496 chars]",
+  "chunks": [
+    "White House faces questions over UAE royal's investment in Trump family's crypto firm. President Donald Trump's administration is under growing pressure from congressional Democrats related to conflict of interest concerns over the Trump family's business.. President Donald Trump's cryptocurrency firm, World Liberty Financial, sold a $500 million stake to a member of the Emirati royal family shortly before his inauguration last January, The Wall Street \u2026 [+5496 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.594593"
+}

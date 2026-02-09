@@ -1,0 +1,30 @@
+{
+  "companies": [
+    {
+      "name": "Berkshire Hathaway",
+      "ticker": "BRK.A",
+      "role": "primary subject"
+    }
+  ],
+  "people": [
+    {
+      "name": "Warren Buffett",
+      "role": "CEO",
+      "company": "Berkshire Hathaway"
+    },
+    {
+      "name": "Greg Abel",
+      "role": "successor",
+      "company": "Berkshire Hathaway"
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "681172decf65",
+  "article_title": "Is Warren Buffett\u2019s 1994 Berkshire Hathaway Prediction Finally Coming True? He Warns \u2018A Fat Wallet is the Enemy of Superior Investment Results\u2019",
+  "extraction_date": "2026-02-07T13:05:45.419858"
+}

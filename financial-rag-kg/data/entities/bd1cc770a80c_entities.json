@@ -1,0 +1,40 @@
+{
+  "companies": [
+    {
+      "name": "Apple",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [
+    {
+      "type": "earnings_report",
+      "description": "Q1 2026 earnings report",
+      "date": null
+    }
+  ],
+  "metrics": [
+    {
+      "type": "revenue",
+      "value": "85.3B",
+      "unit": "USD",
+      "period": "Q1 2026"
+    },
+    {
+      "type": "revenue",
+      "value": "143.8B",
+      "unit": "USD",
+      "period": "Q1 2026"
+    }
+  ],
+  "locations": [],
+  "products": [
+    "iPhone"
+  ],
+  "relationships": [],
+  "article_id": "bd1cc770a80c",
+  "article_title": "Apple just had a record-breaking iPhone quarter",
+  "extraction_date": "2026-02-07T13:15:48.972587"
+}

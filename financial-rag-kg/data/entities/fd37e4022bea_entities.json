@@ -1,0 +1,34 @@
+{
+  "companies": [],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "price",
+      "value": "1100",
+      "unit": "USD",
+      "context": "price of 50-inch TV in 2001"
+    },
+    {
+      "type": "price",
+      "value": "200",
+      "unit": "USD",
+      "context": "current price of 50-inch TV"
+    },
+    {
+      "type": "price_drop_percentage",
+      "value": "90",
+      "unit": "percent",
+      "context": "drop in price per area-pixel over 25 years"
+    }
+  ],
+  "locations": [],
+  "products": [
+    "50-inch TV"
+  ],
+  "relationships": [],
+  "article_id": "fd37e4022bea",
+  "article_title": "How Did TVs Get So Cheap?",
+  "extraction_date": "2026-02-07T13:20:52.844194"
+}

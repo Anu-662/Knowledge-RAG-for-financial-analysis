@@ -1,0 +1,42 @@
+{
+  "companies": [
+    {
+      "name": "ARK Invest",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Nvidia",
+      "ticker": "",
+      "role": "subject"
+    },
+    {
+      "name": "Bitcoin",
+      "ticker": "",
+      "role": "subject"
+    }
+  ],
+  "people": [
+    {
+      "name": "Cathie Wood",
+      "role": "CEO",
+      "company": "ARK Invest"
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "price_prediction",
+      "value": "800000",
+      "unit": "USD",
+      "period": "by 2030"
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "dfefe13ca403",
+  "article_title": "Cathie Wood\u2019s ARK Invest Makes Bold Bitcoin and Nvidia Prediction",
+  "extraction_date": "2026-02-07T13:19:13.893269"
+}

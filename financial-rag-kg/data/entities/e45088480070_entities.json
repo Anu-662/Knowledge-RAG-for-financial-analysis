@@ -1,0 +1,30 @@
+{
+  "companies": [
+    {
+      "name": "NVIDIA Corporation",
+      "ticker": "NVDA",
+      "role": "primary subject"
+    },
+    {
+      "name": "Mizuho",
+      "ticker": "",
+      "role": "analyst"
+    }
+  ],
+  "people": [
+    {
+      "name": "Vijay Rakesh",
+      "role": "analyst",
+      "company": "Mizuho"
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "e45088480070",
+  "article_title": "Mizuho Raises PT on NVIDIA (NVDA) Stock",
+  "extraction_date": "2026-02-07T13:19:20.026972"
+}

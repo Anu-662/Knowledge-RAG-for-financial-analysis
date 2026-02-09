@@ -1,0 +1,24 @@
+{
+  "companies": [
+    {
+      "name": "Vanguard",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "S&P 500",
+      "ticker": "",
+      "role": "benchmark"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "74308451abb2",
+  "article_title": "This Vanguard ETF Has Doubled the S&P 500's Returns Since the Start of 2025. Is It a Buy Now?",
+  "extraction_date": "2026-02-07T13:09:52.777080"
+}

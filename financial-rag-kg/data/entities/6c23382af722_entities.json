@@ -1,0 +1,23 @@
+{
+  "companies": [
+    {
+      "name": "Uber",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [
+    "Dallas"
+  ],
+  "products": [
+    "robotaxi"
+  ],
+  "relationships": [],
+  "article_id": "6c23382af722",
+  "article_title": "Uber Creates \u2018AV Labs\u2019 To Leverage Data For Future Robotaxi Routes",
+  "extraction_date": "2026-02-07T13:06:02.607311"
+}

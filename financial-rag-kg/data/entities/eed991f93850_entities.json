@@ -1,0 +1,21 @@
+{
+  "companies": [
+    {
+      "name": "Google",
+      "ticker": "",
+      "role": "subject"
+    }
+  ],
+  "people": [],
+  "sectors": [
+    "Technology"
+  ],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "eed991f93850",
+  "article_title": "Stock market today: S&P 500, Nasdaq fall for 2nd day as tech slides on AI worries with Google earnings ahead",
+  "extraction_date": "2026-02-07T13:19:47.469265"
+}

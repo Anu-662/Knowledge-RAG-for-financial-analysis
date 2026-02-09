@@ -1,0 +1,18 @@
+{
+  "id": "b8d898ebfd36",
+  "title": "Trump promised to cut energy bills in half. One year later, has he delivered?",
+  "url": "https://www.npr.org/2026/01/20/nx-s1-5670378/trump-energy-promises-one-year",
+  "source": "NPR",
+  "published_at": "2026-01-20T10:00:00Z",
+  "sector": "Energy",
+  "sentiment": {
+    "polarity": 0.0,
+    "label": "neutral"
+  },
+  "full_text": "Trump promised to cut energy bills in half. One year later, has he delivered?. Cheap gasoline, yes. Drill, baby, drill? Not so much. And electricity bills are going up, not down.. On the campaign trail, President Trump promised to cut Americans' energy bills in half cheaper gasoline, cheaper electricity. He also said he'd \"unleash\" American energy production, often repeati\u2026 [+9502 chars]",
+  "chunks": [
+    "Trump promised to cut energy bills in half. One year later, has he delivered?. Cheap gasoline, yes. Drill, baby, drill? Not so much. And electricity bills are going up, not down.. On the campaign trail, President Trump promised to cut Americans' energy bills in half cheaper gasoline, cheaper electricity. He also said he'd \"unleash\" American energy production, often repeati\u2026 [+9502 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.601087"
+}

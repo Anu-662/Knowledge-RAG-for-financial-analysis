@@ -1,0 +1,30 @@
+{
+  "companies": [],
+  "people": [],
+  "sectors": [
+    "Renewable Energy"
+  ],
+  "events": [],
+  "metrics": [
+    {
+      "type": "net_new_capacity",
+      "value": "99.2",
+      "unit": "percent",
+      "period": "2026"
+    },
+    {
+      "type": "solar_growth",
+      "value": null,
+      "unit": null,
+      "period": null
+    }
+  ],
+  "locations": [
+    "United States"
+  ],
+  "products": [],
+  "relationships": [],
+  "article_id": "d047e3dcbd34",
+  "article_title": "99% of New US Will Be Green in 2026",
+  "extraction_date": "2026-02-07T13:18:06.775803"
+}

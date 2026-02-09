@@ -1,0 +1,33 @@
+{
+  "companies": [
+    {
+      "name": "Walmart",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "market_valuation",
+      "value": "1",
+      "unit": "trillion USD"
+    },
+    {
+      "type": "stock_price_change",
+      "value": "3",
+      "unit": "percent"
+    }
+  ],
+  "locations": [
+    "Little Rock",
+    "Arkansas"
+  ],
+  "products": [],
+  "relationships": [],
+  "article_id": "531876b38264",
+  "article_title": "Walmart cracks into the $1 trillion club",
+  "extraction_date": "2026-02-07T13:04:14.651740"
+}

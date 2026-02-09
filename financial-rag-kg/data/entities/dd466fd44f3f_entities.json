@@ -1,0 +1,34 @@
+{
+  "companies": [
+    {
+      "name": "Apple",
+      "ticker": "",
+      "role": "podcast platform"
+    },
+    {
+      "name": "Amazon",
+      "ticker": "",
+      "role": "podcast platform"
+    },
+    {
+      "name": "Spotify",
+      "ticker": "",
+      "role": "podcast platform"
+    },
+    {
+      "name": "YouTube",
+      "ticker": "",
+      "role": "podcast platform"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "dd466fd44f3f",
+  "article_title": "Why this veteran capitalist is more bullish on robotaxis than humanoids",
+  "extraction_date": "2026-02-07T13:18:58.674708"
+}

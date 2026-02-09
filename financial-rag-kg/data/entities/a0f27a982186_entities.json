@@ -1,0 +1,61 @@
+{
+  "companies": [
+    {
+      "name": "Cerebras Systems",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "OpenAI",
+      "ticker": "",
+      "role": "partner"
+    },
+    {
+      "name": "G42",
+      "ticker": "",
+      "role": "customer"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "deal_value",
+      "value": "10",
+      "unit": "billion USD",
+      "period": "2028"
+    },
+    {
+      "type": "compute_capacity",
+      "value": "750",
+      "unit": "megawatts",
+      "period": "through 2028"
+    },
+    {
+      "type": "revenue_percentage",
+      "value": "87",
+      "unit": "percent",
+      "period": "first half of 2024"
+    }
+  ],
+  "locations": [
+    "United Arab Emirates"
+  ],
+  "products": [],
+  "relationships": [
+    {
+      "entity1": "Cerebras Systems",
+      "relationship": "supplies_to",
+      "entity2": "OpenAI"
+    },
+    {
+      "entity1": "Cerebras Systems",
+      "relationship": "accounts_for",
+      "entity2": "G42"
+    }
+  ],
+  "article_id": "a0f27a982186",
+  "article_title": "Cerebras Scores OpenAI Deal Worth Over $10 Billion",
+  "extraction_date": "2026-02-07T13:13:18.858738"
+}

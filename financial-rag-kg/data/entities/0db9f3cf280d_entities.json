@@ -1,0 +1,41 @@
+{
+  "companies": [
+    {
+      "name": "Saks Global",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Saks Fifth Avenue",
+      "ticker": "",
+      "role": "subsidiary"
+    },
+    {
+      "name": "Neiman Marcus",
+      "ticker": "",
+      "role": "subsidiary"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [
+    {
+      "type": "bankruptcy",
+      "description": "expected to file for bankruptcy protection",
+      "date": null
+    }
+  ],
+  "metrics": [],
+  "locations": [
+    "Chicago",
+    "Illinois"
+  ],
+  "products": [
+    "Balenciaga",
+    "Burberry"
+  ],
+  "relationships": [],
+  "article_id": "0db9f3cf280d",
+  "article_title": "'Out of stock': What went wrong at luxury retailer Saks?",
+  "extraction_date": "2026-02-07T12:59:22.562007"
+}

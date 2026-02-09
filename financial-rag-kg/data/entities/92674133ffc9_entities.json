@@ -1,0 +1,25 @@
+{
+  "companies": [
+    {
+      "name": "Pinterest",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [
+    {
+      "type": "layoff",
+      "description": "Pinterest announced layoffs of about 15% of its staff",
+      "date": null
+    }
+  ],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "92674133ffc9",
+  "article_title": "Pinterest Reportedly Fires Employees Who Built a Tool to Track Layoffs",
+  "extraction_date": "2026-02-07T13:12:11.789758"
+}

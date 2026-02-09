@@ -1,0 +1,43 @@
+{
+  "companies": [
+    {
+      "name": "Walmart",
+      "ticker": "WMT",
+      "role": "primary subject"
+    }
+  ],
+  "people": [
+    {
+      "name": "Michael Lasser",
+      "role": "analyst",
+      "company": "UBS"
+    }
+  ],
+  "sectors": [
+    "Retail"
+  ],
+  "events": [],
+  "metrics": [
+    {
+      "type": "market_cap",
+      "value": "900 billion",
+      "unit": "USD"
+    },
+    {
+      "type": "market_cap_target",
+      "value": "1 trillion",
+      "unit": "USD"
+    },
+    {
+      "type": "stock_price_change",
+      "value": "11",
+      "unit": "percent"
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "6c13b1282a28",
+  "article_title": "Walmart's journey to $1T: 2 changes that have boosted the stock",
+  "extraction_date": "2026-02-07T13:05:59.665371"
+}

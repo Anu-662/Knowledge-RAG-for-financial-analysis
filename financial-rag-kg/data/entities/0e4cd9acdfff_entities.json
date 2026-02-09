@@ -1,0 +1,29 @@
+{
+  "companies": [],
+  "people": [
+    {
+      "name": "Bharath Rajeswaran",
+      "role": "author",
+      "company": "Reuters"
+    },
+    {
+      "name": "Sai Ishwarbharath B",
+      "role": "author",
+      "company": "Reuters"
+    }
+  ],
+  "sectors": [
+    "Information Technology"
+  ],
+  "events": [],
+  "metrics": [],
+  "locations": [
+    "India",
+    "U.S."
+  ],
+  "products": [],
+  "relationships": [],
+  "article_id": "0e4cd9acdfff",
+  "article_title": "Indian top IT firms set for another tepid quarter on weak US demand, client spending",
+  "extraction_date": "2026-02-07T12:59:25.423448"
+}

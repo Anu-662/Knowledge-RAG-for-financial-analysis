@@ -1,0 +1,18 @@
+{
+  "id": "abf77284400d",
+  "title": "'No Reasons To Own': Software Stocks Sink on Fear of New AI Tool",
+  "url": "https://tech.slashdot.org/story/26/01/22/0946226/no-reasons-to-own-software-stocks-sink-on-fear-of-new-ai-tool",
+  "source": "Slashdot.org",
+  "published_at": "2026-01-22T14:00:00Z",
+  "sector": "Technology",
+  "sentiment": {
+    "polarity": 1.0,
+    "label": "positive"
+  },
+  "full_text": "'No Reasons To Own': Software Stocks Sink on Fear of New AI Tool. The new year was supposed to bring opportunities for beaten-down software stocks. Instead, the group is off to its worst start in years. From a report: The release of a new artificial intelligence tool from startup Anthropic on Jan. 12 rekindled fears about d\u2026. The release of a new artificial intelligence tool from startup Anthropic on Jan. 12 rekindled fears about disruption that weighed on software makers in 2025.TurboTax owner Intuit tumbled 16% last wee\u2026 [+873 chars]",
+  "chunks": [
+    "'No Reasons To Own': Software Stocks Sink on Fear of New AI Tool. The new year was supposed to bring opportunities for beaten-down software stocks. Instead, the group is off to its worst start in years. From a report: The release of a new artificial intelligence tool from startup Anthropic on Jan. 12 rekindled fears about d\u2026. The release of a new artificial intelligence tool from startup Anthropic on Jan. 12 rekindled fears about disruption that weighed on software makers in 2025.TurboTax owner Intuit tumbled 16% last wee\u2026 [+873 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.596948"
+}

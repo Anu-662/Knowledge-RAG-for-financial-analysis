@@ -1,0 +1,31 @@
+{
+  "companies": [
+    {
+      "name": "Amazon",
+      "ticker": "AMZN",
+      "role": "investor"
+    },
+    {
+      "name": "OpenAI",
+      "ticker": "OPAI.PVT",
+      "role": "subject"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "investment",
+      "value": "50",
+      "unit": "billion USD",
+      "period": null
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "44639c8dff04",
+  "article_title": "Why OpenAI needs to raise equity, and 'a lot of it'",
+  "extraction_date": "2026-02-07T13:03:02.483900"
+}

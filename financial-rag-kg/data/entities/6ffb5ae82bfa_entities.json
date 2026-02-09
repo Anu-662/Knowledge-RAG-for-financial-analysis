@@ -1,0 +1,34 @@
+{
+  "companies": [],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "average_401k_balance_40s",
+      "value": "407675",
+      "unit": "USD"
+    },
+    {
+      "type": "median_401k_balance_40s",
+      "value": "162143",
+      "unit": "USD"
+    },
+    {
+      "type": "average_401k_balance_50s",
+      "value": "622566",
+      "unit": "USD"
+    },
+    {
+      "type": "median_401k_balance_50s",
+      "value": "251758",
+      "unit": "USD"
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "6ffb5ae82bfa",
+  "article_title": "401(k) Balances for People in Their 40s and 50s: How Do You Compare to the Average?",
+  "extraction_date": "2026-02-07T13:07:59.720900"
+}

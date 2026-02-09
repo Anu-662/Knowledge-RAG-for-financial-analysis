@@ -1,0 +1,24 @@
+{
+  "companies": [],
+  "people": [
+    {
+      "name": "Stephen Hawking",
+      "role": "author",
+      "company": ""
+    },
+    {
+      "name": "Maria Mitchell",
+      "role": "astronomer",
+      "company": ""
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "c6c3ccf376bf",
+  "article_title": "Is There a God? Stephen Hawking Gives the Definitive Answer to the Eternal Question",
+  "extraction_date": "2026-02-07T13:16:37.613547"
+}

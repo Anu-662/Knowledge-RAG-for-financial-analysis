@@ -1,0 +1,25 @@
+{
+  "companies": [],
+  "people": [
+    {
+      "name": "Ant\u00f3nio Guterres",
+      "role": "secretary-general",
+      "company": "United Nations"
+    }
+  ],
+  "sectors": [],
+  "events": [
+    {
+      "type": "acknowledgment",
+      "description": "The totemic goal of the Paris climate agreement is going to be missed",
+      "date": "2025-10-28"
+    }
+  ],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "adaa86187238",
+  "article_title": "As we breach 1.5 \u00b0C, we must replace temperature limits with clean-energy targets",
+  "extraction_date": "2026-02-07T13:14:19.582017"
+}

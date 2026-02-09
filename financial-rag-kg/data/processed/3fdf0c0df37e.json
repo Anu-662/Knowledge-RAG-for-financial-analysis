@@ -1,0 +1,18 @@
+{
+  "id": "3fdf0c0df37e",
+  "title": "Musk announces record merger",
+  "url": "https://www.rt.com/business/631907-musk-merger-spacex-xai/",
+  "source": "RT",
+  "published_at": "2026-02-03T14:04:24Z",
+  "sector": "General",
+  "sentiment": {
+    "polarity": 0.0,
+    "label": "neutral"
+  },
+  "full_text": "Musk announces record merger. Elon Musk is combining SpaceX and xAI in a merger that reportedly values the enlarged company at $1.25 trillion Read Full Article at RT.com. Elon Musk\u2019s SpaceX has completed the acquisition of his artificial intelligence startup xAI, the billionaire entrepreneur has announced. At about $1.25 trillion, it would be the largest corporate mer\u2026 [+1722 chars]",
+  "chunks": [
+    "Musk announces record merger. Elon Musk is combining SpaceX and xAI in a merger that reportedly values the enlarged company at $1.25 trillion Read Full Article at RT.com. Elon Musk\u2019s SpaceX has completed the acquisition of his artificial intelligence startup xAI, the billionaire entrepreneur has announced. At about $1.25 trillion, it would be the largest corporate mer\u2026 [+1722 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.590724"
+}

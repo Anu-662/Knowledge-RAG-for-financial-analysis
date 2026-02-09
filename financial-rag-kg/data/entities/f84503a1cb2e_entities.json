@@ -1,0 +1,28 @@
+{
+  "companies": [],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "inflation_rate",
+      "value": "2.7",
+      "unit": "percent",
+      "period": "December 2025"
+    },
+    {
+      "type": "consumer_price_index_increase",
+      "value": "2.7",
+      "unit": "percent",
+      "period": "December 2025"
+    }
+  ],
+  "locations": [
+    "US"
+  ],
+  "products": [],
+  "relationships": [],
+  "article_id": "f84503a1cb2e",
+  "article_title": "The US ended 2025 with steady but elevated inflation in December",
+  "extraction_date": "2026-02-07T13:20:21.430290"
+}

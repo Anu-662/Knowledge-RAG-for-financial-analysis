@@ -1,0 +1,32 @@
+{
+  "companies": [
+    {
+      "name": "Warner Bros.",
+      "ticker": "",
+      "role": "subject"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "lead_roles",
+      "value": "39",
+      "unit": "count",
+      "period": "2025"
+    },
+    {
+      "type": "top_grossing_films",
+      "value": "100",
+      "unit": "count",
+      "period": "2025"
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "6a108d926bcf",
+  "article_title": "Lead Roles For Women In Top Films Hit 7-Year Low In 2025, USC Study Finds; Calls One WB Merger Possibility \u201cHighly Detrimental\u201d To Inclusion",
+  "extraction_date": "2026-02-07T13:05:52.073317"
+}

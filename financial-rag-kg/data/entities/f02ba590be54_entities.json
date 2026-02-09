@@ -1,0 +1,54 @@
+{
+  "companies": [
+    {
+      "name": "Google LLC",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Alphabet Inc.",
+      "ticker": "",
+      "role": "parent company"
+    }
+  ],
+  "people": [
+    {
+      "name": "Sundar Pichai",
+      "role": "CEO",
+      "company": "Alphabet Inc."
+    }
+  ],
+  "sectors": [
+    "Technology",
+    "Artificial Intelligence"
+  ],
+  "events": [
+    {
+      "type": "earnings_call",
+      "description": "fourth-quarter earnings call",
+      "date": null
+    }
+  ],
+  "metrics": [
+    {
+      "type": "monthly_active_users",
+      "value": "750 million",
+      "unit": "",
+      "period": ""
+    },
+    {
+      "type": "new_active_users",
+      "value": "100 million",
+      "unit": "",
+      "period": ""
+    }
+  ],
+  "locations": [],
+  "products": [
+    "Gemini App"
+  ],
+  "relationships": [],
+  "article_id": "f02ba590be54",
+  "article_title": "Google\u2019s Gemini 3 Release Won Over More Than 100 Million New Active Users",
+  "extraction_date": "2026-02-07T13:19:51.905768"
+}

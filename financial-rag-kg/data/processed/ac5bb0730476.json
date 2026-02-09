@@ -1,0 +1,18 @@
+{
+  "id": "ac5bb0730476",
+  "title": "Vast seagrass meadows will shield coastline",
+  "url": "https://www.bbc.com/news/articles/ce3k6vrxwp0o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+  "source": "BBC News",
+  "published_at": "2026-02-04T07:43:36Z",
+  "sector": "General",
+  "sentiment": {
+    "polarity": 0.0,
+    "label": "neutral"
+  },
+  "full_text": "Vast seagrass meadows will shield coastline. Trials to restore the saltwater plant to the Humber Estuary are hugely encouraging, experts say.. A project to restore vast meadows of a saltwater plant to the Humber Estuary has reached a major milestone, experts say. Seagrass is one of the most powerful natural tools for tackling climate chang\u2026 [+1756 chars]",
+  "chunks": [
+    "Vast seagrass meadows will shield coastline. Trials to restore the saltwater plant to the Humber Estuary are hugely encouraging, experts say.. A project to restore vast meadows of a saltwater plant to the Humber Estuary has reached a major milestone, experts say. Seagrass is one of the most powerful natural tools for tackling climate chang\u2026 [+1756 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.601400"
+}

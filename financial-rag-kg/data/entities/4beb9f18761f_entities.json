@@ -1,0 +1,50 @@
+{
+  "companies": [
+    {
+      "name": "Ampol Limited",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "EG Australia",
+      "ticker": "",
+      "role": "acquisition target"
+    },
+    {
+      "name": "Australian Competition and Consumer Commission",
+      "ticker": "",
+      "role": "regulatory body"
+    }
+  ],
+  "people": [],
+  "sectors": [
+    "Fuel Retail"
+  ],
+  "events": [
+    {
+      "type": "merger_review",
+      "description": "ACCC reviews Ampol's proposed acquisition of EG Australia",
+      "date": null
+    }
+  ],
+  "metrics": [],
+  "locations": [
+    "Australia"
+  ],
+  "products": [],
+  "relationships": [
+    {
+      "entity1": "Ampol Limited",
+      "relationship": "proposes_acquisition_of",
+      "entity2": "EG Australia"
+    },
+    {
+      "entity1": "Australian Competition and Consumer Commission",
+      "relationship": "reviews",
+      "entity2": "Ampol Limited"
+    }
+  ],
+  "article_id": "4beb9f18761f",
+  "article_title": "Australian fuel retail market under spotlight as ACCC reviews Ampol bid",
+  "extraction_date": "2026-02-07T13:03:46.472336"
+}

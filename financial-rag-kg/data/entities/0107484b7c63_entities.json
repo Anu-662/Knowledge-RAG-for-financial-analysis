@@ -1,0 +1,39 @@
+{
+  "companies": [
+    {
+      "name": "Verizon",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Frontier",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "price_per_line",
+      "value": "20",
+      "unit": "USD",
+      "period": null
+    },
+    {
+      "type": "free_months_of_fiber_internet",
+      "value": "6",
+      "unit": "months",
+      "period": null
+    }
+  ],
+  "locations": [],
+  "products": [
+    "iPhone 17"
+  ],
+  "relationships": [],
+  "article_id": "0107484b7c63",
+  "article_title": "Verizon and Frontier just merged \u2013 here's what you're getting out of it",
+  "extraction_date": "2026-02-07T12:56:07.391916"
+}

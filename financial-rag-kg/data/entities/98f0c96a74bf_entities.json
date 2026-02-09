@@ -1,0 +1,19 @@
+{
+  "companies": [],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "annual_retirement_income",
+      "value": "85000",
+      "unit": "USD"
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "98f0c96a74bf",
+  "article_title": "That $85,000 Retirement Only Looks Comfortable Until You Hit Year 20",
+  "extraction_date": "2026-02-07T13:12:38.975280"
+}

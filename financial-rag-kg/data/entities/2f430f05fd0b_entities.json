@@ -1,0 +1,23 @@
+{
+  "companies": [],
+  "people": [],
+  "sectors": [
+    "Real Estate",
+    "Cryptocurrency"
+  ],
+  "events": [],
+  "metrics": [
+    {
+      "type": "wealth_percentage",
+      "value": "79",
+      "unit": "percent",
+      "context": "tied to real estate"
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "2f430f05fd0b",
+  "article_title": "Trump family crypto accumulation",
+  "extraction_date": "2026-02-07T13:01:35.664658"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "557febe751bf",
+  "title": "DOJ subpoenas Federal Reserve in escalating pressure campaign",
+  "url": "https://www.npr.org/2026/01/11/nx-s1-5674034/fed-powell-subpoena-doj-building-renovation",
+  "source": "NPR",
+  "published_at": "2026-01-12T02:01:26Z",
+  "sector": "Finance",
+  "sentiment": {
+    "polarity": 0.0,
+    "label": "neutral"
+  },
+  "full_text": "DOJ subpoenas Federal Reserve in escalating pressure campaign. The Justice Department has subpoenaed the Fed over chair Jerome Powell's testimony over the central bank's headquarters renovation. Powell calls it part of a pressure campaign over interest rates.. The Justice Department has subpoenaed the Federal Reserve for information on the central bank's headquarters renovation, according to a video statement released by Fed chairman Jerome Powell on Sunda\u2026 [+2130 chars]",
+  "chunks": [
+    "DOJ subpoenas Federal Reserve in escalating pressure campaign. The Justice Department has subpoenaed the Fed over chair Jerome Powell's testimony over the central bank's headquarters renovation. Powell calls it part of a pressure campaign over interest rates.. The Justice Department has subpoenaed the Federal Reserve for information on the central bank's headquarters renovation, according to a video statement released by Fed chairman Jerome Powell on Sunda\u2026 [+2130 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.582281"
+}

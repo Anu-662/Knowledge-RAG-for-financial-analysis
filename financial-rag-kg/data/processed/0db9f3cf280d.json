@@ -1,0 +1,18 @@
+{
+  "id": "0db9f3cf280d",
+  "title": "'Out of stock': What went wrong at luxury retailer Saks?",
+  "url": "https://www.bbc.com/news/articles/czdq1z73pv9o",
+  "source": "BBC News",
+  "published_at": "2026-01-10T03:13:16Z",
+  "sector": "Finance",
+  "sentiment": {
+    "polarity": 0.0,
+    "label": "neutral"
+  },
+  "full_text": "'Out of stock': What went wrong at luxury retailer Saks?. Saks Global, which owns Saks Fifth Avenue and Neiman Marcus, is expected to imminently file for bankruptcy protection, leaving questions about the retailer's future.. Danielle KayeBusiness reporter Shoppers leave a Saks Fifth Avenue store on December 30, 2025 in Chicago, Illinois. On a recent January morning, tourists admired the rows of Balenciaga and Burberry \u2026 [+6905 chars]",
+  "chunks": [
+    "'Out of stock': What went wrong at luxury retailer Saks?. Saks Global, which owns Saks Fifth Avenue and Neiman Marcus, is expected to imminently file for bankruptcy protection, leaving questions about the retailer's future.. Danielle KayeBusiness reporter Shoppers leave a Saks Fifth Avenue store on December 30, 2025 in Chicago, Illinois. On a recent January morning, tourists admired the rows of Balenciaga and Burberry \u2026 [+6905 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.589216"
+}

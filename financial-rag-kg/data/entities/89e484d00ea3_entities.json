@@ -1,0 +1,36 @@
+{
+  "companies": [
+    {
+      "name": "Netflix",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Warner Bros. Discovery",
+      "ticker": "",
+      "role": "acquired entity"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "acquisition_bid",
+      "value": "82.7",
+      "unit": "billion USD"
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [
+    {
+      "entity1": "Netflix",
+      "relationship": "acquires",
+      "entity2": "Warner Bros. Discovery"
+    }
+  ],
+  "article_id": "89e484d00ea3",
+  "article_title": "Netflix revises Warner Bros. bid to an all-cash offer",
+  "extraction_date": "2026-02-07T13:11:30.840922"
+}

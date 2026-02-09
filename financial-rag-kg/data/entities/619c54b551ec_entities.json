@@ -1,0 +1,25 @@
+{
+  "companies": [
+    {
+      "name": "Tesla",
+      "ticker": "TSLA",
+      "role": "primary subject"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [
+    {
+      "type": "earnings_report",
+      "description": "fourth quarter earnings",
+      "date": "2024-01-28"
+    }
+  ],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "619c54b551ec",
+  "article_title": "Tesla is a 'believe or not' religion, not a stock based on fundamentals: Robinhood exec",
+  "extraction_date": "2026-02-07T13:05:14.616031"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "581dd3b82253",
+  "title": "Moscow likely behind wiper attack on Poland\u2019s power grid, experts say",
+  "url": "https://www.theregister.com/2026/01/26/moscow_likely_behind_wiper_attack/",
+  "source": "Theregister.com",
+  "published_at": "2026-01-26T11:54:44Z",
+  "sector": "General",
+  "sentiment": {
+    "polarity": 0.0,
+    "label": "neutral"
+  },
+  "full_text": "Moscow likely behind wiper attack on Poland\u2019s power grid, experts say. Cyber sleuths believe Sandworm up to its old tricks with a brand-new sabotage toy Russia was probably behind the failed attempts to compromise the systems of Poland's power companies in December, cybersecurity researchers claim.\u2026. Russia was probably behind the failed attempts to compromise the systems of Poland's power companies in December, cybersecurity researchers claim. ESET attributed the attack with \"medium\" confidence\u2026 [+2809 chars]",
+  "chunks": [
+    "Moscow likely behind wiper attack on Poland\u2019s power grid, experts say. Cyber sleuths believe Sandworm up to its old tricks with a brand-new sabotage toy Russia was probably behind the failed attempts to compromise the systems of Poland's power companies in December, cybersecurity researchers claim.\u2026. Russia was probably behind the failed attempts to compromise the systems of Poland's power companies in December, cybersecurity researchers claim. ESET attributed the attack with \"medium\" confidence\u2026 [+2809 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.602595"
+}

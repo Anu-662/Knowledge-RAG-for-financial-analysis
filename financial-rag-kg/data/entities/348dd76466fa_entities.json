@@ -1,0 +1,27 @@
+{
+  "companies": [
+    {
+      "name": "Nintendo",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [
+    {
+      "type": "earnings_report",
+      "description": "latest earnings report",
+      "date": null
+    }
+  ],
+  "metrics": [],
+  "locations": [],
+  "products": [
+    "Switch 2"
+  ],
+  "relationships": [],
+  "article_id": "348dd76466fa",
+  "article_title": "5 Things We Just Learned From Nintendo About How The Switch 2 Is Doing",
+  "extraction_date": "2026-02-07T13:01:55.516675"
+}

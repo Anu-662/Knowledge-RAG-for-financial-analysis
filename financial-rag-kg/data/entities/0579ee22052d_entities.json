@@ -1,0 +1,59 @@
+{
+  "companies": [
+    {
+      "name": "Alibaba",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "T-Head",
+      "ticker": "",
+      "role": "subsidiary"
+    },
+    {
+      "name": "Cambricon",
+      "ticker": "",
+      "role": "competitor"
+    },
+    {
+      "name": "Huawei",
+      "ticker": "",
+      "role": "competitor"
+    }
+  ],
+  "people": [],
+  "sectors": [
+    "Technology",
+    "Artificial Intelligence"
+  ],
+  "events": [
+    {
+      "type": "IPO",
+      "description": "Alibaba plans IPO for T-Head",
+      "date": null
+    }
+  ],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [
+    {
+      "entity1": "Alibaba",
+      "relationship": "plans_to",
+      "entity2": "IPO for T-Head"
+    },
+    {
+      "entity1": "T-Head",
+      "relationship": "competes_with",
+      "entity2": "Cambricon"
+    },
+    {
+      "entity1": "T-Head",
+      "relationship": "competes_with",
+      "entity2": "Huawei"
+    }
+  ],
+  "article_id": "0579ee22052d",
+  "article_title": "Alibaba plans IPO for chip-arm T-Head to help bankroll ambitious AI infrastructure investments \u2014 company to go up against Cambricon and Huawei to capture domestic accelerator market",
+  "extraction_date": "2026-02-07T12:56:56.047215"
+}

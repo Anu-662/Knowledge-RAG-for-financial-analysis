@@ -1,0 +1,38 @@
+{
+  "companies": [
+    {
+      "name": "Alphabet Inc.",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Apple Inc.",
+      "ticker": "AAPL",
+      "role": "competitor"
+    }
+  ],
+  "people": [],
+  "sectors": [
+    "Technology"
+  ],
+  "events": [],
+  "metrics": [
+    {
+      "type": "market_cap",
+      "value": "4 trillion",
+      "unit": "USD"
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [
+    {
+      "entity1": "Alphabet Inc.",
+      "relationship": "surpassed",
+      "entity2": "Apple Inc."
+    }
+  ],
+  "article_id": "cbec375509d8",
+  "article_title": "Alphabet's AI surge makes it the 4th-ever company to crack a $4 trillion market cap",
+  "extraction_date": "2026-02-07T13:17:32.858648"
+}

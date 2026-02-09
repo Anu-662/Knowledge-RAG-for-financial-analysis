@@ -1,0 +1,24 @@
+{
+  "companies": [],
+  "people": [
+    {
+      "name": "Jerome Powell",
+      "role": "Chair",
+      "company": "Federal Reserve"
+    },
+    {
+      "name": "Donald Trump",
+      "role": "former President",
+      "company": ""
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "a39815820c16",
+  "article_title": "Why the attack on Fed Chair Jerome Powell follows Donald Trump's typical playbook \u2014 and isn't going to stop there",
+  "extraction_date": "2026-02-07T13:13:31.764640"
+}

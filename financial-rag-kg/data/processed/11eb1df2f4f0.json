@@ -1,0 +1,18 @@
+{
+  "id": "11eb1df2f4f0",
+  "title": "Hungary launches $157 million scheme to curb heating costs ahead of election",
+  "url": "https://finance.yahoo.com/news/hungary-launches-157-million-scheme-103122405.html",
+  "source": "Yahoo Entertainment",
+  "published_at": "2026-01-29T10:31:22Z",
+  "sector": "General",
+  "sentiment": {
+    "polarity": 0.0,
+    "label": "neutral"
+  },
+  "full_text": "Hungary launches $157 million scheme to curb heating costs ahead of election. BUDAPEST, Jan 29 (Reuters) - Hungary's government will partly reimburse higher heating costs for households in January due to increased demand amid freezing .... BUDAPEST, Jan 29 (Reuters) - Hungary's government will partly reimburse higher heating costs for households in January due to increased demand amid freezing temperatures at a cost of 50 billion forin\u2026 [+1862 chars]",
+  "chunks": [
+    "Hungary launches $157 million scheme to curb heating costs ahead of election. BUDAPEST, Jan 29 (Reuters) - Hungary's government will partly reimburse higher heating costs for households in January due to increased demand amid freezing .... BUDAPEST, Jan 29 (Reuters) - Hungary's government will partly reimburse higher heating costs for households in January due to increased demand amid freezing temperatures at a cost of 50 billion forin\u2026 [+1862 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.587130"
+}

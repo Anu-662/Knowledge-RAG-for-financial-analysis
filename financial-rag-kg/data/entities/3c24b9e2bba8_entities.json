@@ -1,0 +1,23 @@
+{
+  "companies": [
+    {
+      "name": "Nvidia",
+      "ticker": "NVDA",
+      "role": "primary subject"
+    }
+  ],
+  "people": [],
+  "sectors": [
+    "Technology"
+  ],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [
+    "H200"
+  ],
+  "relationships": [],
+  "article_id": "3c24b9e2bba8",
+  "article_title": "Nvidia Shares Slide After Massive H200 Orders Hit Regulatory Snag",
+  "extraction_date": "2026-02-07T13:02:25.774635"
+}

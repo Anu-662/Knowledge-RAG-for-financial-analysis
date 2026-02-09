@@ -1,0 +1,32 @@
+{
+  "companies": [
+    {
+      "name": "Apple Inc.",
+      "ticker": "AAPL",
+      "role": "primary subject"
+    }
+  ],
+  "people": [
+    {
+      "name": "Tim Cook",
+      "role": "CEO",
+      "company": "Apple Inc."
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "total_compensation",
+      "value": "74.3",
+      "unit": "million USD",
+      "period": "fiscal year 2025"
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "1c8a384db0d1",
+  "article_title": "Here's how much Apple CEO Tim Cook made last year",
+  "extraction_date": "2026-02-07T13:00:20.720378"
+}

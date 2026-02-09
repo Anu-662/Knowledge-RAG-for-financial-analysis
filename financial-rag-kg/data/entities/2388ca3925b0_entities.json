@@ -1,0 +1,30 @@
+{
+  "companies": [
+    {
+      "name": "T-Mobile",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "AT&T",
+      "ticker": "",
+      "role": "competitor"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [
+    {
+      "entity1": "T-Mobile",
+      "relationship": "competes_with",
+      "entity2": "AT&T"
+    }
+  ],
+  "article_id": "2388ca3925b0",
+  "article_title": "I used to joke about T-Mobile's network \u2014 now I use it more than AT&T",
+  "extraction_date": "2026-02-07T13:00:45.042556"
+}

@@ -1,0 +1,40 @@
+{
+  "companies": [
+    {
+      "name": "Bank of America",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [
+    {
+      "name": "Brian Moynihan",
+      "role": "CEO",
+      "company": "Bank of America"
+    }
+  ],
+  "sectors": [],
+  "events": [
+    {
+      "type": "earnings_call",
+      "description": "Earnings call warning about stablecoins",
+      "date": "2024-01-15"
+    }
+  ],
+  "metrics": [
+    {
+      "type": "potential_deposit_migration",
+      "value": "6",
+      "unit": "trillion",
+      "period": null
+    }
+  ],
+  "locations": [
+    "United States"
+  ],
+  "products": [],
+  "relationships": [],
+  "article_id": "f63cfc175f9a",
+  "article_title": "Bank of America warns major threat could push trillions out of U.S. banks",
+  "extraction_date": "2026-02-07T13:20:07.319366"
+}

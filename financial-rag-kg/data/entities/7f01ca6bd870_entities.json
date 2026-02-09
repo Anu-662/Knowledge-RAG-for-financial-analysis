@@ -1,0 +1,21 @@
+{
+  "companies": [
+    {
+      "name": "Anthropic",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [],
+  "sectors": [
+    "Software"
+  ],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "7f01ca6bd870",
+  "article_title": "Why a new AI tool hammered some software stocks this week",
+  "extraction_date": "2026-02-07T13:11:04.385956"
+}

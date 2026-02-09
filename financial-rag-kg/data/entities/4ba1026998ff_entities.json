@@ -1,0 +1,29 @@
+{
+  "companies": [
+    {
+      "name": "Microsoft",
+      "ticker": "MSFT",
+      "role": "primary subject"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "user_count",
+      "value": "1 billion",
+      "unit": "",
+      "period": null
+    }
+  ],
+  "locations": [],
+  "products": [
+    "Windows 11",
+    "Windows 10"
+  ],
+  "relationships": [],
+  "article_id": "4ba1026998ff",
+  "article_title": "Windows 11 Has Reached 1 Billion Users Faster Than Windows 10",
+  "extraction_date": "2026-02-07T13:03:42.277079"
+}

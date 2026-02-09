@@ -1,0 +1,18 @@
+{
+  "id": "45aa850a2a1e",
+  "title": "Malicious Chrome Extension Steals MEXC API Keys by Masquerading as Trading Tool",
+  "url": "https://thehackernews.com/2026/01/malicious-chrome-extension-steals-mexc.html",
+  "source": "Internet",
+  "published_at": "2026-01-13T17:22:00Z",
+  "sector": "General",
+  "sentiment": {
+    "polarity": 0.0,
+    "label": "neutral"
+  },
+  "full_text": "Malicious Chrome Extension Steals MEXC API Keys by Masquerading as Trading Tool. Cybersecurity researchers have disclosed details of a malicious Google Chrome extension that's capable of stealing API keys associated with MEXC, a centralized cryptocurrency exchange (CEX) available in over 170 countries, while masquerading as a tool to auto\u2026. Cybersecurity researchers have disclosed details of a malicious Google Chrome extension that's capable of stealing API keys associated with MEXC, a centralized cryptocurrency exchange (CEX) available\u2026 [+3626 chars]",
+  "chunks": [
+    "Malicious Chrome Extension Steals MEXC API Keys by Masquerading as Trading Tool. Cybersecurity researchers have disclosed details of a malicious Google Chrome extension that's capable of stealing API keys associated with MEXC, a centralized cryptocurrency exchange (CEX) available in over 170 countries, while masquerading as a tool to auto\u2026. Cybersecurity researchers have disclosed details of a malicious Google Chrome extension that's capable of stealing API keys associated with MEXC, a centralized cryptocurrency exchange (CEX) available\u2026 [+3626 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.594808"
+}

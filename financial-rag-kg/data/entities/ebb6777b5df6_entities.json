@@ -1,0 +1,30 @@
+{
+  "companies": [
+    {
+      "name": "Federal Reserve",
+      "ticker": "",
+      "role": "subject"
+    }
+  ],
+  "people": [
+    {
+      "name": "Mike Johnson",
+      "role": "House Speaker",
+      "company": ""
+    },
+    {
+      "name": "Jerome Powell",
+      "role": "Chairman",
+      "company": "Federal Reserve"
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "ebb6777b5df6",
+  "article_title": "House Speaker Mike Johnson dodges as Trump DOJ targets the Federal Reserve chairman Jerome Powell",
+  "extraction_date": "2026-02-07T13:19:39.641909"
+}

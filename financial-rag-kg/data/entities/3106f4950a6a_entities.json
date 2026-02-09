@@ -1,0 +1,32 @@
+{
+  "companies": [
+    {
+      "name": "Freddie Mac",
+      "ticker": "",
+      "role": "source"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "30-year_fixed_mortgage_rate",
+      "value": "6.09",
+      "unit": "percent",
+      "period": "week of January 23, 2026"
+    },
+    {
+      "type": "30-year_fixed_mortgage_rate_one_year_ago",
+      "value": "6.96",
+      "unit": "percent",
+      "period": "one year ago"
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "3106f4950a6a",
+  "article_title": "Mortgage and refinance interest rates today, January 23, 2026: Close to one-year lows",
+  "extraction_date": "2026-02-07T13:01:47.126681"
+}

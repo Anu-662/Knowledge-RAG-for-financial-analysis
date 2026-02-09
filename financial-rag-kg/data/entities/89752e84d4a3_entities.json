@@ -1,0 +1,24 @@
+{
+  "companies": [],
+  "people": [
+    {
+      "name": "Donald Trump",
+      "role": "President",
+      "company": ""
+    },
+    {
+      "name": "Bitcoin Jesus",
+      "role": "cryptocurrency billionaire",
+      "company": ""
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "89752e84d4a3",
+  "article_title": "How \u201cBitcoin Jesus\u201d Avoided Prison, Thanks To One Of The \u201cFriends Of Trump\u201d",
+  "extraction_date": "2026-02-07T13:11:26.833223"
+}

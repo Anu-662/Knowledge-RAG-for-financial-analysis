@@ -1,0 +1,32 @@
+{
+  "companies": [],
+  "people": [
+    {
+      "name": "Donald Trump",
+      "role": "President",
+      "company": "United States"
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "bitcoin_value",
+      "value": "71000",
+      "unit": "USD"
+    },
+    {
+      "type": "value_change",
+      "value": "20",
+      "unit": "percent"
+    }
+  ],
+  "locations": [],
+  "products": [
+    "Bitcoin"
+  ],
+  "relationships": [],
+  "article_id": "56eb1f18ab04",
+  "article_title": "Bitcoin plunge continues, erasing gains since Trump\u2019s election",
+  "extraction_date": "2026-02-07T13:04:28.588177"
+}

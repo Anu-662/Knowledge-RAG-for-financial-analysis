@@ -1,0 +1,36 @@
+{
+  "companies": [
+    {
+      "name": "Tejas Networks",
+      "ticker": "",
+      "role": "supplier"
+    }
+  ],
+  "people": [
+    {
+      "name": "Arnob Roy",
+      "role": "co-founder",
+      "company": ""
+    }
+  ],
+  "sectors": [
+    "Computer Chip Industry"
+  ],
+  "events": [],
+  "metrics": [
+    {
+      "type": "investment",
+      "value": "hundreds of millions",
+      "unit": "USD",
+      "period": null
+    }
+  ],
+  "locations": [
+    "India"
+  ],
+  "products": [],
+  "relationships": [],
+  "article_id": "f8263c0bb3e2",
+  "article_title": "Can India be a player in the computer chip industry?",
+  "extraction_date": "2026-02-07T13:20:19.597757"
+}

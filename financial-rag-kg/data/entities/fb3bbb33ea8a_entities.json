@@ -1,0 +1,30 @@
+{
+  "companies": [
+    {
+      "name": "Anduril Industries",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Erebor Bank",
+      "ticker": "",
+      "role": "associated"
+    }
+  ],
+  "people": [
+    {
+      "name": "Palmer Luckey",
+      "role": "founder",
+      "company": "Anduril Industries"
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "fb3bbb33ea8a",
+  "article_title": "'It's good to scare people sometimes': Anduril founder Palmer Luckey says he 'broadly' backs Trump's new defense regulations",
+  "extraction_date": "2026-02-07T13:20:27.754036"
+}

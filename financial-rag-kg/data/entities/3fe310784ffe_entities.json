@@ -1,0 +1,25 @@
+{
+  "companies": [
+    {
+      "name": "Palantir",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [
+    {
+      "name": "Michael Burry",
+      "role": "",
+      "company": ""
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "3fe310784ffe",
+  "article_title": "'Shoulder to shoulder with Michael Burry': A day trader details his bearish thesis on one of the Reddit crowd's favorite stocks",
+  "extraction_date": "2026-02-07T13:02:41.123636"
+}

@@ -1,0 +1,26 @@
+{
+  "companies": [],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "hiring_rate",
+      "value": "20",
+      "unit": "percent",
+      "period": "current"
+    },
+    {
+      "type": "job_switching_rate",
+      "value": "10",
+      "unit": "years",
+      "period": "current"
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "7b8803bdd4d2",
+  "article_title": "The Great Graduate Job Drought",
+  "extraction_date": "2026-02-07T13:10:55.526782"
+}

@@ -1,0 +1,44 @@
+{
+  "companies": [
+    {
+      "name": "Grindr",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Tinder",
+      "ticker": "",
+      "role": "competitor"
+    },
+    {
+      "name": "Hinge",
+      "ticker": "",
+      "role": "competitor"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "subscription_price",
+      "value": "499",
+      "unit": "USD",
+      "period": "monthly"
+    },
+    {
+      "type": "subscription_price_range",
+      "value": "80-220",
+      "unit": "USD",
+      "period": "weekly"
+    }
+  ],
+  "locations": [],
+  "products": [
+    "Edge"
+  ],
+  "relationships": [],
+  "article_id": "486099c7cf66",
+  "article_title": "Grindr is testing a premium AI tier with prices up to $499 a month",
+  "extraction_date": "2026-02-07T13:03:26.453796"
+}

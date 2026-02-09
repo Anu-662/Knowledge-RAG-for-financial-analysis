@@ -1,0 +1,30 @@
+{
+  "companies": [
+    {
+      "name": "GDC",
+      "ticker": "",
+      "role": "reporting entity"
+    }
+  ],
+  "people": [],
+  "sectors": [
+    "Games Industry"
+  ],
+  "events": [],
+  "metrics": [
+    {
+      "type": "layoffs",
+      "value": "33",
+      "unit": "percent",
+      "period": "last two years"
+    }
+  ],
+  "locations": [
+    "United States"
+  ],
+  "products": [],
+  "relationships": [],
+  "article_id": "5eac4c43e26f",
+  "article_title": "One third of surveyed US games industry workers were laid off in the last two years, GDC reports",
+  "extraction_date": "2026-02-07T13:04:52.761930"
+}

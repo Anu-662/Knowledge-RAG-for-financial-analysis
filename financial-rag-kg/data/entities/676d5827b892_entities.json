@@ -1,0 +1,32 @@
+{
+  "companies": [
+    {
+      "name": "Apple",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "lobbying_spending",
+      "value": "10 million",
+      "unit": "USD",
+      "period": "2025"
+    },
+    {
+      "type": "year_over_year_increase",
+      "value": "30",
+      "unit": "percent",
+      "period": "2025"
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "676d5827b892",
+  "article_title": "Apple spent $10 million on U.S. lobbying in 2025, up nearly 30% from 2024",
+  "extraction_date": "2026-02-07T13:05:43.367431"
+}

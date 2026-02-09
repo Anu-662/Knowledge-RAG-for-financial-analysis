@@ -1,0 +1,44 @@
+{
+  "companies": [
+    {
+      "name": "Netflix",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Mappa",
+      "ticker": "",
+      "role": "partner"
+    }
+  ],
+  "people": [],
+  "sectors": [
+    "Entertainment",
+    "Streaming"
+  ],
+  "events": [
+    {
+      "type": "theatrical_release",
+      "description": "Chainsaw ManThe Movie: Reze Arc",
+      "date": null
+    },
+    {
+      "type": "season_release",
+      "description": "third season of Jujutsu Kaisen",
+      "date": null
+    }
+  ],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [
+    {
+      "entity1": "Netflix",
+      "relationship": "partners_with",
+      "entity2": "Mappa"
+    }
+  ],
+  "article_id": "bbe4b4dd809b",
+  "article_title": "Netflix\u2019s Big Plans for Anime Include a Mappa Team-Up",
+  "extraction_date": "2026-02-07T13:15:45.250483"
+}

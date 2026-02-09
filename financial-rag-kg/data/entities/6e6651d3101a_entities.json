@@ -1,0 +1,38 @@
+{
+  "companies": [
+    {
+      "name": "Authentic Brands Group",
+      "ticker": "",
+      "role": "acquirer"
+    },
+    {
+      "name": "Guess?",
+      "ticker": "",
+      "role": "target"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [
+    {
+      "type": "acquisition",
+      "description": "Authentic acquired 51% of substantially all of Guess?\u2019s intellectual property",
+      "date": null
+    }
+  ],
+  "metrics": [],
+  "locations": [
+    "US"
+  ],
+  "products": [],
+  "relationships": [
+    {
+      "entity1": "Authentic Brands Group",
+      "relationship": "acquired",
+      "entity2": "Guess?"
+    }
+  ],
+  "article_id": "6e6651d3101a",
+  "article_title": "Authentic finalises acquisition to take Guess? private",
+  "extraction_date": "2026-02-07T13:06:38.121659"
+}

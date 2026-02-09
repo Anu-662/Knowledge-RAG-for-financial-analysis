@@ -1,0 +1,29 @@
+{
+  "companies": [],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "401(k)",
+      "value": "1.1k",
+      "unit": "USD"
+    },
+    {
+      "type": "savings",
+      "value": "80k",
+      "unit": "USD"
+    },
+    {
+      "type": "Social Security",
+      "value": "2,800",
+      "unit": "USD"
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "1208e69fa6f7",
+  "article_title": "What's a Realistic Retirement Budget? I'm 66 With $1.1k in a 401(k), Another $80k in Savings and I'll Have $2,800 Social Security",
+  "extraction_date": "2026-02-07T12:59:40.495275"
+}

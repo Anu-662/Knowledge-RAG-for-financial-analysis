@@ -1,0 +1,25 @@
+{
+  "companies": [
+    {
+      "name": "SpaceX",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [
+    {
+      "name": "Musk",
+      "role": "",
+      "company": ""
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "a5881293f85c",
+  "article_title": "Musk links rapid SpaceX IPO timeline to planetary alignment...",
+  "extraction_date": "2026-02-07T13:13:39.086620"
+}

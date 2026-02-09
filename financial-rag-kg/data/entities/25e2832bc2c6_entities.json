@@ -1,0 +1,19 @@
+{
+  "companies": [],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "futures_change",
+      "value": "16",
+      "unit": "points"
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "25e2832bc2c6",
+  "article_title": "Sunday Night Futures",
+  "extraction_date": "2026-02-07T13:00:56.911472"
+}

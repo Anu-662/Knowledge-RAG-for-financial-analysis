@@ -1,0 +1,32 @@
+{
+  "companies": [
+    {
+      "name": "Apple Inc.",
+      "ticker": "AAPL",
+      "role": "primary subject"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "patent_grants",
+      "value": "2722",
+      "unit": "patents",
+      "period": "2025"
+    },
+    {
+      "type": "patent_grants_previous_year",
+      "value": "3082",
+      "unit": "patents",
+      "period": "2024"
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "e5fd96828341",
+  "article_title": "Apple's Patent Grants Declined in 2025 as Innovation Slows",
+  "extraction_date": "2026-02-07T13:19:24.871510"
+}

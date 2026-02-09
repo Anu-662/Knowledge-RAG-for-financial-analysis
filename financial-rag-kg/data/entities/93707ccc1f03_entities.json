@@ -1,0 +1,43 @@
+{
+  "companies": [
+    {
+      "name": "OpenAI",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Anthropic",
+      "ticker": "",
+      "role": "competitor"
+    },
+    {
+      "name": "Wall Street Journal",
+      "ticker": "",
+      "role": "source"
+    }
+  ],
+  "people": [],
+  "sectors": [
+    "Technology"
+  ],
+  "events": [
+    {
+      "type": "IPO",
+      "description": "OpenAI laying groundwork for an IPO",
+      "date": "2026-10-01"
+    }
+  ],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [
+    {
+      "entity1": "OpenAI",
+      "relationship": "competes_with",
+      "entity2": "Anthropic"
+    }
+  ],
+  "article_id": "93707ccc1f03",
+  "article_title": "Sources: OpenAI is laying the groundwork for an IPO in Q4 2026, and its executives have privately expressed concerns about Anthropic beating OpenAI to an IPO (Wall Street Journal)",
+  "extraction_date": "2026-02-07T13:12:18.835430"
+}

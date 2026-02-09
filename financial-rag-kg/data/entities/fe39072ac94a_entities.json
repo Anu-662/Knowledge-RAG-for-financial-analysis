@@ -1,0 +1,32 @@
+{
+  "companies": [
+    {
+      "name": "BitGo Holdings",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [
+    {
+      "type": "initial_public_offering",
+      "description": "U.S. IPO priced at $18",
+      "date": null
+    }
+  ],
+  "metrics": [
+    {
+      "type": "funds_raised",
+      "value": "212.8",
+      "unit": "million USD",
+      "period": null
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "fe39072ac94a",
+  "article_title": "BitGo Holdings prices US IPO at $18, Bloomberg News reports",
+  "extraction_date": "2026-02-07T13:20:57.728952"
+}

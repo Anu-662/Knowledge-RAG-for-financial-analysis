@@ -1,0 +1,46 @@
+{
+  "companies": [
+    {
+      "name": "MITO AI",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [
+    {
+      "name": "Inaki Berenguer",
+      "role": "cofounder",
+      "company": "MITO AI"
+    },
+    {
+      "name": "Arantxa Barcia",
+      "role": "cofounder",
+      "company": "MITO AI"
+    },
+    {
+      "name": "Danny Saltaren",
+      "role": "cofounder",
+      "company": "MITO AI"
+    }
+  ],
+  "sectors": [
+    "Technology"
+  ],
+  "events": [],
+  "metrics": [
+    {
+      "type": "funding",
+      "value": "4.5",
+      "unit": "million",
+      "period": null
+    }
+  ],
+  "locations": [],
+  "products": [
+    "project-management software"
+  ],
+  "relationships": [],
+  "article_id": "6fa5a0e48b88",
+  "article_title": "MITO AI raised $4.5 million to launch project-management software for filmmakers. Read its pitch deck.",
+  "extraction_date": "2026-02-07T13:07:44.406522"
+}

@@ -1,0 +1,38 @@
+{
+  "companies": [],
+  "people": [],
+  "sectors": [
+    "Renewable Energy",
+    "Waste Management"
+  ],
+  "events": [
+    {
+      "type": "land_earmarking_ceremony",
+      "description": "Ceremony for the CBG plant project",
+      "date": null
+    }
+  ],
+  "metrics": [
+    {
+      "type": "waste_processing_capacity",
+      "value": "200",
+      "unit": "tonnes per day"
+    },
+    {
+      "type": "cow_dung_processing_capacity",
+      "value": "30",
+      "unit": "tonnes per day"
+    }
+  ],
+  "locations": [
+    "Dadumajra",
+    "Chandigarh"
+  ],
+  "products": [
+    "Compressed Biogas (CBG)"
+  ],
+  "relationships": [],
+  "article_id": "cbaef927c4fb",
+  "article_title": "200 TPD waste, 30 TPD cow dung to fuel new CBG plant in Dadumajra",
+  "extraction_date": "2026-02-07T13:17:27.931097"
+}

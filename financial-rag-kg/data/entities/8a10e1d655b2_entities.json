@@ -1,0 +1,24 @@
+{
+  "companies": [],
+  "people": [
+    {
+      "name": "Donald Trump",
+      "role": "President"
+    },
+    {
+      "name": "Lisa Cook",
+      "role": "Fed official"
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [
+    "Washington"
+  ],
+  "products": [],
+  "relationships": [],
+  "article_id": "8a10e1d655b2",
+  "article_title": "US Supreme Court appears reluctant to let Trump fire Fed's Lisa Cook",
+  "extraction_date": "2026-02-07T13:11:33.885269"
+}

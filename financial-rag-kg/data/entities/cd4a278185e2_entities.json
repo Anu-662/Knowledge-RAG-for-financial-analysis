@@ -1,0 +1,31 @@
+{
+  "companies": [
+    {
+      "name": "Intel",
+      "ticker": "INTC",
+      "role": "primary subject"
+    }
+  ],
+  "people": [
+    {
+      "name": "David Zinsner",
+      "role": "CFO",
+      "company": "Intel"
+    }
+  ],
+  "sectors": [],
+  "events": [
+    {
+      "type": "insider_transaction",
+      "description": "David Zinsner bought 5,882 shares of Intel",
+      "date": "2026-01-26"
+    }
+  ],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "cd4a278185e2",
+  "article_title": "Insider Alert: Intel CFO Buys Quarter-Million in Stock Amid Selloff",
+  "extraction_date": "2026-02-07T13:17:50.709816"
+}

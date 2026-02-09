@@ -1,0 +1,18 @@
+{
+  "id": "5ec95cf59dc9",
+  "title": "Workday cuts 400 jobs amid software stock meltdown",
+  "url": "https://www.businessinsider.com/workday-layoffs-amid-software-stock-sell-off-2026-2",
+  "source": "Business Insider",
+  "published_at": "2026-02-05T17:31:51Z",
+  "sector": "Technology",
+  "sentiment": {
+    "polarity": 1.0,
+    "label": "positive"
+  },
+  "full_text": "Workday cuts 400 jobs amid software stock meltdown. The software company is one of many whose shares have taken a beating as investors raise concerns about the impact of AI.. Dado Ruvic/REUTERS <ul><li>Workday announced layoffs affecting about 2% of its workforce, mostly those in customer-service roles.</li><li>The company said it's realigning resources while continuing \u2026 [+1902 chars]",
+  "chunks": [
+    "Workday cuts 400 jobs amid software stock meltdown. The software company is one of many whose shares have taken a beating as investors raise concerns about the impact of AI.. Dado Ruvic/REUTERS <ul><li>Workday announced layoffs affecting about 2% of its workforce, mostly those in customer-service roles.</li><li>The company said it's realigning resources while continuing \u2026 [+1902 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.597240"
+}

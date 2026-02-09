@@ -1,0 +1,18 @@
+{
+  "id": "30a56fa48ade",
+  "title": "Wall Street is losing its appetite for Oracle's data center debt",
+  "url": "https://www.businessinsider.com/oracle-openai-stargate-loans-jpmorgan-diminishing-interest-debt-2026-1",
+  "source": "Business Insider",
+  "published_at": "2026-01-22T10:15:01Z",
+  "sector": "Finance",
+  "sentiment": {
+    "polarity": 0.0,
+    "label": "neutral"
+  },
+  "full_text": "Wall Street is losing its appetite for Oracle's data center debt. Appetite for loans tied to Oracle's data center partnership with OpenAI has diminished, reflecting concerns over credit risk and AI investment scale.. Larry Ellison stands on stage to give a keynote during the company's 2025 conference.Robert Galbraith/Reuters <ul><li>Oracle and OpenAI's have plans to build $500 billion of data centers in a ventur\u2026 [+5916 chars]",
+  "chunks": [
+    "Wall Street is losing its appetite for Oracle's data center debt. Appetite for loans tied to Oracle's data center partnership with OpenAI has diminished, reflecting concerns over credit risk and AI investment scale.. Larry Ellison stands on stage to give a keynote during the company's 2025 conference.Robert Galbraith/Reuters <ul><li>Oracle and OpenAI's have plans to build $500 billion of data centers in a ventur\u2026 [+5916 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.596166"
+}

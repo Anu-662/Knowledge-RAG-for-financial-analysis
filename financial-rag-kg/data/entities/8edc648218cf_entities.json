@@ -1,0 +1,49 @@
+{
+  "companies": [
+    {
+      "name": "Mixue",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "McDonald's",
+      "ticker": "",
+      "role": "competitor"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "ice_cream_cone_price",
+      "value": "1.19",
+      "unit": "USD"
+    },
+    {
+      "type": "oolong_tea_price",
+      "value": "2.48",
+      "unit": "USD"
+    }
+  ],
+  "locations": [
+    "New York",
+    "Los Angeles",
+    "Midtown Manhattan",
+    "Herald Square"
+  ],
+  "products": [
+    "ice cream cones",
+    "oolong tea"
+  ],
+  "relationships": [
+    {
+      "entity1": "Mixue",
+      "relationship": "competes_with",
+      "entity2": "McDonald's"
+    }
+  ],
+  "article_id": "8edc648218cf",
+  "article_title": "The world's biggest fast-food chain just landed in NYC. We tried Mixue \u2014 and the hype is real.",
+  "extraction_date": "2026-02-07T13:11:47.629151"
+}

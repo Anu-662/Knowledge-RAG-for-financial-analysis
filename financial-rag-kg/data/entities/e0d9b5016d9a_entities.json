@@ -1,0 +1,38 @@
+{
+  "companies": [],
+  "people": [
+    {
+      "name": "Ma",
+      "role": "partner",
+      "company": ""
+    },
+    {
+      "name": "Li",
+      "role": "political leader",
+      "company": ""
+    }
+  ],
+  "sectors": [],
+  "events": [
+    {
+      "type": "conference",
+      "description": "2012 conference",
+      "date": "2012"
+    }
+  ],
+  "metrics": [],
+  "locations": [
+    "Beijing"
+  ],
+  "products": [],
+  "relationships": [
+    {
+      "entity1": "Ma",
+      "relationship": "partnered_with",
+      "entity2": "Beijing CDC"
+    }
+  ],
+  "article_id": "e0d9b5016d9a",
+  "article_title": "The Rise and Fall of the World's Largest Gay Dating App",
+  "extraction_date": "2026-02-07T13:19:15.882008"
+}

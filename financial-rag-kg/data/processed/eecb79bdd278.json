@@ -1,0 +1,18 @@
+{
+  "id": "eecb79bdd278",
+  "title": "Elon Musk tells workers in memo that SpaceX is acquiring xAI",
+  "url": "https://www.businessinsider.com/spacex-acquiring-xai-deal-elon-musk-2026-2",
+  "source": "Business Insider",
+  "published_at": "2026-02-02T21:51:48Z",
+  "sector": "General",
+  "sentiment": {
+    "polarity": 0.0,
+    "label": "neutral"
+  },
+  "full_text": "Elon Musk tells workers in memo that SpaceX is acquiring xAI. Elon Musk's mega-deal of SpaceX and xAI is the latest sign that the billionaire is consolidating his business empire as he goes all in on AI.. Elon Musk is combining SpaceX and xAI as he overhauls his sprawling business empire. Musk told workers in a Monday memo that SpaceX has acquired xAI, his AI company, a source familiar with the matte\u2026 [+6766 chars]",
+  "chunks": [
+    "Elon Musk tells workers in memo that SpaceX is acquiring xAI. Elon Musk's mega-deal of SpaceX and xAI is the latest sign that the billionaire is consolidating his business empire as he goes all in on AI.. Elon Musk is combining SpaceX and xAI as he overhauls his sprawling business empire. Musk told workers in a Monday memo that SpaceX has acquired xAI, his AI company, a source familiar with the matte\u2026 [+6766 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.593030"
+}

@@ -1,0 +1,37 @@
+{
+  "companies": [],
+  "people": [
+    {
+      "name": "Bill Ackman",
+      "role": "respondent",
+      "company": ""
+    },
+    {
+      "name": "Donald Trump",
+      "role": "President",
+      "company": ""
+    }
+  ],
+  "sectors": [],
+  "events": [
+    {
+      "type": "policy_proposal",
+      "description": "call for a one-year 10% cap on credit card interest",
+      "date": null
+    }
+  ],
+  "metrics": [
+    {
+      "type": "interest_cap",
+      "value": "10",
+      "unit": "percent",
+      "period": "one year"
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "286538eef23a",
+  "article_title": "'This is a mistake President': Bill Ackman responds to Trump's call for a one-year 10% cap on credit card interest",
+  "extraction_date": "2026-02-07T13:01:15.491420"
+}

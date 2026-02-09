@@ -1,0 +1,18 @@
+{
+  "id": "da35d69fd0ae",
+  "title": "Ice may be more hazardous than snow this weekend. What to expect and how to prepare.",
+  "url": "https://www.npr.org/2026/01/23/nx-s1-5685421/winter-storm-ice-hazards",
+  "source": "NPR",
+  "published_at": "2026-01-23T10:00:00Z",
+  "sector": "General",
+  "sentiment": {
+    "polarity": 0.0,
+    "label": "neutral"
+  },
+  "full_text": "Ice may be more hazardous than snow this weekend. What to expect and how to prepare.. A major winter storm is expected to impact more than 200 million people in United States this weekend. Freezing rain and ice is a particular concern.. Winter storms and frigid temperatures are set to blast large swaths of the United States starting Friday, with more than 200 million people in the path of hazardous conditions, including sleet, ice\u2026 [+3207 chars]",
+  "chunks": [
+    "Ice may be more hazardous than snow this weekend. What to expect and how to prepare.. A major winter storm is expected to impact more than 200 million people in United States this weekend. Freezing rain and ice is a particular concern.. Winter storms and frigid temperatures are set to blast large swaths of the United States starting Friday, with more than 200 million people in the path of hazardous conditions, including sleet, ice\u2026 [+3207 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.587467"
+}

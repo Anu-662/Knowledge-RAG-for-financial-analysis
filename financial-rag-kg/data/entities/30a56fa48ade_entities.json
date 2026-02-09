@@ -1,0 +1,52 @@
+{
+  "companies": [
+    {
+      "name": "Oracle",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "OpenAI",
+      "ticker": "",
+      "role": "partner"
+    }
+  ],
+  "people": [
+    {
+      "name": "Larry Ellison",
+      "role": "keynote speaker",
+      "company": "Oracle"
+    }
+  ],
+  "sectors": [
+    "Technology",
+    "Artificial Intelligence"
+  ],
+  "events": [
+    {
+      "type": "conference",
+      "description": "Oracle's 2025 conference",
+      "date": null
+    }
+  ],
+  "metrics": [
+    {
+      "type": "investment",
+      "value": "500",
+      "unit": "billion USD",
+      "period": null
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [
+    {
+      "entity1": "Oracle",
+      "relationship": "partners_with",
+      "entity2": "OpenAI"
+    }
+  ],
+  "article_id": "30a56fa48ade",
+  "article_title": "Wall Street is losing its appetite for Oracle's data center debt",
+  "extraction_date": "2026-02-07T13:01:44.997035"
+}

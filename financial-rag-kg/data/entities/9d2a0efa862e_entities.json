@@ -1,0 +1,37 @@
+{
+  "companies": [
+    {
+      "name": "SpaceX",
+      "ticker": "",
+      "role": "acquirer"
+    },
+    {
+      "name": "xAI",
+      "ticker": "",
+      "role": "acquired"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "valuation",
+      "value": "1.5 trillion",
+      "unit": "USD",
+      "period": null
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [
+    {
+      "entity1": "SpaceX",
+      "relationship": "acquires",
+      "entity2": "xAI"
+    }
+  ],
+  "article_id": "9d2a0efa862e",
+  "article_title": "SpaceX and xAI Are Merging Into a Very Silly-Sounding Conglomerate. Take It Seriously",
+  "extraction_date": "2026-02-07T13:13:01.657575"
+}

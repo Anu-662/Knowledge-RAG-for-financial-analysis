@@ -1,0 +1,30 @@
+{
+  "companies": [
+    {
+      "name": "SPDR Portfolio S&P 500 High Dividend ETF",
+      "ticker": "SPYD",
+      "role": "recommended ETF"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "yield",
+      "value": "4.7",
+      "unit": "percent"
+    },
+    {
+      "type": "expense_ratio",
+      "value": "0.07",
+      "unit": "percent"
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "92dda5b6b3cb",
+  "article_title": "1 High-Yield ETF I Recommend to Nearly All Retirees",
+  "extraction_date": "2026-02-07T13:12:14.424392"
+}

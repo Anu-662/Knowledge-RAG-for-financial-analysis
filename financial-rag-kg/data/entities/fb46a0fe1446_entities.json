@@ -1,0 +1,54 @@
+{
+  "companies": [
+    {
+      "name": "Microsoft",
+      "ticker": "MSFT",
+      "role": "primary subject"
+    },
+    {
+      "name": "OpenAI",
+      "ticker": "",
+      "role": "investment"
+    }
+  ],
+  "people": [
+    {
+      "name": "Satya Nadella",
+      "role": "CEO",
+      "company": "Microsoft"
+    }
+  ],
+  "sectors": [
+    "Technology",
+    "Cloud Computing"
+  ],
+  "events": [
+    {
+      "type": "earnings_report",
+      "description": "financial earnings report",
+      "date": null
+    }
+  ],
+  "metrics": [
+    {
+      "type": "net_income",
+      "value": "7.6",
+      "unit": "billion USD",
+      "period": null
+    },
+    {
+      "type": "backlog_percentage",
+      "value": "45",
+      "unit": "percent",
+      "period": null
+    }
+  ],
+  "locations": [],
+  "products": [
+    "Azure"
+  ],
+  "relationships": [],
+  "article_id": "fb46a0fe1446",
+  "article_title": "Microsoft's early bet on OpenAI is weighing heavily on Azure, causing 45% of its backlog \u2014 but it's finally starting to pay off",
+  "extraction_date": "2026-02-07T13:20:32.094585"
+}

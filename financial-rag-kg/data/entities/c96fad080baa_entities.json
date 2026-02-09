@@ -1,0 +1,25 @@
+{
+  "companies": [
+    {
+      "name": "Washington Post",
+      "ticker": "",
+      "role": "subject"
+    }
+  ],
+  "people": [
+    {
+      "name": "Jeff Bezos",
+      "role": "subject",
+      "company": ""
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "c96fad080baa",
+  "article_title": "Jeff Bezos Is Destroying What\u2019s Left Of The Washington Post To Please Our Dim, Unpopular Autocrats",
+  "extraction_date": "2026-02-07T13:17:00.086704"
+}

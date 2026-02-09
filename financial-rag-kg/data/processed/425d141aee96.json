@@ -1,0 +1,18 @@
+{
+  "id": "425d141aee96",
+  "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall as markets react to DOJ investigation into Powell",
+  "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-fall-as-markets-react-to-doj-investigation-into-powell-001621567.html",
+  "source": "Yahoo Entertainment",
+  "published_at": "2026-01-12T00:16:21Z",
+  "sector": "General",
+  "sentiment": {
+    "polarity": -0.5,
+    "label": "negative"
+  },
+  "full_text": "Stock market today: Dow, S&P 500, Nasdaq futures fall as markets react to DOJ investigation into Powell. Major gauges made slight losses as Wall Street prepares for a week of major releases against a backdrop of global volatility.. US stock futures dropped Sunday night as Wall Street reacted to the Trump administration opening a criminal investigation into Fed Chair Jerome Powell. Dow Jones Industrial Average futures (YM=F) an\u2026 [+3534 chars]",
+  "chunks": [
+    "Stock market today: Dow, S&P 500, Nasdaq futures fall as markets react to DOJ investigation into Powell. Major gauges made slight losses as Wall Street prepares for a week of major releases against a backdrop of global volatility.. US stock futures dropped Sunday night as Wall Street reacted to the Trump administration opening a criminal investigation into Fed Chair Jerome Powell. Dow Jones Industrial Average futures (YM=F) an\u2026 [+3534 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.579925"
+}

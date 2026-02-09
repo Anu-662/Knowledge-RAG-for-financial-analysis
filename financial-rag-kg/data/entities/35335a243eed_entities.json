@@ -1,0 +1,32 @@
+{
+  "companies": [
+    {
+      "name": "Glencore",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Rio Tinto",
+      "ticker": "",
+      "role": "secondary subject"
+    }
+  ],
+  "people": [],
+  "sectors": [
+    "Mining"
+  ],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [
+    {
+      "entity1": "Glencore",
+      "relationship": "in_merger_talks_with",
+      "entity2": "Rio Tinto"
+    }
+  ],
+  "article_id": "35335a243eed",
+  "article_title": "Live: Mega mining company back on the cards as Glencore confirms Rio Tinto talks",
+  "extraction_date": "2026-02-07T13:02:00.276882"
+}

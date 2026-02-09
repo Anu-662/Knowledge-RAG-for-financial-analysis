@@ -1,0 +1,30 @@
+{
+  "companies": [],
+  "people": [
+    {
+      "name": "Trump",
+      "role": "politician",
+      "company": ""
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "stock_price_change",
+      "value": null,
+      "unit": null
+    },
+    {
+      "type": "interest_rate_cap",
+      "value": null,
+      "unit": null
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "320c6c6ebc0e",
+  "article_title": "'Sell America' is back: All the biggest moves today as Trump whips up fresh market turmoil",
+  "extraction_date": "2026-02-07T13:01:50.371763"
+}

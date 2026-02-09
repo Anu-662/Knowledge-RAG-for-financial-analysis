@@ -1,0 +1,22 @@
+{
+  "companies": [
+    {
+      "name": "Korg",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [
+    "Kaoss Pad V",
+    "KP3+"
+  ],
+  "relationships": [],
+  "article_id": "3a79d0a95933",
+  "article_title": "Kaoss Pad V is the first major upgrade to Korg\u2019s touch-based effects in 13 years",
+  "extraction_date": "2026-02-07T13:02:21.659042"
+}

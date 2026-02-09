@@ -1,0 +1,30 @@
+{
+  "companies": [
+    {
+      "name": "Coinbase",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [],
+  "sectors": [
+    "Crypto"
+  ],
+  "events": [
+    {
+      "type": "legislation_delay",
+      "description": "Senate Banking Committee delayed final discussions around a bill for creating greater regulatory clarity for crypto",
+      "date": null
+    }
+  ],
+  "metrics": [],
+  "locations": [
+    "Washington",
+    "United States"
+  ],
+  "products": [],
+  "relationships": [],
+  "article_id": "d641ac1ce2a0",
+  "article_title": "Senators Postpone Crypto Market Bill as Coinbase Flexes Its Muscle in Washington",
+  "extraction_date": "2026-02-07T13:18:32.202879"
+}

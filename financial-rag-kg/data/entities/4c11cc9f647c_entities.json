@@ -1,0 +1,34 @@
+{
+  "companies": [
+    {
+      "name": "Tether",
+      "ticker": "",
+      "role": "subject"
+    }
+  ],
+  "people": [
+    {
+      "name": "Jorge Figueira",
+      "role": "suspect",
+      "company": ""
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "money_laundered",
+      "value": "1 billion",
+      "unit": "USD",
+      "period": ""
+    }
+  ],
+  "locations": [
+    "Venezuela"
+  ],
+  "products": [],
+  "relationships": [],
+  "article_id": "4c11cc9f647c",
+  "article_title": "DOJ Alleges One Venezuelan Used Crypto Stablecoin Tether to Launder $1 Billion for Criminals",
+  "extraction_date": "2026-02-07T13:03:49.233852"
+}

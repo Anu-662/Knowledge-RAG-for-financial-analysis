@@ -1,0 +1,42 @@
+{
+  "companies": [],
+  "people": [
+    {
+      "name": "Kevin Warsh",
+      "role": "nominee",
+      "company": "Federal Reserve"
+    },
+    {
+      "name": "Jerome Powell",
+      "role": "current chair",
+      "company": "Federal Reserve"
+    },
+    {
+      "name": "Donald Trump",
+      "role": "President",
+      "company": ""
+    }
+  ],
+  "sectors": [
+    "Finance"
+  ],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [
+    {
+      "entity1": "Kevin Warsh",
+      "relationship": "nominated_by",
+      "entity2": "Donald Trump"
+    },
+    {
+      "entity1": "Kevin Warsh",
+      "relationship": "succeeds",
+      "entity2": "Jerome Powell"
+    }
+  ],
+  "article_id": "620415062e49",
+  "article_title": "What Fed nominee Kevin Warsh's former colleagues told us about his leadership style",
+  "extraction_date": "2026-02-07T13:05:18.426202"
+}

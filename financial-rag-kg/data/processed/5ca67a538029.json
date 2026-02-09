@@ -1,0 +1,18 @@
+{
+  "id": "5ca67a538029",
+  "title": "Malicious Mac extensions steal crypto wallets and passwords",
+  "url": "https://www.foxnews.com/tech/malicious-mac-extensions-steal-crypto-wallets-passwords",
+  "source": "Fox News",
+  "published_at": "2026-01-14T15:23:42Z",
+  "sector": "General",
+  "sentiment": {
+    "polarity": 0.0,
+    "label": "neutral"
+  },
+  "full_text": "Malicious Mac extensions steal crypto wallets and passwords. Mac users face new security threat as malware infiltrates trusted extension marketplaces, targeting cryptocurrency wallets and passwords through malicious code.. Mac users often assume they're safer than everyone else, especially when they stick to official app stores and trusted tools. That sense of security is exactly what attackers like to exploit. Securi\u2026 [+8194 chars]",
+  "chunks": [
+    "Malicious Mac extensions steal crypto wallets and passwords. Mac users face new security threat as malware infiltrates trusted extension marketplaces, targeting cryptocurrency wallets and passwords through malicious code.. Mac users often assume they're safer than everyone else, especially when they stick to official app stores and trusted tools. That sense of security is exactly what attackers like to exploit. Securi\u2026 [+8194 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.593977"
+}

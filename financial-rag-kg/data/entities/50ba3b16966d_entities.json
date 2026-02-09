@@ -1,0 +1,48 @@
+{
+  "companies": [
+    {
+      "name": "Activision Blizzard",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Microsoft",
+      "ticker": "",
+      "role": "competitor"
+    },
+    {
+      "name": "Embracer",
+      "ticker": "",
+      "role": "competitor"
+    }
+  ],
+  "people": [
+    {
+      "name": "Bobby Kotick",
+      "role": "CEO",
+      "company": "Activision"
+    }
+  ],
+  "sectors": [],
+  "events": [
+    {
+      "type": "lawsuit",
+      "description": "ongoing lawsuit against Bobby Kotick and Microsoft",
+      "date": null
+    }
+  ],
+  "metrics": [
+    {
+      "type": "acquisition_value",
+      "value": "69",
+      "unit": "billion USD",
+      "period": null
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "50ba3b16966d",
+  "article_title": "Former Activision CEO Bobby Kotick accuses Embracer of secretly organising a lawsuit against him and Microsoft",
+  "extraction_date": "2026-02-07T13:04:02.184688"
+}

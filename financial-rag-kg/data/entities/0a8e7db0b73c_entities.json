@@ -1,0 +1,36 @@
+{
+  "companies": [
+    {
+      "name": "Federal Reserve",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Department of Justice",
+      "ticker": "",
+      "role": "involved entity"
+    }
+  ],
+  "people": [
+    {
+      "name": "Federal Reserve Chair",
+      "role": "Chair",
+      "company": "Federal Reserve"
+    }
+  ],
+  "sectors": [],
+  "events": [
+    {
+      "type": "subpoena",
+      "description": "grand jury subpoenas served",
+      "date": null
+    }
+  ],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "0a8e7db0b73c",
+  "article_title": "Statement from Federal Reserve Chair",
+  "extraction_date": "2026-02-07T12:58:09.423405"
+}

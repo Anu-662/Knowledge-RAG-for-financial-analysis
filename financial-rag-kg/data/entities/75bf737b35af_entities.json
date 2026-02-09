@@ -1,0 +1,31 @@
+{
+  "companies": [
+    {
+      "name": "Renaissance",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Schonfeld",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Engineers Gate",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [
+    "Mumbai"
+  ],
+  "products": [],
+  "relationships": [],
+  "article_id": "75bf737b35af",
+  "article_title": "Renaissance, Schonfeld, and Engineers Gate stung in a shaky start for quants in 2026",
+  "extraction_date": "2026-02-07T13:10:24.488677"
+}

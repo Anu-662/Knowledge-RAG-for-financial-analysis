@@ -1,0 +1,53 @@
+{
+  "companies": [
+    {
+      "name": "Paramount",
+      "ticker": "",
+      "role": "former employer"
+    },
+    {
+      "name": "Sony Pictures",
+      "ticker": "",
+      "role": "investor"
+    },
+    {
+      "name": "CAA",
+      "ticker": "",
+      "role": "backer"
+    }
+  ],
+  "people": [
+    {
+      "name": "Brian Robbins",
+      "role": "Co-CEO",
+      "company": "Paramount"
+    }
+  ],
+  "sectors": [
+    "Entertainment"
+  ],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [
+    {
+      "entity1": "Brian Robbins",
+      "relationship": "former_co-CEO_of",
+      "entity2": "Paramount"
+    },
+    {
+      "entity1": "Sony Pictures",
+      "relationship": "minority_investor_in",
+      "entity2": "new family production company"
+    },
+    {
+      "entity1": "CAA",
+      "relationship": "backer_of",
+      "entity2": "new family production company"
+    }
+  ],
+  "article_id": "1acad3ce7be4",
+  "article_title": "Former Paramount Co-CEO Brian Robbins Launching New Family Production Company; First Look Will Be At Sony Pictures",
+  "extraction_date": "2026-02-07T13:00:15.235695"
+}

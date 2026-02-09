@@ -1,0 +1,31 @@
+{
+  "companies": [
+    {
+      "name": "Microsoft",
+      "ticker": "MSFT",
+      "role": "primary subject"
+    }
+  ],
+  "people": [],
+  "sectors": [
+    "Technology",
+    "Gaming"
+  ],
+  "events": [],
+  "metrics": [
+    {
+      "type": "revenue",
+      "value": "declining",
+      "unit": "",
+      "period": ""
+    }
+  ],
+  "locations": [],
+  "products": [
+    "Xbox"
+  ],
+  "relationships": [],
+  "article_id": "7a940f082465",
+  "article_title": "Can Xbox Outlast the AI Bubble?",
+  "extraction_date": "2026-02-07T13:10:50.672017"
+}

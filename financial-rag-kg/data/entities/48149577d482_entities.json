@@ -1,0 +1,37 @@
+{
+  "companies": [
+    {
+      "name": "Micron Technology, Inc.",
+      "ticker": "MU",
+      "role": "primary subject"
+    },
+    {
+      "name": "NVIDIA Corporation",
+      "ticker": "NVDA",
+      "role": "potential competitor"
+    }
+  ],
+  "people": [],
+  "sectors": [
+    "Semiconductors",
+    "Artificial Intelligence"
+  ],
+  "events": [],
+  "metrics": [
+    {
+      "type": "stock_price_change",
+      "value": "200",
+      "unit": "percent",
+      "period": "last year"
+    }
+  ],
+  "locations": [],
+  "products": [
+    "Blackwell",
+    "H200 chips"
+  ],
+  "relationships": [],
+  "article_id": "48149577d482",
+  "article_title": "After Micron's 200%+ Surge, This AI Chip Stock Could Be Next",
+  "extraction_date": "2026-02-07T13:03:22.460738"
+}

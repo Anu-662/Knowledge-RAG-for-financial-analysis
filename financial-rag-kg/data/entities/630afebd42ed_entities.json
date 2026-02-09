@@ -1,0 +1,24 @@
+{
+  "companies": [
+    {
+      "name": "Tesla",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [],
+  "sectors": [
+    "Renewable Energy",
+    "Transportation"
+  ],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [
+    "gigafactory"
+  ],
+  "relationships": [],
+  "article_id": "630afebd42ed",
+  "article_title": "The electrification of everything: Best ideas of the century",
+  "extraction_date": "2026-02-07T13:05:23.930153"
+}

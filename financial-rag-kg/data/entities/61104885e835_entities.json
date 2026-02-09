@@ -1,0 +1,39 @@
+{
+  "companies": [
+    {
+      "name": "Electric Coin Company",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Zcash",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [
+    {
+      "type": "price_drop",
+      "description": "Zcash price fell more than 20% overnight",
+      "date": null
+    }
+  ],
+  "metrics": [
+    {
+      "type": "price_change",
+      "value": "20",
+      "unit": "percent",
+      "period": "overnight"
+    }
+  ],
+  "locations": [],
+  "products": [
+    "Zcash"
+  ],
+  "relationships": [],
+  "article_id": "61104885e835",
+  "article_title": "Privacy Coin Zcash Drops 20% as Core Dev Team Departs Electric Coin Company",
+  "extraction_date": "2026-02-07T13:05:12.921782"
+}

@@ -1,0 +1,30 @@
+{
+  "companies": [
+    {
+      "name": "Federal Reserve",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Department of Justice",
+      "ticker": "",
+      "role": "related entity"
+    }
+  ],
+  "people": [
+    {
+      "name": "Jerome Powell",
+      "role": "Chair",
+      "company": "Federal Reserve"
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "07d50ee37c2e",
+  "article_title": "Powell says the Fed received DOJ subpoenas",
+  "extraction_date": "2026-02-07T12:57:43.955126"
+}

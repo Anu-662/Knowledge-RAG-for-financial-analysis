@@ -1,0 +1,27 @@
+{
+  "companies": [
+    {
+      "name": "Netflix",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Warner Bros. Discovery",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [
+    "Burbank",
+    "California"
+  ],
+  "products": [],
+  "relationships": [],
+  "article_id": "5f0d2c05b1ab",
+  "article_title": "The DOJ\u2019s Power Over The Netflix-WBD Deal Explained",
+  "extraction_date": "2026-02-07T13:04:56.076684"
+}

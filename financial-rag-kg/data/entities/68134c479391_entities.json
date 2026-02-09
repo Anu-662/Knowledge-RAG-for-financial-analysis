@@ -1,0 +1,37 @@
+{
+  "companies": [
+    {
+      "name": "Avala Global",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Viking Global",
+      "ticker": "",
+      "role": "related"
+    }
+  ],
+  "people": [
+    {
+      "name": "Divya Nettimi",
+      "role": "founder",
+      "company": "Avala Global"
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "valuation",
+      "value": "2 billion",
+      "unit": "USD",
+      "period": null
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "68134c479391",
+  "article_title": "Divya Nettimi's Avala Global loses more staff despite a strong 2025",
+  "extraction_date": "2026-02-07T13:05:47.242991"
+}

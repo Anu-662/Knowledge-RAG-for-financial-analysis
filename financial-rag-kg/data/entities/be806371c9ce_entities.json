@@ -1,0 +1,42 @@
+{
+  "companies": [
+    {
+      "name": "Netflix",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Warner Bros",
+      "ticker": "",
+      "role": "acquired company"
+    }
+  ],
+  "people": [
+    {
+      "name": "Ted Sarandos",
+      "role": "CEO",
+      "company": "Netflix"
+    },
+    {
+      "name": "Donald Trump",
+      "role": "public figure",
+      "company": ""
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "theatrical_window",
+      "value": "45",
+      "unit": "days",
+      "period": null
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "be806371c9ce",
+  "article_title": "Ted Sarandos Says Netflix Will Commit To 45-Day Window Post WB Acquisition; Doesn\u2019t Want To \u201cOverread\u201d Donald Trump Comments About Merger",
+  "extraction_date": "2026-02-07T13:15:59.479989"
+}

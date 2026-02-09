@@ -1,0 +1,38 @@
+{
+  "companies": [
+    {
+      "name": "Apple Inc.",
+      "ticker": "AAPL",
+      "role": "primary subject"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [
+    {
+      "type": "earnings_report",
+      "description": "1Q 2026 Results",
+      "date": null
+    }
+  ],
+  "metrics": [
+    {
+      "type": "revenue",
+      "value": "143.8B",
+      "unit": "USD",
+      "period": "1Q 2026"
+    },
+    {
+      "type": "profit",
+      "value": "42.1B",
+      "unit": "USD",
+      "period": "1Q 2026"
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "60a9cc96a499",
+  "article_title": "Apple Reports Record-Setting 1Q 2026 Results: $42.1B Profit on $143.8B Revenue",
+  "extraction_date": "2026-02-07T13:05:03.967497"
+}

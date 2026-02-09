@@ -1,0 +1,25 @@
+{
+  "companies": [
+    {
+      "name": "Toto",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "stock_price_change",
+      "value": "11",
+      "unit": "percent"
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "6cd89a348fd6",
+  "article_title": "Toilet Maker Toto's Shares Get Unlikely Boost From AI Rush",
+  "extraction_date": "2026-02-07T13:06:13.992918"
+}

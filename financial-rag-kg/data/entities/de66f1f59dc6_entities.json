@@ -1,0 +1,30 @@
+{
+  "companies": [],
+  "people": [
+    {
+      "name": "Friedrich Merz",
+      "role": "Chancellor",
+      "company": "Germany"
+    }
+  ],
+  "sectors": [
+    "Energy"
+  ],
+  "events": [],
+  "metrics": [
+    {
+      "type": "cost",
+      "value": "most expensive",
+      "unit": "",
+      "period": ""
+    }
+  ],
+  "locations": [
+    "Germany"
+  ],
+  "products": [],
+  "relationships": [],
+  "article_id": "de66f1f59dc6",
+  "article_title": "Germany's Merz Admits Nuclear Exit Was Strategic Mistake",
+  "extraction_date": "2026-02-07T13:19:07.010422"
+}

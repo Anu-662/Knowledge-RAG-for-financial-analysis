@@ -1,0 +1,35 @@
+{
+  "companies": [
+    {
+      "name": "Nvidia",
+      "ticker": "",
+      "role": ""
+    },
+    {
+      "name": "Oracle",
+      "ticker": "",
+      "role": ""
+    },
+    {
+      "name": "CoreWeave",
+      "ticker": "",
+      "role": ""
+    }
+  ],
+  "people": [
+    {
+      "name": "Gary Marcus",
+      "role": "AI scientist",
+      "company": ""
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "ad28e083176e",
+  "article_title": "The recent struggles of top AI stocks show investors are realizing they were 'sold a bill of goods,' AI scientist says",
+  "extraction_date": "2026-02-07T13:14:10.623534"
+}

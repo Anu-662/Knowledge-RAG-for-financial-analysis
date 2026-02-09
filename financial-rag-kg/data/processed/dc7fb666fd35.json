@@ -1,0 +1,18 @@
+{
+  "id": "dc7fb666fd35",
+  "title": "This new building material pulls carbon out of the air",
+  "url": "https://www.sciencedaily.com/releases/2026/01/260121034148.htm",
+  "source": "Science Daily",
+  "published_at": "2026-01-21T08:41:48Z",
+  "sector": "Technology",
+  "sentiment": {
+    "polarity": 0.0,
+    "label": "neutral"
+  },
+  "full_text": "This new building material pulls carbon out of the air. A new building material developed by engineers at Worcester Polytechnic Institute could change how the world builds. Made using an enzyme that turns carbon dioxide into solid minerals, the material cures in hours and locks away carbon instead of releasing it.\u2026. Researchers at Worcester Polytechnic Institute (WPI) have developed a new building material that removes more carbon from the atmosphere than it produces. The advance, reported in the high-impact jou\u2026 [+2266 chars]",
+  "chunks": [
+    "This new building material pulls carbon out of the air. A new building material developed by engineers at Worcester Polytechnic Institute could change how the world builds. Made using an enzyme that turns carbon dioxide into solid minerals, the material cures in hours and locks away carbon instead of releasing it.\u2026. Researchers at Worcester Polytechnic Institute (WPI) have developed a new building material that removes more carbon from the atmosphere than it produces. The advance, reported in the high-impact jou\u2026 [+2266 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.602335"
+}

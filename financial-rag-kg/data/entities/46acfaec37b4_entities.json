@@ -1,0 +1,36 @@
+{
+  "companies": [
+    {
+      "name": "Uber",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "DoorDash",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "missed_tips",
+      "value": "550 million",
+      "unit": "USD",
+      "period": "2023"
+    }
+  ],
+  "locations": [
+    "New York City"
+  ],
+  "products": [
+    "Uber Eats",
+    "DoorDash"
+  ],
+  "relationships": [],
+  "article_id": "46acfaec37b4",
+  "article_title": "Uber and DoorDash delivery workers missed $550 million worth of tips in New York City, a city report estimates",
+  "extraction_date": "2026-02-07T13:03:12.254203"
+}

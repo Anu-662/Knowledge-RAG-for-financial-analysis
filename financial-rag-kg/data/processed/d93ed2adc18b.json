@@ -1,0 +1,18 @@
+{
+  "id": "d93ed2adc18b",
+  "title": "Cold weather and data centres drive up US greenhouse gas emissions",
+  "url": "https://www.bbc.com/news/articles/cj9r3832j47o",
+  "source": "BBC News",
+  "published_at": "2026-01-13T10:01:17Z",
+  "sector": "General",
+  "sentiment": {
+    "polarity": -1.0,
+    "label": "negative"
+  },
+  "full_text": "Cold weather and data centres drive up US greenhouse gas emissions. US emissions of planet-warming gases rise for the first time in three years.. Matt McGrathEnvironment correspondent A very cold start to 2025 and the growing power demands of data centres and cryptocurrencies saw US emissions of planet-warming gases rise for the first time in\u2026 [+3470 chars]",
+  "chunks": [
+    "Cold weather and data centres drive up US greenhouse gas emissions. US emissions of planet-warming gases rise for the first time in three years.. Matt McGrathEnvironment correspondent A very cold start to 2025 and the growing power demands of data centres and cryptocurrencies saw US emissions of planet-warming gases rise for the first time in\u2026 [+3470 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.594936"
+}

@@ -1,0 +1,22 @@
+{
+  "companies": [],
+  "people": [
+    {
+      "name": "Parisa Hafezi",
+      "role": "author",
+      "company": "Reuters"
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [
+    "Iran",
+    "Dubai"
+  ],
+  "products": [],
+  "relationships": [],
+  "article_id": "c0505e8eccc8",
+  "article_title": "Iran's traders, frustrated by economic losses, turn against clerics",
+  "extraction_date": "2026-02-07T13:16:12.364176"
+}

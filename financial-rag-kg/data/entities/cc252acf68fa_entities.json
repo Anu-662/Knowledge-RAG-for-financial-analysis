@@ -1,0 +1,26 @@
+{
+  "companies": [
+    {
+      "name": "Sony Semiconductor Solutions Group",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Fujifilm",
+      "ticker": "",
+      "role": "competitor"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [
+    "180MP medium-format sensor"
+  ],
+  "relationships": [],
+  "article_id": "cc252acf68fa",
+  "article_title": "Sony Semiconductor Rumored for a 180MP Medium Format Sensor",
+  "extraction_date": "2026-02-07T13:17:38.383682"
+}

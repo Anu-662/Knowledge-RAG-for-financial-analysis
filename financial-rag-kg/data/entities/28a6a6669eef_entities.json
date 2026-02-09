@@ -1,0 +1,32 @@
+{
+  "companies": [
+    {
+      "name": "Amazon",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [
+    {
+      "type": "layoff",
+      "description": "Amazon announced another round of layoffs impacting roughly 16,000 employees",
+      "date": null
+    }
+  ],
+  "metrics": [
+    {
+      "type": "number_of_layoffs",
+      "value": "16000",
+      "unit": "",
+      "period": null
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "28a6a6669eef",
+  "article_title": "Amazon Laying Off 16,000 as It Increases \u2018Ownership\u2019 and Removes \u2018Bureaucracy\u2019",
+  "extraction_date": "2026-02-07T13:01:19.107290"
+}

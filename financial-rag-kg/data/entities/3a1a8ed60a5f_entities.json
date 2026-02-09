@@ -1,0 +1,49 @@
+{
+  "companies": [
+    {
+      "name": "SpaceX",
+      "ticker": "",
+      "role": "acquirer"
+    },
+    {
+      "name": "xAI",
+      "ticker": "",
+      "role": "acquired"
+    }
+  ],
+  "people": [
+    {
+      "name": "Elon Musk",
+      "role": "CEO",
+      "company": "SpaceX"
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "deal_value",
+      "value": "1.25",
+      "unit": "trillion",
+      "period": ""
+    },
+    {
+      "type": "valuation",
+      "value": "1",
+      "unit": "trillion",
+      "period": ""
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [
+    {
+      "entity1": "SpaceX",
+      "relationship": "acquires",
+      "entity2": "xAI"
+    }
+  ],
+  "article_id": "3a1a8ed60a5f",
+  "article_title": "SpaceX Acquires xAI in $1.25 Trillion All-Stock Deal",
+  "extraction_date": "2026-02-07T13:02:18.734623"
+}

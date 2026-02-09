@@ -1,0 +1,39 @@
+{
+  "companies": [
+    {
+      "name": "CoinDesk",
+      "ticker": "",
+      "role": "reporting entity"
+    },
+    {
+      "name": "CoinGecko",
+      "ticker": "",
+      "role": "data aggregator"
+    }
+  ],
+  "people": [],
+  "sectors": [
+    "Cryptocurrency"
+  ],
+  "events": [],
+  "metrics": [
+    {
+      "type": "failure_rate",
+      "value": "53",
+      "unit": "percent",
+      "period": "since 2021"
+    },
+    {
+      "type": "failure_year",
+      "value": "2025",
+      "unit": "",
+      "period": null
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "a76d2a988327",
+  "article_title": "53% of Crypto Tokens Launched Since 2021 Have Failed, Most in 2025",
+  "extraction_date": "2026-02-07T13:13:47.947813"
+}

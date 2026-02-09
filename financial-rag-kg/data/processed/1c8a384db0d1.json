@@ -1,0 +1,18 @@
+{
+  "id": "1c8a384db0d1",
+  "title": "Here's how much Apple CEO Tim Cook made last year",
+  "url": "https://www.businessinsider.com/apple-ceo-tim-cook-2025-pay-compensation-salary-2026-1",
+  "source": "Business Insider",
+  "published_at": "2026-01-09T17:52:23Z",
+  "sector": "General",
+  "sentiment": {
+    "polarity": -1.0,
+    "label": "negative"
+  },
+  "full_text": "Here's how much Apple CEO Tim Cook made last year. Tim Cook's salary was a drop in the bucket of the Apple CEO's total pay package for 2025.. Tim Cook made slightly less in 2025 than he did in 2024.Tom Williams/CQ-Roll Call, Inc via Getty Images <ul><li>Apple CEO Tim Cook earned $74.3 million in total compensation for fiscal year 2025.</l\u2026 [+1508 chars]",
+  "chunks": [
+    "Here's how much Apple CEO Tim Cook made last year. Tim Cook's salary was a drop in the bucket of the Apple CEO's total pay package for 2025.. Tim Cook made slightly less in 2025 than he did in 2024.Tom Williams/CQ-Roll Call, Inc via Getty Images <ul><li>Apple CEO Tim Cook earned $74.3 million in total compensation for fiscal year 2025.</l\u2026 [+1508 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.579074"
+}

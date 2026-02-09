@@ -1,0 +1,18 @@
+{
+  "id": "48cfc2f40b6f",
+  "title": "Stocks fall after Trump's DOJ opens criminal probe into Fed Chair Powell",
+  "url": "https://abcnews.go.com/Business/stocks-fall-after-trumps-doj-opens-criminal-probe/story?id=129127081",
+  "source": "ABC News",
+  "published_at": "2026-01-12T14:34:55Z",
+  "sector": "Finance",
+  "sentiment": {
+    "polarity": 0.0,
+    "label": "neutral"
+  },
+  "full_text": "Stocks fall after Trump's DOJ opens criminal probe into Fed Chair Powell. Powell rebuked the probe as an effort to undermine the Fed's independence.. Stocks slid in early trading on Monday hours after reports that the Department of Justice had opened a criminal investigation into Federal Reserve Chair Jerome Powell centered on the central bank lea\u2026 [+1628 chars]",
+  "chunks": [
+    "Stocks fall after Trump's DOJ opens criminal probe into Fed Chair Powell. Powell rebuked the probe as an effort to undermine the Fed's independence.. Stocks slid in early trading on Monday hours after reports that the Department of Justice had opened a criminal investigation into Federal Reserve Chair Jerome Powell centered on the central bank lea\u2026 [+1628 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.596581"
+}

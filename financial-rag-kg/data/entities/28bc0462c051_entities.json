@@ -1,0 +1,40 @@
+{
+  "companies": [
+    {
+      "name": "Virgin Media O2",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Netomnia",
+      "ticker": "",
+      "role": "acquired company"
+    }
+  ],
+  "people": [],
+  "sectors": [
+    "Telecommunications"
+  ],
+  "events": [],
+  "metrics": [
+    {
+      "type": "deal_value",
+      "value": "2bn",
+      "unit": "GBP"
+    }
+  ],
+  "locations": [
+    "UK"
+  ],
+  "products": [],
+  "relationships": [
+    {
+      "entity1": "Virgin Media O2",
+      "relationship": "acquires",
+      "entity2": "Netomnia"
+    }
+  ],
+  "article_id": "28bc0462c051",
+  "article_title": "Virgin Media O2 owners seal \u00a32bn Netomnia deal in major UK fibre network consolidation",
+  "extraction_date": "2026-02-07T13:01:23.278133"
+}

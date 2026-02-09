@@ -1,0 +1,30 @@
+{
+  "companies": [
+    {
+      "name": "Federal Reserve",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Department of Justice",
+      "ticker": "",
+      "role": "related entity"
+    }
+  ],
+  "people": [
+    {
+      "name": "Jerome Powell",
+      "role": "Chair",
+      "company": "Federal Reserve"
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "ca1cf9398129",
+  "article_title": "Inflation held firm in December, testing Fed amid DOJ probe into Powell",
+  "extraction_date": "2026-02-07T13:17:12.746215"
+}

@@ -1,0 +1,26 @@
+{
+  "companies": [],
+  "people": [],
+  "sectors": [
+    "Utility"
+  ],
+  "events": [],
+  "metrics": [
+    {
+      "type": "installed_capacity",
+      "value": "33000",
+      "unit": "megawatts"
+    }
+  ],
+  "locations": [
+    "North America",
+    "South America",
+    "Europe",
+    "Asia"
+  ],
+  "products": [],
+  "relationships": [],
+  "article_id": "cf8dd3dca50b",
+  "article_title": "5 Once-Sleepy Dividend Utility Companies Are Striking Massive Deals With Big Tech",
+  "extraction_date": "2026-02-07T13:17:59.290475"
+}

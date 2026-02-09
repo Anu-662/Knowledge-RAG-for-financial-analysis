@@ -1,0 +1,48 @@
+{
+  "companies": [
+    {
+      "name": "Amazon",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Alphabet",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [
+    {
+      "name": "Larry Page",
+      "role": "co-founder",
+      "company": "Alphabet"
+    },
+    {
+      "name": "Jeff Bezos",
+      "role": "founder",
+      "company": "Amazon"
+    },
+    {
+      "name": "Sergey Brin",
+      "role": "co-founder",
+      "company": "Alphabet"
+    }
+  ],
+  "sectors": [
+    "Technology"
+  ],
+  "events": [],
+  "metrics": [
+    {
+      "type": "net_worth",
+      "value": "300 billion",
+      "unit": "USD"
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "cfaa74af37c6",
+  "article_title": "Larry Page, Jeff Bezos, and Sergey Brin are close to joining the $300 billion club as tech fortunes soar",
+  "extraction_date": "2026-02-07T13:18:02.477603"
+}

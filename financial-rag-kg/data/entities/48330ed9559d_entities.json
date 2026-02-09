@@ -1,0 +1,23 @@
+{
+  "companies": [],
+  "people": [
+    {
+      "name": "Nicholas Weaver",
+      "role": "researcher",
+      "company": "UC-Berkeley"
+    }
+  ],
+  "sectors": [
+    "Cryptocurrency"
+  ],
+  "events": [],
+  "metrics": [],
+  "locations": [
+    "UC-Berkeley"
+  ],
+  "products": [],
+  "relationships": [],
+  "article_id": "48330ed9559d",
+  "article_title": "Why This Computer Scientist Says All Cryptocurrency Should \"Die in a Fire\"",
+  "extraction_date": "2026-02-07T13:03:24.220309"
+}

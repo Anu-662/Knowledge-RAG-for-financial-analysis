@@ -1,0 +1,28 @@
+{
+  "companies": [],
+  "people": [
+    {
+      "name": "Jimmy Donaldson",
+      "role": "top creator",
+      "company": "MrBeast"
+    }
+  ],
+  "sectors": [
+    "creator economy"
+  ],
+  "events": [],
+  "metrics": [
+    {
+      "type": "income_share",
+      "value": "21",
+      "unit": "percent",
+      "period": "top 1%"
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "d4062b902747",
+  "article_title": "Creator income inequality is rising as top influencers rake in big paydays from brands",
+  "extraction_date": "2026-02-07T13:18:18.243932"
+}

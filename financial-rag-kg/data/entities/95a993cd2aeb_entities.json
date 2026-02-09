@@ -1,0 +1,29 @@
+{
+  "companies": [
+    {
+      "name": "Apple Inc.",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [
+    {
+      "type": "lawsuit",
+      "description": "UK class action lawsuit against Apple seeking billions in damages",
+      "date": null
+    }
+  ],
+  "metrics": [],
+  "locations": [
+    "UK"
+  ],
+  "products": [
+    "Apple Pay"
+  ],
+  "relationships": [],
+  "article_id": "95a993cd2aeb",
+  "article_title": "Apple Raised UK Banking Costs, Lawsuit Alleges",
+  "extraction_date": "2026-02-07T13:12:28.795917"
+}

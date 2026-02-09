@@ -1,0 +1,38 @@
+{
+  "companies": [
+    {
+      "name": "Zillow",
+      "ticker": "",
+      "role": "data source"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "average_30_year_fixed_mortgage_rate",
+      "value": "5.98",
+      "unit": "percent",
+      "period": "January 8, 2026"
+    },
+    {
+      "type": "average_15_year_fixed_mortgage_rate",
+      "value": "5.41",
+      "unit": "percent",
+      "period": "January 8, 2026"
+    },
+    {
+      "type": "mortgage_rate_low",
+      "value": "6",
+      "unit": "percent",
+      "period": "early 2026"
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "fba7cf1d5d01",
+  "article_title": "Mortgage and refinance interest rates today, January 8, 2026: Testing 6% lows",
+  "extraction_date": "2026-02-07T13:20:37.319502"
+}

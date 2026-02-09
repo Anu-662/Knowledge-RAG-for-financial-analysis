@@ -1,0 +1,26 @@
+{
+  "companies": [],
+  "people": [
+    {
+      "name": "Kevin Warsh",
+      "role": "nominee",
+      "company": "Federal Reserve"
+    },
+    {
+      "name": "Donald Trump",
+      "role": "nominator",
+      "company": "Federal Reserve"
+    }
+  ],
+  "sectors": [
+    "Finance"
+  ],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "c4526a70395a",
+  "article_title": "Trump\u2019s Fed-Chair Pick Is an Interest-Rate Hawk\u2014Or Is He?",
+  "extraction_date": "2026-02-07T13:16:34.554534"
+}

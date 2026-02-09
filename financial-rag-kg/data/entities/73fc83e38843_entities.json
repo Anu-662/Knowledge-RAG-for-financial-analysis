@@ -1,0 +1,37 @@
+{
+  "companies": [],
+  "people": [],
+  "sectors": [
+    "Technology"
+  ],
+  "events": [],
+  "metrics": [
+    {
+      "type": "investment",
+      "value": "250",
+      "unit": "billion",
+      "context": "USD"
+    },
+    {
+      "type": "tariff_rate",
+      "value": "20",
+      "unit": "percent",
+      "context": "initial"
+    },
+    {
+      "type": "tariff_rate",
+      "value": "15",
+      "unit": "percent",
+      "context": "reduced"
+    }
+  ],
+  "locations": [
+    "Taiwan",
+    "United States"
+  ],
+  "products": [],
+  "relationships": [],
+  "article_id": "73fc83e38843",
+  "article_title": "The US claims it just strongarmed Taiwan into spending $250 billion on American chip manufacturing",
+  "extraction_date": "2026-02-07T13:09:12.873873"
+}

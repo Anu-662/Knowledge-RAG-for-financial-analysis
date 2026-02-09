@@ -1,0 +1,22 @@
+{
+  "companies": [],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "carbon_emissions_increase",
+      "value": "2.4",
+      "unit": "percent",
+      "period": "2025"
+    }
+  ],
+  "locations": [
+    "United States"
+  ],
+  "products": [],
+  "relationships": [],
+  "article_id": "79b3bfe7a953",
+  "article_title": "US Carbon Pollution Rose In 2025, a Reversal From Prior Years",
+  "extraction_date": "2026-02-07T13:10:45.281747"
+}

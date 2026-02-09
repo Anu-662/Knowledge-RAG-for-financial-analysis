@@ -1,0 +1,18 @@
+{
+  "id": "bf27811103f8",
+  "title": "Microsoft\u2019s $440 billion wipeout, and investors angry about OpenAI\u2019s debt, explained",
+  "url": "https://finance.yahoo.com/news/microsoft-440-billion-wipeout-investors-175614975.html",
+  "source": "Yahoo Entertainment",
+  "published_at": "2026-01-29T17:56:14Z",
+  "sector": "General",
+  "sentiment": {
+    "polarity": 0.333,
+    "label": "positive"
+  },
+  "full_text": "Microsoft\u2019s $440 billion wipeout, and investors angry about OpenAI\u2019s debt, explained. Microsoft\u2019s stock has plummeted 12% due to a slight miss on revenue, showing how spooked investors are by the \"spend now, profit later\" AI market. Wall Streets years-long bet on AI is facing a severe test on Thursday, as investors might begin to view OpenAIand generative AI in generalnot as a catalyst for continuous growth, but as a source of s\u2026 [+3106 chars]",
+  "chunks": [
+    "Microsoft\u2019s $440 billion wipeout, and investors angry about OpenAI\u2019s debt, explained. Microsoft\u2019s stock has plummeted 12% due to a slight miss on revenue, showing how spooked investors are by the \"spend now, profit later\" AI market. Wall Streets years-long bet on AI is facing a severe test on Thursday, as investors might begin to view OpenAIand generative AI in generalnot as a catalyst for continuous growth, but as a source of s\u2026 [+3106 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.578415"
+}

@@ -1,0 +1,50 @@
+{
+  "companies": [
+    {
+      "name": "Paramount",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Warner Bros Discovery",
+      "ticker": "WBD",
+      "role": "target"
+    },
+    {
+      "name": "Netflix",
+      "ticker": "",
+      "role": "competitor"
+    },
+    {
+      "name": "Paramount Skydance",
+      "ticker": "",
+      "role": "associated"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [
+    {
+      "entity1": "Paramount",
+      "relationship": "seeks_to_acquire",
+      "entity2": "Warner Bros Discovery"
+    },
+    {
+      "entity1": "Paramount",
+      "relationship": "competes_with",
+      "entity2": "Netflix"
+    },
+    {
+      "entity1": "Paramount Skydance",
+      "relationship": "nominates_directors_to",
+      "entity2": "Warner Bros Discovery"
+    }
+  ],
+  "article_id": "55d1c6072c21",
+  "article_title": "Paramount\u2019s hostile bid to take over Warner Bros Discovery continues via proxy fight, lawsuit",
+  "extraction_date": "2026-02-07T13:04:25.652873"
+}

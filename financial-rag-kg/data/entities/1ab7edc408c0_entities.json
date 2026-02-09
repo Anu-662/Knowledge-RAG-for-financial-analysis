@@ -1,0 +1,38 @@
+{
+  "companies": [
+    {
+      "name": "JPMorgan Chase",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [
+    {
+      "name": "Jamie Dimon",
+      "role": "CEO",
+      "company": "JPMorgan Chase"
+    }
+  ],
+  "sectors": [],
+  "events": [
+    {
+      "type": "earnings_call",
+      "description": "Defended tech spending",
+      "date": null
+    }
+  ],
+  "metrics": [
+    {
+      "type": "spending_increase",
+      "value": "9",
+      "unit": "billion USD",
+      "period": null
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "1ab7edc408c0",
+  "article_title": "Jamie Dimon defends JPMorgan's tech spending to avoid getting 'left behind'",
+  "extraction_date": "2026-02-07T13:00:11.101875"
+}

@@ -1,0 +1,36 @@
+{
+  "companies": [],
+  "people": [
+    {
+      "name": "George Jones",
+      "role": "deceased",
+      "company": ""
+    },
+    {
+      "name": "Nancy Jones",
+      "role": "widow",
+      "company": ""
+    },
+    {
+      "name": "Kirk West",
+      "role": "ex-boyfriend",
+      "company": ""
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "value_of_stolen_crypto",
+      "value": "millions",
+      "unit": "USD",
+      "period": null
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "4397c8c96a27",
+  "article_title": "George Jones\u2019 Widow Countersued Over Ex-Boyfriend\u2019s Alleged Cryptocurrency Theft",
+  "extraction_date": "2026-02-07T13:03:00.567634"
+}

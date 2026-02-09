@@ -1,0 +1,18 @@
+{
+  "id": "a3930c2acaa4",
+  "title": "Santander to close 44 branches and put 291 jobs at risk",
+  "url": "https://www.bbc.com/news/articles/cq8415jjw92o",
+  "source": "BBC News",
+  "published_at": "2026-01-29T08:23:34Z",
+  "sector": "General",
+  "sentiment": {
+    "polarity": 0.0,
+    "label": "neutral"
+  },
+  "full_text": "Santander to close 44 branches and put 291 jobs at risk. The high-street lender is the latest to announce a swathe of branch closures.. \"We will continue to invest in both our branch network - comprising of full-service branches, counter-free branches, reduced-hour branches, Santander Locals, and our increasingly popular work cafes -\u2026 [+138 chars]",
+  "chunks": [
+    "Santander to close 44 branches and put 291 jobs at risk. The high-street lender is the latest to announce a swathe of branch closures.. \"We will continue to invest in both our branch network - comprising of full-service branches, counter-free branches, reduced-hour branches, Santander Locals, and our increasingly popular work cafes -\u2026 [+138 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.597965"
+}

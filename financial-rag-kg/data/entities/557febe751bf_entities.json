@@ -1,0 +1,25 @@
+{
+  "companies": [
+    {
+      "name": "Federal Reserve",
+      "ticker": "",
+      "role": "subject"
+    }
+  ],
+  "people": [
+    {
+      "name": "Jerome Powell",
+      "role": "chair",
+      "company": "Federal Reserve"
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "557febe751bf",
+  "article_title": "DOJ subpoenas Federal Reserve in escalating pressure campaign",
+  "extraction_date": "2026-02-07T13:04:23.169164"
+}

@@ -1,0 +1,24 @@
+{
+  "companies": [
+    {
+      "name": "Federal Reserve",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Donald Trump",
+      "ticker": "",
+      "role": "related figure"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "2136b8791974",
+  "article_title": "Will the Supreme Court continue to protect the Federal Reserve from Donald Trump?",
+  "extraction_date": "2026-02-07T13:00:37.406571"
+}

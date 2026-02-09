@@ -1,0 +1,18 @@
+{
+  "id": "5231580bab81",
+  "title": "Hiring slows in December to end the weakest year of job growth since the pandemic",
+  "url": "https://www.npr.org/2026/01/09/nx-s1-5670392/jobs-employment-labor-market-economy-tariffs",
+  "source": "NPR",
+  "published_at": "2026-01-09T13:49:25Z",
+  "sector": "General",
+  "sentiment": {
+    "polarity": 0.333,
+    "label": "positive"
+  },
+  "full_text": "Hiring slows in December to end the weakest year of job growth since the pandemic. U.S. employers added 50,000 jobs in December, according to a report from the Labor Department Friday. Measured annually, job gains in 2025 were the slowest since 2020.. Hiring remained anemic in December, closing out the weakest year for job growth since the beginning of the pandemic. U.S. employers added just 50,000 jobs last month, according to a report Friday f\u2026 [+2050 chars]",
+  "chunks": [
+    "Hiring slows in December to end the weakest year of job growth since the pandemic. U.S. employers added 50,000 jobs in December, according to a report from the Labor Department Friday. Measured annually, job gains in 2025 were the slowest since 2020.. Hiring remained anemic in December, closing out the weakest year for job growth since the beginning of the pandemic. U.S. employers added just 50,000 jobs last month, according to a report Friday f\u2026 [+2050 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.584221"
+}

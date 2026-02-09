@@ -1,0 +1,31 @@
+{
+  "companies": [
+    {
+      "name": "Federal Reserve",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [
+    {
+      "name": "Jerome Powell",
+      "role": "Chair",
+      "company": "Federal Reserve"
+    }
+  ],
+  "sectors": [],
+  "events": [
+    {
+      "type": "criminal_investigation",
+      "description": "DOJ launches criminal investigation into Federal Reserve Chair",
+      "date": null
+    }
+  ],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "a286791b3d3c",
+  "article_title": "DOJ launches criminal investigation into Fed Chair Jerome Powell, he says",
+  "extraction_date": "2026-02-07T13:13:27.685979"
+}

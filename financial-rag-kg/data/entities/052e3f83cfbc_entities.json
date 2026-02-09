@@ -1,0 +1,21 @@
+{
+  "companies": [],
+  "people": [
+    {
+      "name": "Donald Trump",
+      "role": "proposer",
+      "company": ""
+    }
+  ],
+  "sectors": [
+    "Finance"
+  ],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "052e3f83cfbc",
+  "article_title": "Trump's sweeping proposals for credit cards and student debt could be a big deal for other lenders",
+  "extraction_date": "2026-02-07T12:56:53.255335"
+}

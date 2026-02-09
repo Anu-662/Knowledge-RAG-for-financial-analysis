@@ -1,0 +1,29 @@
+{
+  "companies": [],
+  "people": [
+    {
+      "name": "Chu Weimin",
+      "role": "photographer"
+    }
+  ],
+  "sectors": [
+    "Green Energy"
+  ],
+  "events": [],
+  "metrics": [
+    {
+      "type": "wind_and_solar_installation",
+      "value": "more than half",
+      "unit": "percent",
+      "period": "last year"
+    }
+  ],
+  "locations": [
+    "China"
+  ],
+  "products": [],
+  "relationships": [],
+  "article_id": "94e293543e24",
+  "article_title": "Photos of China\u2019s Green Energy Transition",
+  "extraction_date": "2026-02-07T13:12:26.898899"
+}

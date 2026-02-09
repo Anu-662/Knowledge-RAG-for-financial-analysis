@@ -1,0 +1,43 @@
+{
+  "companies": [
+    {
+      "name": "Google",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [],
+  "sectors": [
+    "Technology",
+    "Consumer Electronics"
+  ],
+  "events": [],
+  "metrics": [
+    {
+      "type": "price",
+      "value": "500",
+      "unit": "USD",
+      "context": "under $500"
+    },
+    {
+      "type": "price",
+      "value": "500",
+      "unit": "EUR",
+      "context": "around \u20ac500 in Europe"
+    },
+    {
+      "type": "price_change",
+      "value": "50",
+      "unit": "EUR",
+      "context": "about \u20ac50 less than last year"
+    }
+  ],
+  "locations": [],
+  "products": [
+    "Pixel 10a"
+  ],
+  "relationships": [],
+  "article_id": "c3b9015d93b1",
+  "article_title": "Google Pixel 10a price leak hints at a rare Google price cut",
+  "extraction_date": "2026-02-07T13:16:29.710107"
+}

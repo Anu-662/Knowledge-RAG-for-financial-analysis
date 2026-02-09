@@ -1,0 +1,18 @@
+{
+  "id": "902d1f7f43e9",
+  "title": "Trump calls for a 10% cap on credit card interest rates",
+  "url": "https://www.npr.org/2026/01/12/nx-s1-5675151/trump-credit-card-interest-rate-cap",
+  "source": "NPR",
+  "published_at": "2026-01-12T20:51:42Z",
+  "sector": "General",
+  "sentiment": {
+    "polarity": 0.0,
+    "label": "neutral"
+  },
+  "full_text": "Trump calls for a 10% cap on credit card interest rates. With credit card interest rates near modern highs, President Trump says he wants to cap the rates for one year.. President Donald Trump has floated the idea of putting a one-year cap on credit card interest rates at 10%. \"They've really abused the public,\" Trump told reporters aboard Air Force One Monday, desc\u2026 [+3273 chars]",
+  "chunks": [
+    "Trump calls for a 10% cap on credit card interest rates. With credit card interest rates near modern highs, President Trump says he wants to cap the rates for one year.. President Donald Trump has floated the idea of putting a one-year cap on credit card interest rates at 10%. \"They've really abused the public,\" Trump told reporters aboard Air Force One Monday, desc\u2026 [+3273 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.587559"
+}

@@ -1,0 +1,29 @@
+{
+  "companies": [
+    {
+      "name": "Texas Roadhouse",
+      "ticker": "TXRH",
+      "role": "primary subject"
+    },
+    {
+      "name": "BMO Capital",
+      "ticker": "",
+      "role": "analyst"
+    },
+    {
+      "name": "Wells Fargo",
+      "ticker": "",
+      "role": "analyst"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "5f1126a1a3ec",
+  "article_title": "Are Cautious TXRH Analyst Upgrades Hinting at a Deeper Texas Roadhouse Resilience Story?",
+  "extraction_date": "2026-02-07T13:04:57.693585"
+}

@@ -1,0 +1,34 @@
+{
+  "companies": [
+    {
+      "name": "International Renewable Energy Agency",
+      "ticker": "",
+      "role": "publisher"
+    }
+  ],
+  "people": [],
+  "sectors": [
+    "Renewable Energy"
+  ],
+  "events": [
+    {
+      "type": "report_publication",
+      "description": "Renewable Energy and Jobs Annual Review 2025",
+      "date": null
+    }
+  ],
+  "metrics": [
+    {
+      "type": "employment",
+      "value": "16.6",
+      "unit": "million",
+      "period": "last year"
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "476f0b86a785",
+  "article_title": "16.6 Million People Work In Renewable Energy?",
+  "extraction_date": "2026-02-07T13:03:18.096642"
+}

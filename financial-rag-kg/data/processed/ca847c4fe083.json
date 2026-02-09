@@ -1,0 +1,18 @@
+{
+  "id": "ca847c4fe083",
+  "title": "UK households to get \u00a315bn for solar and green tech to lower energy bills",
+  "url": "https://www.bbc.com/news/articles/ckgj7me00p0o",
+  "source": "BBC News",
+  "published_at": "2026-01-20T22:32:47Z",
+  "sector": "Energy",
+  "sentiment": {
+    "polarity": 0.0,
+    "label": "neutral"
+  },
+  "full_text": "UK households to get \u00a315bn for solar and green tech to lower energy bills. The government has announced the details of its long-awaited Warm Homes Plan which promises to cut energy bills.. Esme Stallard,Climate and science reporterand Justin Rowlatt,Climate Editor Households will be eligible for thousands of pounds' worth of solar panels and other green tech to lower their energy bil\u2026 [+9145 chars]",
+  "chunks": [
+    "UK households to get \u00a315bn for solar and green tech to lower energy bills. The government has announced the details of its long-awaited Warm Homes Plan which promises to cut energy bills.. Esme Stallard,Climate and science reporterand Justin Rowlatt,Climate Editor Households will be eligible for thousands of pounds' worth of solar panels and other green tech to lower their energy bil\u2026 [+9145 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.601906"
+}

@@ -1,0 +1,26 @@
+{
+  "companies": [
+    {
+      "name": "Nvidia",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "return",
+      "value": "21000",
+      "unit": "percent",
+      "period": "10 years"
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "9a598289b2fb",
+  "article_title": "Investor Who Made $20 Million on Nvidia Stock Reveals the Next Big Opportunity",
+  "extraction_date": "2026-02-07T13:12:44.496792"
+}

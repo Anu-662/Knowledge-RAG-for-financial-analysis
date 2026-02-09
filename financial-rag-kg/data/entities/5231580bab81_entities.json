@@ -1,0 +1,28 @@
+{
+  "companies": [],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "job_addition",
+      "value": "50000",
+      "unit": "jobs",
+      "period": "December 2023"
+    },
+    {
+      "type": "annual_job_growth",
+      "value": "slowest",
+      "unit": "",
+      "period": "2025"
+    }
+  ],
+  "locations": [
+    "U.S."
+  ],
+  "products": [],
+  "relationships": [],
+  "article_id": "5231580bab81",
+  "article_title": "Hiring slows in December to end the weakest year of job growth since the pandemic",
+  "extraction_date": "2026-02-07T13:04:11.016580"
+}

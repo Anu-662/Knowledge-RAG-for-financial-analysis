@@ -1,0 +1,21 @@
+{
+  "companies": [
+    {
+      "name": "Anthropic",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [
+    "Claude Opus 4.6"
+  ],
+  "relationships": [],
+  "article_id": "c3eaf39e3322",
+  "article_title": "Anthropic Launches New Model That Spots Zero Days, Makes Wall Street Traders Lose Their Minds",
+  "extraction_date": "2026-02-07T13:16:31.736666"
+}

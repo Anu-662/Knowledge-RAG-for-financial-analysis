@@ -1,0 +1,53 @@
+{
+  "companies": [
+    {
+      "name": "Kaufman Hall",
+      "ticker": "",
+      "role": "analysis provider"
+    },
+    {
+      "name": "Vizient",
+      "ticker": "",
+      "role": "parent company"
+    }
+  ],
+  "people": [
+    {
+      "name": "Donald Trump",
+      "role": "politician",
+      "company": ""
+    }
+  ],
+  "sectors": [
+    "Healthcare"
+  ],
+  "events": [
+    {
+      "type": "hospital_merger_activity",
+      "description": "46 hospital and health system transactions announced",
+      "date": "2025"
+    }
+  ],
+  "metrics": [
+    {
+      "type": "hospital_transactions",
+      "value": "46",
+      "unit": "",
+      "period": "2025"
+    },
+    {
+      "type": "hospital_transactions_previous_year",
+      "value": "",
+      "unit": "",
+      "period": "2024"
+    }
+  ],
+  "locations": [],
+  "products": [
+    "One Big Beautiful Bill Act"
+  ],
+  "relationships": [],
+  "article_id": "9b75a42d673a",
+  "article_title": "Hospital Mergers Gain Momentum As Trump\u2019s \u2018Beautiful Bill\u2019 Cuts Loom",
+  "extraction_date": "2026-02-07T13:12:48.886309"
+}

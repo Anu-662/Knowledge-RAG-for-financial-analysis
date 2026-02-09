@@ -1,0 +1,24 @@
+{
+  "companies": [
+    {
+      "name": "Verizon",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Trump administration",
+      "ticker": "",
+      "role": "influencer"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "8c298ed87f05",
+  "article_title": "Trump FCC Helps Verizon Make It Harder For You To Switch Wireless Carriers",
+  "extraction_date": "2026-02-07T13:11:41.909465"
+}

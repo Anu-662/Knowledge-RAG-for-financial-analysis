@@ -1,0 +1,30 @@
+{
+  "companies": [
+    {
+      "name": "RationalFX",
+      "ticker": "",
+      "role": "reporting company"
+    }
+  ],
+  "people": [],
+  "sectors": [
+    "Technology"
+  ],
+  "events": [],
+  "metrics": [
+    {
+      "type": "job_elimination",
+      "value": "244851",
+      "unit": "jobs",
+      "period": "2025"
+    }
+  ],
+  "locations": [
+    "U.K."
+  ],
+  "products": [],
+  "relationships": [],
+  "article_id": "48b4099ac7ea",
+  "article_title": "Global Tech-Sector Layoffs Surpass 244,000 In 2025",
+  "extraction_date": "2026-02-07T13:03:29.396675"
+}

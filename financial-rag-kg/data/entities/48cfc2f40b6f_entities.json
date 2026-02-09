@@ -1,0 +1,25 @@
+{
+  "companies": [],
+  "people": [
+    {
+      "name": "Jerome Powell",
+      "role": "Chair",
+      "company": "Federal Reserve"
+    }
+  ],
+  "sectors": [],
+  "events": [
+    {
+      "type": "criminal_probe",
+      "description": "DOJ opens criminal investigation into Federal Reserve Chair",
+      "date": null
+    }
+  ],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "48cfc2f40b6f",
+  "article_title": "Stocks fall after Trump's DOJ opens criminal probe into Fed Chair Powell",
+  "extraction_date": "2026-02-07T13:03:31.463539"
+}

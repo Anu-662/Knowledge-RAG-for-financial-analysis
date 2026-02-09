@@ -1,0 +1,24 @@
+{
+  "companies": [],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "copper_demand_supply_gap",
+      "value": "millions of metric tons",
+      "unit": null,
+      "period": null
+    }
+  ],
+  "locations": [
+    "China"
+  ],
+  "products": [
+    "copper"
+  ],
+  "relationships": [],
+  "article_id": "13ad9ebd8e94",
+  "article_title": "More worrying tech supply chain news - no, it's not more RAM troubles, but this vital material could be set to cause issues sooner than expected",
+  "extraction_date": "2026-02-07T12:59:46.985590"
+}

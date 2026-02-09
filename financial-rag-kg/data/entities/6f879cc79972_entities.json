@@ -1,0 +1,37 @@
+{
+  "companies": [
+    {
+      "name": "Netflix",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [
+    {
+      "name": "Ted Sarandos",
+      "role": "co-CEO",
+      "company": "Netflix"
+    }
+  ],
+  "sectors": [],
+  "events": [
+    {
+      "type": "earnings_report",
+      "description": "Q4 earnings beat expectations",
+      "date": null
+    }
+  ],
+  "metrics": [
+    {
+      "type": "stock_price_change",
+      "value": "4",
+      "unit": "percent"
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "6f879cc79972",
+  "article_title": "Netflix beats on earnings, but shares dip as the streamer's forecast for Q1 falls short of Wall Street expectations",
+  "extraction_date": "2026-02-07T13:07:28.622378"
+}

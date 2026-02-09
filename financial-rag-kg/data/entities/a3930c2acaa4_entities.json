@@ -1,0 +1,30 @@
+{
+  "companies": [
+    {
+      "name": "Santander",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "branch_closures",
+      "value": "44",
+      "unit": "branches"
+    },
+    {
+      "type": "job_risks",
+      "value": "291",
+      "unit": "jobs"
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "a3930c2acaa4",
+  "article_title": "Santander to close 44 branches and put 291 jobs at risk",
+  "extraction_date": "2026-02-07T13:13:30.279221"
+}

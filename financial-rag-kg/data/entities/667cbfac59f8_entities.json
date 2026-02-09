@@ -1,0 +1,34 @@
+{
+  "companies": [
+    {
+      "name": "SPINS",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "MikMak",
+      "ticker": "",
+      "role": "acquired company"
+    }
+  ],
+  "people": [],
+  "sectors": [
+    "Retail",
+    "CPG",
+    "Media"
+  ],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [
+    {
+      "entity1": "SPINS",
+      "relationship": "acquires",
+      "entity2": "MikMak"
+    }
+  ],
+  "article_id": "667cbfac59f8",
+  "article_title": "CPG Data Seller SPINS Moves Into Media With MikMak Acquisition",
+  "extraction_date": "2026-02-07T13:05:38.656989"
+}

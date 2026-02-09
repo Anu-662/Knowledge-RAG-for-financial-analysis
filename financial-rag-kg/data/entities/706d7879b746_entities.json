@@ -1,0 +1,41 @@
+{
+  "companies": [
+    {
+      "name": "ELITE Solar",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [],
+  "sectors": [
+    "Renewable Energy"
+  ],
+  "events": [],
+  "metrics": [
+    {
+      "type": "solar_capacity",
+      "value": "5",
+      "unit": "GW"
+    },
+    {
+      "type": "solar_cell_production",
+      "value": "2",
+      "unit": "GW"
+    },
+    {
+      "type": "solar_capacity_integration",
+      "value": "3",
+      "unit": "GW"
+    }
+  ],
+  "locations": [
+    "Egypt",
+    "Suez Canal Economic Zone",
+    "Ain Sokhna"
+  ],
+  "products": [],
+  "relationships": [],
+  "article_id": "706d7879b746",
+  "article_title": "ELITE\u00a0Solar announces commissioning\u00a0of new 5GW PV facility in Egypt",
+  "extraction_date": "2026-02-07T13:08:13.064778"
+}

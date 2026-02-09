@@ -1,0 +1,30 @@
+{
+  "companies": [],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "admission_price",
+      "value": "1",
+      "unit": "USD",
+      "period": "1955"
+    },
+    {
+      "type": "ticket_price_change",
+      "description": "prices have risen drastically",
+      "value": null,
+      "unit": null,
+      "period": null
+    }
+  ],
+  "locations": [
+    "Disneyland",
+    "Disney World"
+  ],
+  "products": [],
+  "relationships": [],
+  "article_id": "068dbf878507",
+  "article_title": "Disneyland admission was $1 on opening day in 1955. See how Disney park prices have skyrocketed since.",
+  "extraction_date": "2026-02-07T12:57:19.154997"
+}

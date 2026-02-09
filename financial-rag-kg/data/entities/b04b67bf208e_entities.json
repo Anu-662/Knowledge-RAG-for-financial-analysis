@@ -1,0 +1,43 @@
+{
+  "companies": [
+    {
+      "name": "Apple Inc.",
+      "ticker": "AAPL",
+      "role": "primary subject"
+    },
+    {
+      "name": "Nikkei Asia",
+      "ticker": "",
+      "role": "source"
+    },
+    {
+      "name": "The Information",
+      "ticker": "",
+      "role": "source"
+    },
+    {
+      "name": "Bloomberg",
+      "ticker": "",
+      "role": "source"
+    },
+    {
+      "name": "Ming-Chi Kuo",
+      "ticker": "",
+      "role": "analyst"
+    }
+  ],
+  "people": [],
+  "sectors": [
+    "Technology"
+  ],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [
+    "iPhone"
+  ],
+  "relationships": [],
+  "article_id": "b04b67bf208e",
+  "article_title": "Apple's New Split iPhone Launch Strategy Corroborated in Latest Report",
+  "extraction_date": "2026-02-07T13:14:29.977708"
+}

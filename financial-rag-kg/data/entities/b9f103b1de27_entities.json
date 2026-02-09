@@ -1,0 +1,29 @@
+{
+  "companies": [
+    {
+      "name": "Dell Technologies",
+      "ticker": "DELL",
+      "role": "primary subject"
+    },
+    {
+      "name": "Intel",
+      "ticker": "INTC",
+      "role": "primary subject"
+    },
+    {
+      "name": "DraftKings",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "b9f103b1de27",
+  "article_title": "Dell, Intel, DraftKings: Top analyst calls today",
+  "extraction_date": "2026-02-07T13:15:38.003835"
+}

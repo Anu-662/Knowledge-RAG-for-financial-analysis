@@ -1,0 +1,27 @@
+{
+  "companies": [],
+  "people": [
+    {
+      "name": "Thom Tillis",
+      "role": "Senator",
+      "company": "Republican North Carolina"
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [
+    "North Carolina"
+  ],
+  "products": [],
+  "relationships": [
+    {
+      "entity1": "Thom Tillis",
+      "relationship": "opposes",
+      "entity2": "Donald Trump's nominees to the Federal Reserve Board of Governors"
+    }
+  ],
+  "article_id": "428490cbcac8",
+  "article_title": "Republican Strikes Bombshell Blow Against Trump\u2019s Petty Revenge Plot",
+  "extraction_date": "2026-02-07T13:02:50.010033"
+}

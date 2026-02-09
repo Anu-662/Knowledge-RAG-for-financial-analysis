@@ -1,0 +1,36 @@
+{
+  "companies": [
+    {
+      "name": "JPMorgan Chase",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [
+    {
+      "name": "Jamie Dimon",
+      "role": "CEO",
+      "company": "JPMorgan Chase"
+    },
+    {
+      "name": "Jeremy Barnum",
+      "role": "CFO",
+      "company": "JPMorgan Chase"
+    }
+  ],
+  "sectors": [],
+  "events": [
+    {
+      "type": "earnings_report",
+      "description": "fourth-quarter earnings",
+      "date": null
+    }
+  ],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "7ca9978bc922",
+  "article_title": "JPMorgan's CFO warns cutting credit card interest could make the business not worth being in",
+  "extraction_date": "2026-02-07T13:10:59.033271"
+}

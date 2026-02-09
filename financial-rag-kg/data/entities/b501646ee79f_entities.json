@@ -1,0 +1,35 @@
+{
+  "companies": [
+    {
+      "name": "SpaceX",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [
+    {
+      "name": "Elon Musk",
+      "role": "CEO",
+      "company": "SpaceX"
+    }
+  ],
+  "sectors": [
+    "Aerospace",
+    "Technology"
+  ],
+  "events": [],
+  "metrics": [
+    {
+      "type": "satellites_planned",
+      "value": "1000000",
+      "unit": "",
+      "period": null
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "b501646ee79f",
+  "article_title": "Elon Musk Is Convinced He Can Turn Low-Earth Orbit Into a Gigantic Data Center",
+  "extraction_date": "2026-02-07T13:15:14.657509"
+}

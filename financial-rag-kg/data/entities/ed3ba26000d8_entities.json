@@ -1,0 +1,34 @@
+{
+  "companies": [
+    {
+      "name": "World Liberty Financial",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [
+    {
+      "name": "Donald Trump",
+      "role": "President",
+      "company": "Trump family"
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "investment",
+      "value": "500 million",
+      "unit": "USD",
+      "period": null
+    }
+  ],
+  "locations": [
+    "UAE"
+  ],
+  "products": [],
+  "relationships": [],
+  "article_id": "ed3ba26000d8",
+  "article_title": "White House faces questions over UAE royal's investment in Trump family's crypto firm",
+  "extraction_date": "2026-02-07T13:19:42.644031"
+}

@@ -1,0 +1,20 @@
+{
+  "companies": [],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "price_change",
+      "value": "50",
+      "unit": "percent",
+      "period": "by Year-End 2026"
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "56151d3b9132",
+  "article_title": "Prediction: This Popular Cryptocurrency Will Plunge 50% (or More) by Year-End 2026",
+  "extraction_date": "2026-02-07T13:04:26.963941"
+}

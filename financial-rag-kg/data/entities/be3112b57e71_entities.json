@@ -1,0 +1,35 @@
+{
+  "companies": [
+    {
+      "name": "XAI",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "SpaceX",
+      "ticker": "",
+      "role": "merger target"
+    },
+    {
+      "name": "Elon Musk's companies",
+      "ticker": "",
+      "role": "associated entity"
+    }
+  ],
+  "people": [
+    {
+      "name": "Elon Musk",
+      "role": "CEO",
+      "company": "Elon Musk's companies"
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "be3112b57e71",
+  "article_title": "XAI shares Q&A with staff on what they can expect from the SpaceX merger",
+  "extraction_date": "2026-02-07T13:15:56.897844"
+}

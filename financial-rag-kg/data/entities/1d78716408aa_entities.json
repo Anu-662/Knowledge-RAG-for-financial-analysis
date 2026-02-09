@@ -1,0 +1,26 @@
+{
+  "companies": [],
+  "people": [
+    {
+      "name": "Thalha Jubair",
+      "role": "accused",
+      "company": ""
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "cybercrime_attack_value",
+      "value": "115 million",
+      "unit": "USD",
+      "period": null
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "1d78716408aa",
+  "article_title": "Teen hackers recruited through fake job ads",
+  "extraction_date": "2026-02-07T13:00:25.325224"
+}

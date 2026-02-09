@@ -1,0 +1,34 @@
+{
+  "companies": [],
+  "people": [
+    {
+      "name": "Rui-Siang Lin",
+      "role": "operator",
+      "company": "Incognito Market"
+    }
+  ],
+  "sectors": [],
+  "events": [
+    {
+      "type": "sentencing",
+      "description": "Sentenced to 30 years in US federal prison",
+      "date": null
+    }
+  ],
+  "metrics": [
+    {
+      "type": "market_value",
+      "value": "105",
+      "unit": "Million USD",
+      "period": null
+    }
+  ],
+  "locations": [],
+  "products": [
+    "Incognito Market"
+  ],
+  "relationships": [],
+  "article_id": "2e98d8a83d42",
+  "article_title": "A US judge sentences Rui-Siang Lin, who pled guilty to operating the $105M+ dark web narcotics marketplace Incognito Market, to 30 years in US federal prison (Sam Reynolds/CoinDesk)",
+  "extraction_date": "2026-02-07T13:01:32.385233"
+}

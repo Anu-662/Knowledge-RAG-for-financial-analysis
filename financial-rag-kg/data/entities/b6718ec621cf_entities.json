@@ -1,0 +1,27 @@
+{
+  "companies": [
+    {
+      "name": "KB Home",
+      "ticker": "KBH",
+      "role": "primary subject"
+    }
+  ],
+  "people": [
+    {
+      "name": "Jim Cramer",
+      "role": "analyst",
+      "company": ""
+    }
+  ],
+  "sectors": [
+    "Homebuilding"
+  ],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "b6718ec621cf",
+  "article_title": "KB Home (KBH) Price Target Cut is Due to High Rates, Says Jim Cramer",
+  "extraction_date": "2026-02-07T13:15:27.035939"
+}

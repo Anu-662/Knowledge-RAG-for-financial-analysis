@@ -1,0 +1,26 @@
+{
+  "companies": [],
+  "people": [
+    {
+      "name": "Todd Blanche",
+      "role": "Deputy Attorney General"
+    }
+  ],
+  "sectors": [
+    "Crypto"
+  ],
+  "events": [],
+  "metrics": [
+    {
+      "type": "assets_owned",
+      "value": "159000",
+      "unit": "USD"
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "d11a94fae745",
+  "article_title": "Six senators accuse deputy attorney general of \u201cglaring\u201d crypto conflict",
+  "extraction_date": "2026-02-07T13:18:09.801983"
+}

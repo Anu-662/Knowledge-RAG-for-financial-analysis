@@ -1,0 +1,35 @@
+{
+  "companies": [
+    {
+      "name": "Netflix",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Warner Bros. Discovery",
+      "ticker": "",
+      "role": "target"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "offer_value",
+      "value": "72 billion",
+      "unit": "USD"
+    },
+    {
+      "type": "initial_offer_value_per_share",
+      "value": "27.75",
+      "unit": "USD"
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "99d22b853131",
+  "article_title": "Netflix revises its offer for Warner Bros. Discovery to make it an all-cash transaction",
+  "extraction_date": "2026-02-07T13:12:41.716125"
+}

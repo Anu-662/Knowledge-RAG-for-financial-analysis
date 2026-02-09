@@ -1,0 +1,23 @@
+{
+  "companies": [
+    {
+      "name": "Tesla",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [],
+  "sectors": [
+    "Electric Vehicles"
+  ],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [
+    "electric semitruck"
+  ],
+  "relationships": [],
+  "article_id": "0502ff73a522",
+  "article_title": "Unbelievable video shows Tesla electric semitruck challenging diesel 18-wheeler to a race on highway \u2014 see who won",
+  "extraction_date": "2026-02-07T12:56:31.671375"
+}

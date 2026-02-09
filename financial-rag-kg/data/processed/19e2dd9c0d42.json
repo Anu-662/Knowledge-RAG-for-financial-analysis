@@ -1,0 +1,18 @@
+{
+  "id": "19e2dd9c0d42",
+  "title": "AMD to report Q4 earnings amid AI spending concerns",
+  "url": "https://finance.yahoo.com/news/amd-to-report-q4-earnings-amid-ai-spending-concerns-204747721.html",
+  "source": "Yahoo Entertainment",
+  "published_at": "2026-02-02T20:47:47Z",
+  "sector": "General",
+  "sentiment": {
+    "polarity": 0.0,
+    "label": "neutral"
+  },
+  "full_text": "AMD to report Q4 earnings amid AI spending concerns. AMD will report its Q4 earnings after the bell on Tuesday.. AMD (AMD) will report its fourth quarter earnings after the bell on Tuesday, providing Wall Street with its best look yet at the health of the ongoing AI trade. Microsoft (MSFT) and Meta (META) repo\u2026 [+2678 chars]",
+  "chunks": [
+    "AMD to report Q4 earnings amid AI spending concerns. AMD will report its Q4 earnings after the bell on Tuesday.. AMD (AMD) will report its fourth quarter earnings after the bell on Tuesday, providing Wall Street with its best look yet at the health of the ongoing AI trade. Microsoft (MSFT) and Meta (META) repo\u2026 [+2678 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.580492"
+}

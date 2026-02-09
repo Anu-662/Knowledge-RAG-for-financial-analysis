@@ -1,0 +1,22 @@
+{
+  "companies": [],
+  "people": [
+    {
+      "name": "Jerome Powell",
+      "role": "Chairman",
+      "company": ""
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [
+    "gold",
+    "silver"
+  ],
+  "relationships": [],
+  "article_id": "91b9de57b0d7",
+  "article_title": "Fed sends surprising message on gold and silver price surge",
+  "extraction_date": "2026-02-07T13:12:05.161619"
+}

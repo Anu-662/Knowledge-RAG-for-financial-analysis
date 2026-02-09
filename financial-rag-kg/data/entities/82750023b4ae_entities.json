@@ -1,0 +1,41 @@
+{
+  "companies": [
+    {
+      "name": "SpaceX",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "xAI",
+      "ticker": "",
+      "role": "secondary subject"
+    }
+  ],
+  "people": [
+    {
+      "name": "Musk",
+      "role": "",
+      "company": "SpaceX"
+    }
+  ],
+  "sectors": [],
+  "events": [
+    {
+      "type": "merger_talks",
+      "description": "merger talks between SpaceX and xAI",
+      "date": null
+    },
+    {
+      "type": "IPO",
+      "description": "planned IPO for SpaceX",
+      "date": null
+    }
+  ],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "82750023b4ae",
+  "article_title": "Musk's SpaceX in merger talks with xAI ahead of planned IPO, source says",
+  "extraction_date": "2026-02-07T13:11:10.337232"
+}

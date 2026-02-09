@@ -1,0 +1,29 @@
+{
+  "companies": [],
+  "people": [
+    {
+      "name": "Donald Trump",
+      "role": "political figure",
+      "company": ""
+    },
+    {
+      "name": "Nicol\u00e1s Maduro",
+      "role": "political figure",
+      "company": ""
+    }
+  ],
+  "sectors": [
+    "Oil",
+    "Politics"
+  ],
+  "events": [],
+  "metrics": [],
+  "locations": [
+    "Venezuela"
+  ],
+  "products": [],
+  "relationships": [],
+  "article_id": "d13dc9316868",
+  "article_title": "Trump v China: How Oil Is Defining Great Power Politics",
+  "extraction_date": "2026-02-07T13:18:11.042511"
+}

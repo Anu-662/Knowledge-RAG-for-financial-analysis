@@ -1,0 +1,25 @@
+{
+  "companies": [],
+  "people": [
+    {
+      "name": "Donald Trump",
+      "role": "President"
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "mortgage_bond_purchases",
+      "value": "200",
+      "unit": "billion",
+      "period": null
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "f9e25ecd4b7c",
+  "article_title": "Trump says he is instructing 'representatives' to buy $200 billion in mortgage bond purchases in an effort to push down rates",
+  "extraction_date": "2026-02-07T13:20:24.662140"
+}

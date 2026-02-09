@@ -1,0 +1,32 @@
+{
+  "companies": [
+    {
+      "name": "Workday",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [],
+  "sectors": [
+    "Software"
+  ],
+  "events": [],
+  "metrics": [
+    {
+      "type": "job_cuts",
+      "value": "400",
+      "unit": "jobs"
+    },
+    {
+      "type": "workforce_percentage",
+      "value": "2",
+      "unit": "percent"
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "5ec95cf59dc9",
+  "article_title": "Workday cuts 400 jobs amid software stock meltdown",
+  "extraction_date": "2026-02-07T13:04:54.565045"
+}

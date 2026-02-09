@@ -1,0 +1,25 @@
+{
+  "companies": [
+    {
+      "name": "Microsoft",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [
+    {
+      "name": "Donald Trump",
+      "role": "President",
+      "company": ""
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "3d0d841245dc",
+  "article_title": "Trump Claims He and Microsoft Have a Solution for AI-Related Utility Price Spikes",
+  "extraction_date": "2026-02-07T13:02:30.317491"
+}

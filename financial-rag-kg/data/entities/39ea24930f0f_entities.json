@@ -1,0 +1,36 @@
+{
+  "companies": [
+    {
+      "name": "Apple Inc.",
+      "ticker": "AAPL",
+      "role": "primary subject"
+    },
+    {
+      "name": "JP Morgan",
+      "ticker": "",
+      "role": "analyst"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [
+    {
+      "type": "earnings_report",
+      "description": "Q1 2026 earnings",
+      "date": null
+    }
+  ],
+  "metrics": [
+    {
+      "type": "price_target",
+      "value": "315",
+      "unit": "USD"
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "39ea24930f0f",
+  "article_title": "JP Morgan reviews Apple\u2019s stock price target following Q1 2026 earnings",
+  "extraction_date": "2026-02-07T13:02:14.819442"
+}

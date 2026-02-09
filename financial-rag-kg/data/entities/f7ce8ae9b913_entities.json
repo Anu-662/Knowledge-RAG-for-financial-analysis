@@ -1,0 +1,28 @@
+{
+  "companies": [],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "value_change",
+      "value": "33",
+      "unit": "percent",
+      "period": "since the start of the year"
+    },
+    {
+      "type": "value_change",
+      "value": "14",
+      "unit": "percent",
+      "period": "Friday morning"
+    }
+  ],
+  "locations": [],
+  "products": [
+    "Bitcoin"
+  ],
+  "relationships": [],
+  "article_id": "f7ce8ae9b913",
+  "article_title": "Bitcoin plummets in value again after week of heavy losses",
+  "extraction_date": "2026-02-07T13:20:15.548495"
+}

@@ -1,0 +1,19 @@
+{
+  "companies": [],
+  "people": [
+    {
+      "name": "Trump",
+      "role": "President",
+      "company": ""
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "b8d898ebfd36",
+  "article_title": "Trump promised to cut energy bills in half. One year later, has he delivered?",
+  "extraction_date": "2026-02-07T13:15:36.436292"
+}

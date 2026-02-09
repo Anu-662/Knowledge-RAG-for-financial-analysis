@@ -1,0 +1,33 @@
+{
+  "companies": [
+    {
+      "name": "Goldman Sachs",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [
+    {
+      "name": "David Solomon",
+      "role": "CEO",
+      "company": "Goldman Sachs"
+    }
+  ],
+  "sectors": [
+    "Investment Banking"
+  ],
+  "events": [
+    {
+      "type": "earnings_report",
+      "description": "blowout earnings report",
+      "date": null
+    }
+  ],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "b2d7ba440355",
+  "article_title": "Goldman Sachs could soon jump into booming prediction markets, CEO David Solomon says",
+  "extraction_date": "2026-02-07T13:14:51.378485"
+}

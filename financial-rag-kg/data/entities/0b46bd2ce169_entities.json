@@ -1,0 +1,30 @@
+{
+  "companies": [
+    {
+      "name": "Warner Bros.",
+      "ticker": "",
+      "role": "subject"
+    },
+    {
+      "name": "Netflix",
+      "ticker": "",
+      "role": "subject"
+    }
+  ],
+  "people": [
+    {
+      "name": "Ted Sarandos",
+      "role": "executive",
+      "company": "Netflix"
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "0b46bd2ce169",
+  "article_title": "Hollywood Guilds Raise Concerns With Senate Antitrust Subcommittee Over Warner Bros. Sale Amid Netflix Congressional Hearings",
+  "extraction_date": "2026-02-07T12:58:31.394215"
+}

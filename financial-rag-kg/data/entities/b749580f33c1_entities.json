@@ -1,0 +1,29 @@
+{
+  "companies": [
+    {
+      "name": "Microsoft",
+      "ticker": "MSFT",
+      "role": "primary subject"
+    }
+  ],
+  "people": [],
+  "sectors": [
+    "Technology"
+  ],
+  "events": [],
+  "metrics": [
+    {
+      "type": "stock_price_change",
+      "value": "12",
+      "unit": "percent"
+    }
+  ],
+  "locations": [
+    "Redmond"
+  ],
+  "products": [],
+  "relationships": [],
+  "article_id": "b749580f33c1",
+  "article_title": "Microsoft Stock Takes Most Massive Single-Day Loss Since Pandemic as Its AI Efforts Flail",
+  "extraction_date": "2026-02-07T13:15:32.587687"
+}

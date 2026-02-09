@@ -1,0 +1,45 @@
+{
+  "companies": [
+    {
+      "name": "Sandisk Corporation",
+      "ticker": "SNDK",
+      "role": "added to Zacks Rank #1"
+    },
+    {
+      "name": "SHOO",
+      "ticker": "",
+      "role": "added to Zacks Rank #1"
+    },
+    {
+      "name": "DAWN",
+      "ticker": "",
+      "role": "added to Zacks Rank #1"
+    },
+    {
+      "name": "EFXT",
+      "ticker": "",
+      "role": "added to Zacks Rank #1"
+    },
+    {
+      "name": "MCHP",
+      "ticker": "",
+      "role": "added to Zacks Rank #1"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [
+    {
+      "type": "stock_addition",
+      "description": "Added to Zacks Rank #1 (Strong Buy)",
+      "date": "2026-01-27"
+    }
+  ],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "586bd2454d6e",
+  "article_title": "New Strong Buy Stocks for January 27th",
+  "extraction_date": "2026-02-07T13:04:36.859518"
+}

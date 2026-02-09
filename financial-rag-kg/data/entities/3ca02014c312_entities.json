@@ -1,0 +1,31 @@
+{
+  "companies": [
+    {
+      "name": "Tudou Guarantee Marketplace",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Elliptic",
+      "ticker": "",
+      "role": "source"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "transaction_volume",
+      "value": "12",
+      "unit": "billion",
+      "period": null
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "3ca02014c312",
+  "article_title": "Tudou Guarantee Marketplace Halts Telegram Transactions After Processing Over $12 Billion",
+  "extraction_date": "2026-02-07T13:02:28.615734"
+}

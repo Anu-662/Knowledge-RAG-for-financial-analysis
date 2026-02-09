@@ -1,0 +1,38 @@
+{
+  "companies": [
+    {
+      "name": "Citi",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [
+    {
+      "name": "Jane Fraser",
+      "role": "CEO",
+      "company": "Citi"
+    }
+  ],
+  "sectors": [],
+  "events": [
+    {
+      "type": "job_cutting",
+      "description": "Citi's CEO pledged to save billions by cutting jobs",
+      "date": null
+    }
+  ],
+  "metrics": [
+    {
+      "type": "cost_savings",
+      "value": "billions",
+      "unit": "USD",
+      "period": null
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "b73e9cfe4ecb",
+  "article_title": "Citi's CEO Jane Fraser warns staff in memo: old habits are out, and performance is in",
+  "extraction_date": "2026-02-07T13:15:29.833297"
+}

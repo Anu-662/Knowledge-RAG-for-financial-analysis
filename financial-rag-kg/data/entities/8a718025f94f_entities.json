@@ -1,0 +1,35 @@
+{
+  "companies": [
+    {
+      "name": "SpaceX",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [
+    {
+      "name": "Elon Musk",
+      "role": "CEO",
+      "company": "SpaceX"
+    }
+  ],
+  "sectors": [
+    "Commercial Space Launch Services",
+    "Satellite Internet",
+    "Reusable Rocket Technology"
+  ],
+  "events": [
+    {
+      "type": "IPO",
+      "description": "potentially the largest IPO in history",
+      "date": "2026"
+    }
+  ],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "8a718025f94f",
+  "article_title": "Should I Invest in SpaceX?",
+  "extraction_date": "2026-02-07T13:11:38.274222"
+}

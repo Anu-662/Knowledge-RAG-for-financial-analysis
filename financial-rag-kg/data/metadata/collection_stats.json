@@ -1,0 +1,18 @@
+{
+  "total_articles": 527,
+  "total_chunks": 527,
+  "avg_chunks_per_article": 1.0,
+  "sectors": {
+    "Consumer": 15,
+    "General": 319,
+    "Technology": 101,
+    "Finance": 56,
+    "Energy": 36
+  },
+  "sentiment_distribution": {
+    "positive": 94,
+    "negative": 46,
+    "neutral": 387
+  },
+  "collection_date": "2026-02-07T11:42:03.659047"
+}

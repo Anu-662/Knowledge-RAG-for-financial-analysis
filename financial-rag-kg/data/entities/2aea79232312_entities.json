@@ -1,0 +1,19 @@
+{
+  "companies": [
+    {
+      "name": "Google",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "2aea79232312",
+  "article_title": "Google won\u2019t stop replacing our news headlines with terrible AI",
+  "extraction_date": "2026-02-07T13:01:24.564314"
+}

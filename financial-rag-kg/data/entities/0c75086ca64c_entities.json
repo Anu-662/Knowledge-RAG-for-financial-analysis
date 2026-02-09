@@ -1,0 +1,40 @@
+{
+  "companies": [
+    {
+      "name": "Realty Income",
+      "ticker": "",
+      "role": "dividend payer"
+    },
+    {
+      "name": "JEPI",
+      "ticker": "",
+      "role": "investment fund"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "dividend_payment_streak",
+      "value": "667",
+      "unit": "months"
+    },
+    {
+      "type": "dividend_growth_streak",
+      "value": "32",
+      "unit": "years"
+    },
+    {
+      "type": "yield",
+      "value": "8.13",
+      "unit": "percent"
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "0c75086ca64c",
+  "article_title": "Monthly Income: A Portfolio of 2 ETFs and 2 Stocks",
+  "extraction_date": "2026-02-07T12:58:56.235268"
+}

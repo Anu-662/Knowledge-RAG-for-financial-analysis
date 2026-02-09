@@ -1,0 +1,26 @@
+{
+  "companies": [],
+  "people": [
+    {
+      "name": "ZachXBT",
+      "role": "advisor",
+      "company": "Paradigm"
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "theft_amount",
+      "value": "40",
+      "unit": "million",
+      "period": null
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "cfd923d15fee",
+  "article_title": "Son of Executive Overseeing U.S. Government\u2019s Crypto Stash Accused of Stealing $40 Million",
+  "extraction_date": "2026-02-07T13:18:04.727562"
+}

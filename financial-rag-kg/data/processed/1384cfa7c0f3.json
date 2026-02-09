@@ -1,0 +1,18 @@
+{
+  "id": "1384cfa7c0f3",
+  "title": "The Inner Workings of the Intel 8086\u2019s Arithmetic Logic Unit",
+  "url": "https://hackaday.com/2026/01/29/the-inner-workings-of-the-intel-8086s-arithmetic-logic-unit/",
+  "source": "Hackaday",
+  "published_at": "2026-01-29T19:30:39Z",
+  "sector": "General",
+  "sentiment": {
+    "polarity": 0.0,
+    "label": "neutral"
+  },
+  "full_text": "The Inner Workings of the Intel 8086\u2019s Arithmetic Logic Unit. In the 1970s CPUs still had wildly different approaches to basic features, with the Intel 8086 being one of them. Whereas the 6502 used separate circuits for operations, and the Intel 8085 a clump \u2026. In the 1970s CPUs still had wildly different approaches to basic features, with the Intel 8086 being one of them. Whereas the 6502 used separate circuits for operations, and the Intel 8085 a clump of\u2026 [+1163 chars]",
+  "chunks": [
+    "The Inner Workings of the Intel 8086\u2019s Arithmetic Logic Unit. In the 1970s CPUs still had wildly different approaches to basic features, with the Intel 8086 being one of them. Whereas the 6502 used separate circuits for operations, and the Intel 8085 a clump \u2026. In the 1970s CPUs still had wildly different approaches to basic features, with the Intel 8086 being one of them. Whereas the 6502 used separate circuits for operations, and the Intel 8085 a clump of\u2026 [+1163 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.599660"
+}

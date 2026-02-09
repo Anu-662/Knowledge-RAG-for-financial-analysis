@@ -1,0 +1,18 @@
+{
+  "id": "3a1a8ed60a5f",
+  "title": "SpaceX Acquires xAI in $1.25 Trillion All-Stock Deal",
+  "url": "https://slashdot.org/story/26/02/03/0346252/spacex-acquires-xai-in-125-trillion-all-stock-deal",
+  "source": "Slashdot.org",
+  "published_at": "2026-02-03T03:46:00Z",
+  "sector": "General",
+  "sentiment": {
+    "polarity": 0.0,
+    "label": "neutral"
+  },
+  "full_text": "SpaceX Acquires xAI in $1.25 Trillion All-Stock Deal. Elon Musk's SpaceX has acquired his AI startup xAI in an all-stock deal that values the combined entity at $1.25 trillion, ahead of what would be the largest initial public offering in history. SpaceX pegged its own valuation at $1 trillion -- a markup from t\u2026. Elon Musk's SpaceX has acquired his AI startup xAI in an all-stock deal that values the combined entity at $1.25 trillion, ahead of what would be the largest initial public offering in history. Space\u2026 [+1124 chars]",
+  "chunks": [
+    "SpaceX Acquires xAI in $1.25 Trillion All-Stock Deal. Elon Musk's SpaceX has acquired his AI startup xAI in an all-stock deal that values the combined entity at $1.25 trillion, ahead of what would be the largest initial public offering in history. SpaceX pegged its own valuation at $1 trillion -- a markup from t\u2026. Elon Musk's SpaceX has acquired his AI startup xAI in an all-stock deal that values the combined entity at $1.25 trillion, ahead of what would be the largest initial public offering in history. Space\u2026 [+1124 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.592079"
+}

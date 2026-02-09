@@ -1,0 +1,18 @@
+{
+  "id": "355661bb4208",
+  "title": "Trump places a 25% tariff on high-end computing chips, and said more duties may be coming for the semiconductor industry",
+  "url": "https://www.businessinsider.com/trump-tariff-high-end-computing-chip-imports-nvidia-amd-2026-1",
+  "source": "Business Insider",
+  "published_at": "2026-01-15T05:23:19Z",
+  "sector": "Technology",
+  "sentiment": {
+    "polarity": 0.0,
+    "label": "neutral"
+  },
+  "full_text": "Trump places a 25% tariff on high-end computing chips, and said more duties may be coming for the semiconductor industry. The tariff will cover hardware central to the AI boom like Nvidia's H200 processor and AMD's MI325X chips, with some exemptions.. President Donald Trump imposes 25% tariff on advanced computing chips like Nvidia H200 and AMD MI325X.Anna Moneymaker/Getty Images <ul><li>Donald Trump imposes 25% tariff on advanced computing chips\u2026 [+2280 chars]",
+  "chunks": [
+    "Trump places a 25% tariff on high-end computing chips, and said more duties may be coming for the semiconductor industry. The tariff will cover hardware central to the AI boom like Nvidia's H200 processor and AMD's MI325X chips, with some exemptions.. President Donald Trump imposes 25% tariff on advanced computing chips like Nvidia H200 and AMD MI325X.Anna Moneymaker/Getty Images <ul><li>Donald Trump imposes 25% tariff on advanced computing chips\u2026 [+2280 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.599387"
+}

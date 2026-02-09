@@ -1,0 +1,37 @@
+{
+  "companies": [
+    {
+      "name": "Filevine",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Harvey",
+      "ticker": "",
+      "role": "competitor"
+    }
+  ],
+  "people": [
+    {
+      "name": "Sona Sulakian",
+      "role": "",
+      "company": ""
+    },
+    {
+      "name": "Mariam Sulakian",
+      "role": "",
+      "company": ""
+    }
+  ],
+  "sectors": [
+    "Legal Tech"
+  ],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "1ec0c1286d9e",
+  "article_title": "Get ready for legal tech's merger mania",
+  "extraction_date": "2026-02-07T13:00:29.640670"
+}

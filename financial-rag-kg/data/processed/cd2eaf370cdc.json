@@ -1,0 +1,18 @@
+{
+  "id": "cd2eaf370cdc",
+  "title": "Software ate the world. Now AI is eating software.",
+  "url": "https://www.businessinsider.com/software-ate-world-now-ai-eating-software-saas-anthropic-2026-2",
+  "source": "Business Insider",
+  "published_at": "2026-02-05T10:00:02Z",
+  "sector": "Technology",
+  "sentiment": {
+    "polarity": 1.0,
+    "label": "positive"
+  },
+  "full_text": "Software ate the world. Now AI is eating software.. What was once a stable and profitable tech business now faces an existential question: What happens if AI tools and agents replace business software?. Anthropic CEO Dario Amodei at The World Economic Forum in Davos, Switzerland.Fortune via Reuters Connect <ul><li>Anthropic's new legal AI tools rattled software stocks this week.</li><li>Companies c\u2026 [+7598 chars]",
+  "chunks": [
+    "Software ate the world. Now AI is eating software.. What was once a stable and profitable tech business now faces an existential question: What happens if AI tools and agents replace business software?. Anthropic CEO Dario Amodei at The World Economic Forum in Davos, Switzerland.Fortune via Reuters Connect <ul><li>Anthropic's new legal AI tools rattled software stocks this week.</li><li>Companies c\u2026 [+7598 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.597132"
+}

@@ -1,0 +1,38 @@
+{
+  "companies": [
+    {
+      "name": "Freddie Mac",
+      "ticker": "",
+      "role": "source"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "30-year_fixed_mortgage_rate",
+      "value": "6.16",
+      "unit": "percent",
+      "period": "January 9, 2026"
+    },
+    {
+      "type": "30-year_fixed_mortgage_rate_previous_year",
+      "value": "6.93",
+      "unit": "percent",
+      "period": "January 9, 2025"
+    },
+    {
+      "type": "interest_rate_change",
+      "value": "-0.75",
+      "unit": "points",
+      "period": "from previous year"
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "fdd8a2c646de",
+  "article_title": "Mortgage and refinance interest rates today, January 9, 2026: Down three-quarters of a point from a year ago",
+  "extraction_date": "2026-02-07T13:20:55.814496"
+}

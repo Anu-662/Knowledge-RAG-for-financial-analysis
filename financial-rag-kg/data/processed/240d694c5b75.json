@@ -1,0 +1,18 @@
+{
+  "id": "240d694c5b75",
+  "title": "US justice department opens criminal probe into Fed Chair Jerome Powell",
+  "url": "https://www.bbc.com/news/articles/c801k7rkkd7o",
+  "source": "BBC News",
+  "published_at": "2026-01-12T01:21:20Z",
+  "sector": "General",
+  "sentiment": {
+    "polarity": 0.0,
+    "label": "neutral"
+  },
+  "full_text": "US justice department opens criminal probe into Fed Chair Jerome Powell. Powell called the probe \"unprecedented\" and came after his refusal to lower interest rates after demands by Donald Trump.. Federal prosecutors have opened a criminal investigation into Federal Reserve Chairman Jerome Powell, he said on Sunday. In a video announcing the probe, Powell said the US justice department serve\u2026 [+2216 chars]",
+  "chunks": [
+    "US justice department opens criminal probe into Fed Chair Jerome Powell. Powell called the probe \"unprecedented\" and came after his refusal to lower interest rates after demands by Donald Trump.. Federal prosecutors have opened a criminal investigation into Federal Reserve Chairman Jerome Powell, he said on Sunday. In a video announcing the probe, Powell said the US justice department serve\u2026 [+2216 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.582324"
+}

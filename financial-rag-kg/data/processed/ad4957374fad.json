@@ -1,0 +1,18 @@
+{
+  "id": "ad4957374fad",
+  "title": "US futures sink after Trump warns of higher tariffs for 8 countries over Greenland issue",
+  "url": "https://www.yahoo.com/news/articles/us-futures-sink-trump-warns-064219353.html",
+  "source": "Yahoo Entertainment",
+  "published_at": "2026-01-19T06:42:19Z",
+  "sector": "General",
+  "sentiment": {
+    "polarity": 0.0,
+    "label": "neutral"
+  },
+  "full_text": "US futures sink after Trump warns of higher tariffs for 8 countries over Greenland issue. U.S. stock futures skidded Monday after U.S. President Donald Trump threatened to slap a 10% extra tariff on imports from eight European countries due to.... BANGKOK (AP) U.S. stock futures skidded Monday after U.S. President Donald Trump threatened to slap a 10% extra tariff on imports from eight European countries due to their opposition to his desire t\u2026 [+3982 chars]",
+  "chunks": [
+    "US futures sink after Trump warns of higher tariffs for 8 countries over Greenland issue. U.S. stock futures skidded Monday after U.S. President Donald Trump threatened to slap a 10% extra tariff on imports from eight European countries due to.... BANGKOK (AP) U.S. stock futures skidded Monday after U.S. President Donald Trump threatened to slap a 10% extra tariff on imports from eight European countries due to their opposition to his desire t\u2026 [+3982 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.586128"
+}

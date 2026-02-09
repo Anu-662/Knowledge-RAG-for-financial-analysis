@@ -1,0 +1,29 @@
+{
+  "companies": [],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "scheme_value",
+      "value": "157",
+      "unit": "million",
+      "period": null
+    },
+    {
+      "type": "reimbursement_cost",
+      "value": "50",
+      "unit": "billion",
+      "period": null
+    }
+  ],
+  "locations": [
+    "Hungary",
+    "Budapest"
+  ],
+  "products": [],
+  "relationships": [],
+  "article_id": "11eb1df2f4f0",
+  "article_title": "Hungary launches $157 million scheme to curb heating costs ahead of election",
+  "extraction_date": "2026-02-07T12:59:37.084478"
+}

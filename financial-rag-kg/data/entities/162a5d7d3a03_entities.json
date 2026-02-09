@@ -1,0 +1,26 @@
+{
+  "companies": [],
+  "people": [],
+  "sectors": [
+    "Software"
+  ],
+  "events": [],
+  "metrics": [
+    {
+      "type": "stock_price_change",
+      "value": "4",
+      "unit": "percent"
+    },
+    {
+      "type": "stock_price_change",
+      "value": "1",
+      "unit": "percent"
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "162a5d7d3a03",
+  "article_title": "As Software Stocks Slump, Investors Debate AI's Existential Threat",
+  "extraction_date": "2026-02-07T12:59:54.553607"
+}

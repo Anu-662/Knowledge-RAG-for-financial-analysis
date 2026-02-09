@@ -1,0 +1,18 @@
+{
+  "id": "5767367a67cf",
+  "title": "California wants to mix hydrogen with gas to cut climate pollution. Critics say that poses risks",
+  "url": "https://www.yahoo.com/news/articles/california-wants-mix-hydrogen-gas-140733038.html",
+  "source": "Yahoo Entertainment",
+  "published_at": "2026-01-12T14:07:33Z",
+  "sector": "General",
+  "sentiment": {
+    "polarity": 0.0,
+    "label": "neutral"
+  },
+  "full_text": "California wants to mix hydrogen with gas to cut climate pollution. Critics say that poses risks. Alma Figueroa began to worry when she learned that her gas provider wanted to test a controversial solution to curb global warming: blend hydrogen with.... Alma Figueroa began to worry when she learned that her gas provider wanted to test a controversial solution to curb global warming: blend hydrogen with natural gas to power her stove and other applia\u2026 [+7890 chars]",
+  "chunks": [
+    "California wants to mix hydrogen with gas to cut climate pollution. Critics say that poses risks. Alma Figueroa began to worry when she learned that her gas provider wanted to test a controversial solution to curb global warming: blend hydrogen with.... Alma Figueroa began to worry when she learned that her gas provider wanted to test a controversial solution to curb global warming: blend hydrogen with natural gas to power her stove and other applia\u2026 [+7890 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.601290"
+}

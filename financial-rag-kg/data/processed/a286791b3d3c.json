@@ -1,0 +1,18 @@
+{
+  "id": "a286791b3d3c",
+  "title": "DOJ launches criminal investigation into Fed Chair Jerome Powell, he says",
+  "url": "https://abcnews.go.com/Politics/doj-launches-criminal-investigation-fed-chair-jerome-powell/story?id=129114228",
+  "source": "ABC News",
+  "published_at": "2026-01-12T01:27:05Z",
+  "sector": "General",
+  "sentiment": {
+    "polarity": 0.0,
+    "label": "neutral"
+  },
+  "full_text": "DOJ launches criminal investigation into Fed Chair Jerome Powell, he says. Federal prosecutors have launched a criminal investigation into Federal Reserve Chair Jerome Powell, he confirmed in a statement Sunday night.. In an extraordinary escalation of a months-long attack on the independence of the Federal Reserve, federal prosecutors have launched a criminal investigation into Federal Reserve Chair Jerome Powell,\u2026 [+889 chars]",
+  "chunks": [
+    "DOJ launches criminal investigation into Fed Chair Jerome Powell, he says. Federal prosecutors have launched a criminal investigation into Federal Reserve Chair Jerome Powell, he confirmed in a statement Sunday night.. In an extraordinary escalation of a months-long attack on the independence of the Federal Reserve, federal prosecutors have launched a criminal investigation into Federal Reserve Chair Jerome Powell,\u2026 [+889 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.583292"
+}

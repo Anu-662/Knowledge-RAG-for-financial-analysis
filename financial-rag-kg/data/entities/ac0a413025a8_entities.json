@@ -1,0 +1,36 @@
+{
+  "companies": [
+    {
+      "name": "Netflix",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Warner Bros.",
+      "ticker": "",
+      "role": "acquired"
+    }
+  ],
+  "people": [
+    {
+      "name": "Ted Sarandos",
+      "role": "Co-CEO",
+      "company": "Netflix"
+    }
+  ],
+  "sectors": [],
+  "events": [
+    {
+      "type": "senate_hearing",
+      "description": "Senate committee will examine the proposed Netflix acquisition of Warner Bros.",
+      "date": "2024-02-03"
+    }
+  ],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "ac0a413025a8",
+  "article_title": "Senate Hearing On Netflix-Warner Bros. Transaction Set For Feb. 3; Co-CEO Ted Sarandos To Testify",
+  "extraction_date": "2026-02-07T13:14:01.348149"
+}

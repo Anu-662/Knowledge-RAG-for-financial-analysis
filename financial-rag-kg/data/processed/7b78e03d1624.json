@@ -1,0 +1,18 @@
+{
+  "id": "7b78e03d1624",
+  "title": "Trump sues JPMorgan Chase and CEO Jamie Dimon for $5B over alleged 'debanking'",
+  "url": "https://www.npr.org/2026/01/22/nx-s1-5685151/trump-jpmorgan-chase-jamie-dimon-debanking",
+  "source": "NPR",
+  "published_at": "2026-01-22T19:17:05Z",
+  "sector": "Finance",
+  "sentiment": {
+    "polarity": 0.0,
+    "label": "neutral"
+  },
+  "full_text": "Trump sues JPMorgan Chase and CEO Jamie Dimon for $5B over alleged 'debanking'. The lawsuit escalates a series of confrontations between the president and the leader of the country's biggest bank.. President Trump sued JPMorgan Chase and chief executive Jamie Dimon on Thursday, seeking at least $5 billion in damages over allegations that the country's biggest bank closed his account for politic\u2026 [+2348 chars]",
+  "chunks": [
+    "Trump sues JPMorgan Chase and CEO Jamie Dimon for $5B over alleged 'debanking'. The lawsuit escalates a series of confrontations between the president and the leader of the country's biggest bank.. President Trump sued JPMorgan Chase and chief executive Jamie Dimon on Thursday, seeking at least $5 billion in damages over allegations that the country's biggest bank closed his account for politic\u2026 [+2348 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.598695"
+}

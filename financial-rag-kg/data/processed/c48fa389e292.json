@@ -1,0 +1,18 @@
+{
+  "id": "c48fa389e292",
+  "title": "Evelyn Stealer Malware Abuses VS Code Extensions to Steal Developer Credentials and Crypto",
+  "url": "https://thehackernews.com/2026/01/evelyn-stealer-malware-abuses-vs-code.html",
+  "source": "Internet",
+  "published_at": "2026-01-20T11:48:00Z",
+  "sector": "Technology",
+  "sentiment": {
+    "polarity": 0.0,
+    "label": "neutral"
+  },
+  "full_text": "Evelyn Stealer Malware Abuses VS Code Extensions to Steal Developer Credentials and Crypto. Cybersecurity researchers have disclosed details of a malware campaign that's targeting software developers with a new information stealer called Evelyn Stealer by weaponizing the Microsoft Visual Studio Code (VS Code) extension ecosystem. \"The malware is des\u2026. Cybersecurity researchers have disclosed details of a malware campaign that's targeting software developers with a new information stealer called Evelyn Stealer by weaponizing the Microsoft Visual St\u2026 [+3865 chars]",
+  "chunks": [
+    "Evelyn Stealer Malware Abuses VS Code Extensions to Steal Developer Credentials and Crypto. Cybersecurity researchers have disclosed details of a malware campaign that's targeting software developers with a new information stealer called Evelyn Stealer by weaponizing the Microsoft Visual Studio Code (VS Code) extension ecosystem. \"The malware is des\u2026. Cybersecurity researchers have disclosed details of a malware campaign that's targeting software developers with a new information stealer called Evelyn Stealer by weaponizing the Microsoft Visual St\u2026 [+3865 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.594855"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "5bf9fbf1c409",
+  "title": "M8SBC-86 is an FPGA-Based \u201cKinda PC Compatible\u201d 486",
+  "url": "https://hackaday.com/2026/01/08/m8sbc-86-is-an-fpga-based-kinda-pc-compatible-486/",
+  "source": "Hackaday",
+  "published_at": "2026-01-09T00:00:39Z",
+  "sector": "Technology",
+  "sentiment": {
+    "polarity": 0.0,
+    "label": "neutral"
+  },
+  "full_text": "M8SBC-86 is an FPGA-Based \u201cKinda PC Compatible\u201d 486. Given the technical specs of the FPGAs available to hobbyists these days, it really shouldn\u2019t be a shock that you can implement a 486 core on one. In spite of knowing that in the technical se\u2026. Given the technical specs of the FPGAs available to hobbyists these days, it really shouldn\u2019t be a shock that you can implement a 486 core on one. In spite of knowing that in the technical sense, we \u2026 [+1979 chars]",
+  "chunks": [
+    "M8SBC-86 is an FPGA-Based \u201cKinda PC Compatible\u201d 486. Given the technical specs of the FPGAs available to hobbyists these days, it really shouldn\u2019t be a shock that you can implement a 486 core on one. In spite of knowing that in the technical se\u2026. Given the technical specs of the FPGAs available to hobbyists these days, it really shouldn\u2019t be a shock that you can implement a 486 core on one. In spite of knowing that in the technical sense, we \u2026 [+1979 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.597821"
+}

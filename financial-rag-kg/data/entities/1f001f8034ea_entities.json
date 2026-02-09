@@ -1,0 +1,23 @@
+{
+  "companies": [],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "capacity",
+      "value": "10",
+      "unit": "gigawatts",
+      "period": null
+    }
+  ],
+  "locations": [
+    "Wyoming",
+    "Laramie County"
+  ],
+  "products": [],
+  "relationships": [],
+  "article_id": "1f001f8034ea",
+  "article_title": "Wyoming Just Greenlit America\u2019s Largest Data Center Project, and Locals Are Bracing for Impact",
+  "extraction_date": "2026-02-07T13:00:31.043599"
+}

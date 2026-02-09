@@ -1,0 +1,19 @@
+{
+  "companies": [
+    {
+      "name": "Google",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "6e818db0197b",
+  "article_title": "Google is about to extends Identity Check to your banking apps and password managers",
+  "extraction_date": "2026-02-07T13:06:54.143803"
+}

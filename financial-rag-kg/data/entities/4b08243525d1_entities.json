@@ -1,0 +1,33 @@
+{
+  "companies": [
+    {
+      "name": "Federal Reserve",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [
+    {
+      "name": "Jerome Powell",
+      "role": "Chair",
+      "company": "Federal Reserve"
+    }
+  ],
+  "sectors": [],
+  "events": [
+    {
+      "type": "subpoena",
+      "description": "grand jury subpoenas from the Justice Department",
+      "date": null
+    }
+  ],
+  "metrics": [],
+  "locations": [
+    "United States"
+  ],
+  "products": [],
+  "relationships": [],
+  "article_id": "4b08243525d1",
+  "article_title": "Powell Vows to Stand Firm as Fed Served With DOJ Subpoenas",
+  "extraction_date": "2026-02-07T13:03:35.829749"
+}

@@ -1,0 +1,32 @@
+{
+  "companies": [
+    {
+      "name": "Goldman Sachs",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [
+    {
+      "type": "earnings_report",
+      "description": "strong fourth-quarter earnings",
+      "date": null
+    }
+  ],
+  "metrics": [
+    {
+      "type": "stock_price_change",
+      "value": "60",
+      "unit": "percent",
+      "period": "past year"
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "268d85993b4f",
+  "article_title": "Goldman Sachs is crushing it",
+  "extraction_date": "2026-02-07T13:01:04.973424"
+}

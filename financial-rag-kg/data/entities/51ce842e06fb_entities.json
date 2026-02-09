@@ -1,0 +1,19 @@
+{
+  "companies": [],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "hashrate",
+      "value": "1000",
+      "unit": "exahashes per second"
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "51ce842e06fb",
+  "article_title": "How Winter Storm Fern Slowed Down the Bitcoin Network",
+  "extraction_date": "2026-02-07T13:04:06.939008"
+}

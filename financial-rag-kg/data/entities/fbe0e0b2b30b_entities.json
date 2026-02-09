@@ -1,0 +1,38 @@
+{
+  "companies": [
+    {
+      "name": "CXMT",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [],
+  "sectors": [
+    "Technology",
+    "Semiconductors"
+  ],
+  "events": [
+    {
+      "type": "IPO",
+      "description": "$4.2B IPO goal",
+      "date": null
+    }
+  ],
+  "metrics": [
+    {
+      "type": "IPO_goal",
+      "value": "4.2B",
+      "unit": "USD"
+    }
+  ],
+  "locations": [
+    "China",
+    "United States",
+    "South Korea"
+  ],
+  "products": [],
+  "relationships": [],
+  "article_id": "fbe0e0b2b30b",
+  "article_title": "A profile of China's CXMT, whose $4.2B IPO goal would rank among the century's biggest chip debuts, as the state-backed company faces US and South Korean curbs (Wall Street Journal)",
+  "extraction_date": "2026-02-07T13:20:45.684958"
+}

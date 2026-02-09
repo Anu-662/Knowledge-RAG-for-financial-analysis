@@ -1,0 +1,39 @@
+{
+  "companies": [
+    {
+      "name": "SpaceX",
+      "ticker": "",
+      "role": "acquirer"
+    },
+    {
+      "name": "xAI",
+      "ticker": "",
+      "role": "acquired"
+    }
+  ],
+  "people": [
+    {
+      "name": "Elon Musk",
+      "role": "CEO",
+      "company": "SpaceX"
+    }
+  ],
+  "sectors": [
+    "Aerospace",
+    "Artificial Intelligence"
+  ],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [
+    {
+      "entity1": "SpaceX",
+      "relationship": "acquires",
+      "entity2": "xAI"
+    }
+  ],
+  "article_id": "eecb79bdd278",
+  "article_title": "Elon Musk tells workers in memo that SpaceX is acquiring xAI",
+  "extraction_date": "2026-02-07T13:19:46.212357"
+}

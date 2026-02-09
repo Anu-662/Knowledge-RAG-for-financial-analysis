@@ -1,0 +1,38 @@
+{
+  "companies": [
+    {
+      "name": "Microsoft",
+      "ticker": "MSFT",
+      "role": "primary subject"
+    },
+    {
+      "name": "OpenAI",
+      "ticker": "",
+      "role": "subject of investor concern"
+    }
+  ],
+  "people": [],
+  "sectors": [
+    "Technology",
+    "Artificial Intelligence"
+  ],
+  "events": [],
+  "metrics": [
+    {
+      "type": "market_cap_loss",
+      "value": "440",
+      "unit": "billion USD"
+    },
+    {
+      "type": "stock_price_change",
+      "value": "12",
+      "unit": "percent"
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "bf27811103f8",
+  "article_title": "Microsoft\u2019s $440 billion wipeout, and investors angry about OpenAI\u2019s debt, explained",
+  "extraction_date": "2026-02-07T13:16:01.924121"
+}

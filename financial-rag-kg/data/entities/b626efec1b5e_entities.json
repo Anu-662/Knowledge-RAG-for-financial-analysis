@@ -1,0 +1,51 @@
+{
+  "companies": [
+    {
+      "name": "Netflix",
+      "ticker": "",
+      "role": "subject"
+    },
+    {
+      "name": "Warner Brothers",
+      "ticker": "",
+      "role": "subject"
+    },
+    {
+      "name": "Larry Ellison",
+      "ticker": "",
+      "role": "subject"
+    }
+  ],
+  "people": [
+    {
+      "name": "Larry Ellison",
+      "role": "",
+      "company": ""
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [
+    {
+      "entity1": "Trump administration",
+      "relationship": "supports",
+      "entity2": "Larry Ellison"
+    },
+    {
+      "entity1": "Trump administration",
+      "relationship": "opposes",
+      "entity2": "Netflix"
+    },
+    {
+      "entity1": "Trump administration",
+      "relationship": "opposes",
+      "entity2": "Warner Brothers"
+    }
+  ],
+  "article_id": "b626efec1b5e",
+  "article_title": "Trumpland Ramps Up Attacks On Netflix Warner Brothers Merger To Help Larry Ellison",
+  "extraction_date": "2026-02-07T13:15:22.921838"
+}

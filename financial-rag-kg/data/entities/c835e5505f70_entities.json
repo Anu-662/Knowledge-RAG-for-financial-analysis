@@ -1,0 +1,22 @@
+{
+  "companies": [],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "emissions_increase",
+      "value": "2.4",
+      "unit": "percent",
+      "period": "2025 compared with 2024"
+    }
+  ],
+  "locations": [
+    "U.S."
+  ],
+  "products": [],
+  "relationships": [],
+  "article_id": "c835e5505f70",
+  "article_title": "U.S. Greenhouse Gas Emissions Are Rising for the First Time in Two Years\u2014They Could Climb Far Higher",
+  "extraction_date": "2026-02-07T13:16:39.092887"
+}

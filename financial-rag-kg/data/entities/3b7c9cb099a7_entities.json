@@ -1,0 +1,25 @@
+{
+  "companies": [],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "spot_gold_price",
+      "value": "4724",
+      "unit": "USD",
+      "period": "current"
+    },
+    {
+      "type": "gold_price_change",
+      "value": "3.5",
+      "unit": "percent"
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "3b7c9cb099a7",
+  "article_title": "Gold and silver keep spiraling after market meltdown",
+  "extraction_date": "2026-02-07T13:02:24.409608"
+}

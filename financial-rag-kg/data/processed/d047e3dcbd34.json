@@ -1,0 +1,18 @@
+{
+  "id": "d047e3dcbd34",
+  "title": "99% of New US Will Be Green in 2026",
+  "url": "https://hardware.slashdot.org/story/26/02/01/080244/99-of-new-us-will-be-green-in-2026",
+  "source": "Slashdot.org",
+  "published_at": "2026-02-01T12:34:00Z",
+  "sector": "Energy",
+  "sentiment": {
+    "polarity": 1.0,
+    "label": "positive"
+  },
+  "full_text": "99% of New US Will Be Green in 2026. This year in America, renewables and battery storage \"will account for 99.2% of net new capacity \u2014 and even higher if small-scale solar were included,\" reports Electrek, citing EIA data reviewed by the SUN DAY Campaign: EIA's latest monthly \"Electric Power M\u2026. EIA's latest monthly \"Electric Power Monthly\" report (with data through November 30, 2025), once again confirms that solar is the fastest-growing among the major sources of US electricity... [U]tilit\u2026 [+1509 chars]",
+  "chunks": [
+    "99% of New US Will Be Green in 2026. This year in America, renewables and battery storage \"will account for 99.2% of net new capacity \u2014 and even higher if small-scale solar were included,\" reports Electrek, citing EIA data reviewed by the SUN DAY Campaign: EIA's latest monthly \"Electric Power M\u2026. EIA's latest monthly \"Electric Power Monthly\" report (with data through November 30, 2025), once again confirms that solar is the fastest-growing among the major sources of US electricity... [U]tilit\u2026 [+1509 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.601131"
+}

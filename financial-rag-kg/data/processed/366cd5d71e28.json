@@ -1,0 +1,18 @@
+{
+  "id": "366cd5d71e28",
+  "title": "Trump nominates Kevin Warsh to succeed Jerome Powell as Federal Reserve chair",
+  "url": "https://www.businessinsider.com/trump-nominates-kevin-warsh-next-federal-reserve-chair-2026-1",
+  "source": "Business Insider",
+  "published_at": "2026-01-30T12:03:12Z",
+  "sector": "General",
+  "sentiment": {
+    "polarity": 0.0,
+    "label": "neutral"
+  },
+  "full_text": "Trump nominates Kevin Warsh to succeed Jerome Powell as Federal Reserve chair. Bush economic advisor Kevin Warsh is set to succeed Jerome Powell as chair of the Federal Reserve, President Trump announced Friday.. Kevin Warsh will be the next leader of the Federal Reserve.IMF <ul><li>Kevin Warsh has been chosen by President Trump to lead the Federal Reserve.</li><li>Warsh, a former Fed governor and Wall Stree\u2026 [+3435 chars]",
+  "chunks": [
+    "Trump nominates Kevin Warsh to succeed Jerome Powell as Federal Reserve chair. Bush economic advisor Kevin Warsh is set to succeed Jerome Powell as chair of the Federal Reserve, President Trump announced Friday.. Kevin Warsh will be the next leader of the Federal Reserve.IMF <ul><li>Kevin Warsh has been chosen by President Trump to lead the Federal Reserve.</li><li>Warsh, a former Fed governor and Wall Stree\u2026 [+3435 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.582758"
+}

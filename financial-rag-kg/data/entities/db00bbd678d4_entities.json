@@ -1,0 +1,55 @@
+{
+  "companies": [
+    {
+      "name": "SpaceX",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Tesla",
+      "ticker": "",
+      "role": "potential merger partner"
+    },
+    {
+      "name": "xAI",
+      "ticker": "",
+      "role": "potential merger partner"
+    }
+  ],
+  "people": [
+    {
+      "name": "Elon Musk",
+      "role": "business owner",
+      "company": "SpaceX"
+    }
+  ],
+  "sectors": [
+    "Aerospace",
+    "Technology"
+  ],
+  "events": [
+    {
+      "type": "IPO",
+      "description": "SpaceX is gearing up for a massive IPO",
+      "date": null
+    }
+  ],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [
+    {
+      "entity1": "SpaceX",
+      "relationship": "potential_merger_with",
+      "entity2": "Tesla"
+    },
+    {
+      "entity1": "SpaceX",
+      "relationship": "potential_merger_with",
+      "entity2": "xAI"
+    }
+  ],
+  "article_id": "db00bbd678d4",
+  "article_title": "Here's what a potential SpaceX mega-merger could mean for Elon Musk's business empire",
+  "extraction_date": "2026-02-07T13:18:48.049358"
+}

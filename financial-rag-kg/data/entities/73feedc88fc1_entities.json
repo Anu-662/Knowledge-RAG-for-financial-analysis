@@ -1,0 +1,27 @@
+{
+  "companies": [
+    {
+      "name": "Tesla",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [
+    {
+      "type": "product_unveiling",
+      "description": "Gen 3 robot reveal",
+      "date": "2026-01-01"
+    }
+  ],
+  "metrics": [],
+  "locations": [],
+  "products": [
+    "Optimus humanoid robot"
+  ],
+  "relationships": [],
+  "article_id": "73feedc88fc1",
+  "article_title": "Tesla says production-ready Optimus robot is coming soon",
+  "extraction_date": "2026-02-07T13:09:21.527840"
+}

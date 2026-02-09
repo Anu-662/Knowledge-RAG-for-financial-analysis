@@ -1,0 +1,30 @@
+{
+  "companies": [
+    {
+      "name": "Meta",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [
+    {
+      "name": "Dina Powell McCormick",
+      "role": "president and vice chair",
+      "company": "Meta"
+    },
+    {
+      "name": "Mark Zuckerberg",
+      "role": "reporting to",
+      "company": "Meta"
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "4e95f39c8589",
+  "article_title": "Meta appoints Dina Powell McCormick, a prominent banking executive and former Republican official, as president and vice chair, reporting to Mark Zuckerberg (Sara Fischer/Axios)",
+  "extraction_date": "2026-02-07T13:03:54.894164"
+}

@@ -1,0 +1,30 @@
+{
+  "companies": [
+    {
+      "name": "OpenAI",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [
+    {
+      "name": "Elizabeth Warren",
+      "role": "Senator",
+      "company": ""
+    },
+    {
+      "name": "Sam Altman",
+      "role": "CEO",
+      "company": "OpenAI"
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "11771d7002c2",
+  "article_title": "Sen. Warren pushes Altman for guarantee OpenAI isn\u2019t seeking government bailout",
+  "extraction_date": "2026-02-07T12:59:34.848859"
+}

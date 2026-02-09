@@ -1,0 +1,26 @@
+{
+  "companies": [],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "base_rate",
+      "value": "4.75",
+      "unit": "percent",
+      "period": "beginning of the year"
+    },
+    {
+      "type": "base_rate",
+      "value": "3.75",
+      "unit": "percent",
+      "period": "December"
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "93ced283ea6f",
+  "article_title": "Eight mortgage predictions for 2026",
+  "extraction_date": "2026-02-07T13:12:20.981357"
+}

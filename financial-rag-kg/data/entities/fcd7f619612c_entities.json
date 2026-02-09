@@ -1,0 +1,30 @@
+{
+  "companies": [],
+  "people": [
+    {
+      "name": "Carlo Ratti",
+      "role": "architect",
+      "company": "Carlo Ratti"
+    }
+  ],
+  "sectors": [],
+  "events": [
+    {
+      "type": "Olympic Games",
+      "description": "Milano Cortina 2026 Olympic Games",
+      "date": null
+    }
+  ],
+  "metrics": [],
+  "locations": [
+    "Milano",
+    "Cortina"
+  ],
+  "products": [
+    "mobile relay cauldron"
+  ],
+  "relationships": [],
+  "article_id": "fcd7f619612c",
+  "article_title": "Carlo Ratti\u00a0reveals mobile mini cauldron for Milano Cortina 2026 Olympic Games",
+  "extraction_date": "2026-02-07T13:20:49.777342"
+}

@@ -1,0 +1,32 @@
+{
+  "companies": [
+    {
+      "name": "Kalshi",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Juice Reel",
+      "ticker": "",
+      "role": "competitor"
+    }
+  ],
+  "people": [],
+  "sectors": [
+    "Prediction Market"
+  ],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [
+    {
+      "entity1": "Kalshi",
+      "relationship": "accuses",
+      "entity2": "Juice Reel"
+    }
+  ],
+  "article_id": "bbcef96d19d3",
+  "article_title": "Kalshi Claims 'Extortion,' Then Recants in Feud Over User Losses",
+  "extraction_date": "2026-02-07T13:15:43.118472"
+}

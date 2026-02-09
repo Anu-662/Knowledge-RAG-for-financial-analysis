@@ -1,0 +1,33 @@
+{
+  "companies": [
+    {
+      "name": "Intel",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "6502",
+      "ticker": "",
+      "role": "competitor"
+    },
+    {
+      "name": "Intel 8085",
+      "ticker": "",
+      "role": "competitor"
+    }
+  ],
+  "people": [],
+  "sectors": [
+    "Technology"
+  ],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [
+    "Intel 8086"
+  ],
+  "relationships": [],
+  "article_id": "1384cfa7c0f3",
+  "article_title": "The Inner Workings of the Intel 8086\u2019s Arithmetic Logic Unit",
+  "extraction_date": "2026-02-07T12:59:43.805590"
+}

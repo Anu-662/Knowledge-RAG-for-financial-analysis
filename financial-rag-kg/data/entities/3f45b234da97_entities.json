@@ -1,0 +1,42 @@
+{
+  "companies": [
+    {
+      "name": "Meta",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [
+    {
+      "name": "Mark Zuckerberg",
+      "role": "CEO",
+      "company": "Meta"
+    }
+  ],
+  "sectors": [
+    "Technology",
+    "Artificial Intelligence",
+    "Virtual Reality",
+    "Augmented Reality"
+  ],
+  "events": [
+    {
+      "type": "job_cut",
+      "description": "Cutting about 1,500 VR and AR jobs",
+      "date": null
+    }
+  ],
+  "metrics": [
+    {
+      "type": "job_cut_percentage",
+      "value": "10",
+      "unit": "percent"
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "3f45b234da97",
+  "article_title": "Meta Reportedly Cutting About 1,500 VR and AR Jobs Amid Renewed Push to Become an AI Juggernaut",
+  "extraction_date": "2026-02-07T13:02:37.371405"
+}

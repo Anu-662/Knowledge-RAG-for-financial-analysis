@@ -1,0 +1,36 @@
+{
+  "companies": [
+    {
+      "name": "Waymo",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Dragoneer Investment Group",
+      "ticker": "",
+      "role": "investor"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "investment",
+      "value": "16 billion",
+      "unit": "USD",
+      "period": null
+    }
+  ],
+  "locations": [
+    "US",
+    "overseas markets"
+  ],
+  "products": [
+    "robotaxi"
+  ],
+  "relationships": [],
+  "article_id": "e796eb33864f",
+  "article_title": "Waymo raises $16 billion to take its robotaxi business \u2018global\u2019",
+  "extraction_date": "2026-02-07T13:19:29.424822"
+}

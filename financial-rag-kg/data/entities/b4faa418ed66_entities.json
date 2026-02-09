@@ -1,0 +1,19 @@
+{
+  "companies": [
+    {
+      "name": "Federal Reserve",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "b4faa418ed66",
+  "article_title": "In the case of the Federal Reserve, Supreme Court appears to carve out a murky exception",
+  "extraction_date": "2026-02-07T13:15:08.700190"
+}

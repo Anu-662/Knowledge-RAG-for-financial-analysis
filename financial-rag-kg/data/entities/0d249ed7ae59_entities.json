@@ -1,0 +1,54 @@
+{
+  "companies": [
+    {
+      "name": "Alexi Technologies",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Fastcase",
+      "ticker": "",
+      "role": "defendant"
+    },
+    {
+      "name": "vLex",
+      "ticker": "",
+      "role": "defendant"
+    },
+    {
+      "name": "Clio",
+      "ticker": "",
+      "role": "defendant"
+    }
+  ],
+  "people": [],
+  "sectors": [
+    "Legal Technology"
+  ],
+  "events": [],
+  "metrics": [
+    {
+      "type": "acquisition_value",
+      "value": "1B",
+      "unit": "USD",
+      "period": null
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [
+    {
+      "entity1": "Alexi Technologies",
+      "relationship": "accuses",
+      "entity2": "Fastcase"
+    },
+    {
+      "entity1": "Fastcase",
+      "relationship": "merges_with",
+      "entity2": "Clio"
+    }
+  ],
+  "article_id": "0d249ed7ae59",
+  "article_title": "Alexi Fires Back At Fastcase Lawsuit With Counterclaims Alleging Anticompetitive Conduct Following Clio\u2019s $1B Acquisition",
+  "extraction_date": "2026-02-07T12:59:20.746907"
+}

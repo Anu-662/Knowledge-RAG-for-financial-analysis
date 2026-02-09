@@ -1,0 +1,18 @@
+{
+  "id": "d85d623cd662",
+  "title": "What's open and closed on Martin Luther King Jr. Day",
+  "url": "https://abcnews.go.com/US/wireStory/open-closed-martin-luther-king-jr-day-129351330",
+  "source": "ABC News",
+  "published_at": "2026-01-19T16:11:47Z",
+  "sector": "General",
+  "sentiment": {
+    "polarity": 0.0,
+    "label": "neutral"
+  },
+  "full_text": "What's open and closed on Martin Luther King Jr. Day. Government offices, the stock market and many schools are closed Monday in observance of the Martin Luther King Jr. Day, but most businesses are open. Government offices, the stock market and many schools are closed Monday in observance of Martin Luther King Jr. Day, but most businesses are open. National Parks are still open on MLK Day although \u2026 [+892 chars]",
+  "chunks": [
+    "What's open and closed on Martin Luther King Jr. Day. Government offices, the stock market and many schools are closed Monday in observance of the Martin Luther King Jr. Day, but most businesses are open. Government offices, the stock market and many schools are closed Monday in observance of Martin Luther King Jr. Day, but most businesses are open. National Parks are still open on MLK Day although \u2026 [+892 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.579451"
+}

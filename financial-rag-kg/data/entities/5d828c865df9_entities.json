@@ -1,0 +1,41 @@
+{
+  "companies": [
+    {
+      "name": "Nvidia",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Meta",
+      "ticker": "",
+      "role": "competitor"
+    },
+    {
+      "name": "Microsoft",
+      "ticker": "",
+      "role": "competitor"
+    },
+    {
+      "name": "Alphabet",
+      "ticker": "",
+      "role": "competitor"
+    }
+  ],
+  "people": [
+    {
+      "name": "Michael Burry",
+      "role": "investor"
+    }
+  ],
+  "sectors": [
+    "Technology"
+  ],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "5d828c865df9",
+  "article_title": "'Big Short' investor Michael Burry explains why he's betting against Nvidia, not Meta or Microsoft",
+  "extraction_date": "2026-02-07T13:04:49.093169"
+}

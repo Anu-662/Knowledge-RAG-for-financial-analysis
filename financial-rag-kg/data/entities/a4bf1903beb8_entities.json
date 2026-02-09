@@ -1,0 +1,24 @@
+{
+  "companies": [
+    {
+      "name": "Nvidia",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Taiwan Semiconductor",
+      "ticker": "",
+      "role": "subject"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "a4bf1903beb8",
+  "article_title": "Nvidia CEO sends strong message on Taiwan Semiconductor",
+  "extraction_date": "2026-02-07T13:13:34.796153"
+}

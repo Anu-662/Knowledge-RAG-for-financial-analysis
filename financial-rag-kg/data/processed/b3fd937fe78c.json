@@ -1,0 +1,18 @@
+{
+  "id": "b3fd937fe78c",
+  "title": "Trump says he will announce his Federal Reserve chair nominee on Friday morning",
+  "url": "https://www.npr.org/2026/01/30/g-s1-107913/trump-to-announce-fed-chair-nominee-friday",
+  "source": "NPR",
+  "published_at": "2026-01-30T07:51:12Z",
+  "sector": "General",
+  "sentiment": {
+    "polarity": 0.0,
+    "label": "neutral"
+  },
+  "full_text": "Trump says he will announce his Federal Reserve chair nominee on Friday morning. President said he plans to announce new Federal Reserve chair choice Friday, after criticizing incumbent Jerome Powell for not cutting interest rates more aggressively.. President Donald Trump said he plans to announce his choice for chairman of the Federal Reserve on Friday morning, a long-awaited decision that could set up a showdown on whether the U.S. central ban\u2026 [+3832 chars]",
+  "chunks": [
+    "Trump says he will announce his Federal Reserve chair nominee on Friday morning. President said he plans to announce new Federal Reserve chair choice Friday, after criticizing incumbent Jerome Powell for not cutting interest rates more aggressively.. President Donald Trump said he plans to announce his choice for chairman of the Federal Reserve on Friday morning, a long-awaited decision that could set up a showdown on whether the U.S. central ban\u2026 [+3832 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.582658"
+}

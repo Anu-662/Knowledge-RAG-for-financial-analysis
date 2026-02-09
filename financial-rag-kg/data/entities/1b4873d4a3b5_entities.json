@@ -1,0 +1,29 @@
+{
+  "companies": [],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "open_interest_drop",
+      "value": "31",
+      "unit": "percent"
+    },
+    {
+      "type": "open_interest_value",
+      "value": "10",
+      "unit": "billion USD"
+    },
+    {
+      "type": "price_target",
+      "value": "105",
+      "unit": "thousand USD"
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "1b4873d4a3b5",
+  "article_title": "Bitcoin Open Interest Drops 31% as Analysts Call a Market Bottom and Eye $105k Breakout",
+  "extraction_date": "2026-02-07T13:00:19.044964"
+}

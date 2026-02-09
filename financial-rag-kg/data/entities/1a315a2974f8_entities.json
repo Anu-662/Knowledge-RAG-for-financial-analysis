@@ -1,0 +1,36 @@
+{
+  "companies": [
+    {
+      "name": "Netflix",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Warner Bros.",
+      "ticker": "",
+      "role": "related"
+    }
+  ],
+  "people": [
+    {
+      "name": "Ted Sarandos",
+      "role": "co-CEO",
+      "company": "Netflix"
+    }
+  ],
+  "sectors": [],
+  "events": [
+    {
+      "type": "antitrust_hearing",
+      "description": "Hearing relating to the Warner Bros. merger",
+      "date": null
+    }
+  ],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "1a315a2974f8",
+  "article_title": "Republicans attack \u2018woke\u2019 Netflix \u2014 and ignore YouTube",
+  "extraction_date": "2026-02-07T13:00:04.663910"
+}

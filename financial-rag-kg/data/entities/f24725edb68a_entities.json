@@ -1,0 +1,29 @@
+{
+  "companies": [
+    {
+      "name": "OnePlus",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [
+    {
+      "name": "Pete Lau",
+      "role": "CEO",
+      "company": "OnePlus"
+    }
+  ],
+  "sectors": [
+    "Technology"
+  ],
+  "events": [],
+  "metrics": [],
+  "locations": [
+    "Taiwan"
+  ],
+  "products": [],
+  "relationships": [],
+  "article_id": "f24725edb68a",
+  "article_title": "Taiwan Issues Arrest Warrant for OnePlus CEO in Crackdown on Tech Talent Poaching",
+  "extraction_date": "2026-02-07T13:19:56.739990"
+}

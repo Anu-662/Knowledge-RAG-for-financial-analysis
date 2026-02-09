@@ -1,0 +1,44 @@
+{
+  "companies": [
+    {
+      "name": "FTX",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [
+    {
+      "name": "Caroline Ellison",
+      "role": "executive",
+      "company": "FTX"
+    }
+  ],
+  "sectors": [],
+  "events": [
+    {
+      "type": "release",
+      "description": "Caroline Ellison released from federal custody",
+      "date": null
+    }
+  ],
+  "metrics": [
+    {
+      "type": "sentence_length",
+      "value": "14",
+      "unit": "months",
+      "period": "served"
+    },
+    {
+      "type": "sentence_length",
+      "value": "24",
+      "unit": "months",
+      "period": "original"
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "4b935e202d02",
+  "article_title": "Notorious FTX Exec Caroline Ellison Is Out of Federal Custody",
+  "extraction_date": "2026-02-07T13:03:40.758512"
+}

@@ -1,0 +1,47 @@
+{
+  "companies": [
+    {
+      "name": "Netflix",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Warner Bros. Discovery",
+      "ticker": "",
+      "role": "acquired company"
+    },
+    {
+      "name": "Paramount",
+      "ticker": "",
+      "role": "competitor"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "acquisition_value",
+      "value": "82.7",
+      "unit": "billion USD",
+      "period": null
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [
+    {
+      "entity1": "Netflix",
+      "relationship": "acquires",
+      "entity2": "Warner Bros. Discovery"
+    },
+    {
+      "entity1": "Netflix",
+      "relationship": "competes_with",
+      "entity2": "Paramount"
+    }
+  ],
+  "article_id": "dcb3ce3f650f",
+  "article_title": "Netflix Wants to Secure Warner Bros Acquisition With All-Cash Transaction",
+  "extraction_date": "2026-02-07T13:18:56.577818"
+}

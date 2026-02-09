@@ -1,0 +1,25 @@
+{
+  "companies": [],
+  "people": [
+    {
+      "name": "Donald Trump",
+      "role": "President",
+      "company": ""
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "credit_card_interest_rate_cap",
+      "value": "10",
+      "unit": "percent"
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "058beb0939db",
+  "article_title": "Trump's big swing at credit card interest rates targets a growing American problem",
+  "extraction_date": "2026-02-07T12:57:17.675724"
+}

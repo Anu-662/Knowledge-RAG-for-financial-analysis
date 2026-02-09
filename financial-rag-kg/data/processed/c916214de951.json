@@ -1,0 +1,18 @@
+{
+  "id": "c916214de951",
+  "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise after Trump's Greenland threats prompt worst day since October",
+  "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-after-trumps-greenland-threats-prompt-worst-day-since-october-234525745.html",
+  "source": "Yahoo Entertainment",
+  "published_at": "2026-01-20T23:45:25Z",
+  "sector": "General",
+  "sentiment": {
+    "polarity": 0.0,
+    "label": "neutral"
+  },
+  "full_text": "Stock market today: Dow, S&P 500, Nasdaq futures rise after Trump's Greenland threats prompt worst day since October. Stock futures have risen following the worst day in months as Trump reignites tariff talk with EU members.. US stock futures ticked higher Tuesday evening, offering a modest rebound after Wall Street suffered its steepest selloff in months. Dow Jones Industrial Average futures (YM=F), futures linked to th\u2026 [+2048 chars]",
+  "chunks": [
+    "Stock market today: Dow, S&P 500, Nasdaq futures rise after Trump's Greenland threats prompt worst day since October. Stock futures have risen following the worst day in months as Trump reignites tariff talk with EU members.. US stock futures ticked higher Tuesday evening, offering a modest rebound after Wall Street suffered its steepest selloff in months. Dow Jones Industrial Average futures (YM=F), futures linked to th\u2026 [+2048 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.578229"
+}

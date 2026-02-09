@@ -1,0 +1,24 @@
+{
+  "companies": [],
+  "people": [
+    {
+      "name": "Bobby Kotick",
+      "role": "Ex-Activision Boss",
+      "company": "Activision"
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "role": "Alleged contact",
+      "company": ""
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "12cf2ab02e90",
+  "article_title": "Ex-Activision Boss Bobby Kotick Allegedly Emailed With Jeffrey Epstein A Bunch",
+  "extraction_date": "2026-02-07T12:59:41.971358"
+}

@@ -1,0 +1,32 @@
+{
+  "companies": [
+    {
+      "name": "Amazon",
+      "ticker": "AMZN",
+      "role": "primary subject"
+    },
+    {
+      "name": "Microsoft",
+      "ticker": "MSFT",
+      "role": "competitor"
+    }
+  ],
+  "people": [],
+  "sectors": [
+    "Technology"
+  ],
+  "events": [],
+  "metrics": [
+    {
+      "type": "bitcoin_price",
+      "value": "65000",
+      "unit": "USD"
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "ac81b946bf26",
+  "article_title": "Stock market today: Dow, S&P 500, Nasdaq sell-off builds as tech rout continues, bitcoin plunges",
+  "extraction_date": "2026-02-07T13:14:06.891883"
+}

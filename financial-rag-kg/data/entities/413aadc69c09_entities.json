@@ -1,0 +1,33 @@
+{
+  "companies": [
+    {
+      "name": "OnePlus",
+      "ticker": "",
+      "role": "subject"
+    }
+  ],
+  "people": [
+    {
+      "name": "CEO of OnePlus",
+      "role": "CEO",
+      "company": "OnePlus"
+    }
+  ],
+  "sectors": [],
+  "events": [
+    {
+      "type": "arrest_warrant",
+      "description": "Arrest warrant issued for CEO of OnePlus",
+      "date": null
+    }
+  ],
+  "metrics": [],
+  "locations": [
+    "Taiwan"
+  ],
+  "products": [],
+  "relationships": [],
+  "article_id": "413aadc69c09",
+  "article_title": "Taiwan seeks arrest of Chinese smartphone maker OnePlus CEO over illegal hires",
+  "extraction_date": "2026-02-07T13:02:45.590180"
+}

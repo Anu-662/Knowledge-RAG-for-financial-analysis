@@ -1,0 +1,30 @@
+{
+  "companies": [],
+  "people": [],
+  "sectors": [
+    "Renewable Energy"
+  ],
+  "events": [],
+  "metrics": [
+    {
+      "type": "electricity_generation_percentage",
+      "value": "13",
+      "unit": "percent",
+      "context": "solar power in EU"
+    },
+    {
+      "type": "electricity_generation_percentage",
+      "value": "30",
+      "unit": "percent",
+      "context": "combined wind and solar in EU"
+    }
+  ],
+  "locations": [
+    "EU"
+  ],
+  "products": [],
+  "relationships": [],
+  "article_id": "74b7d0ed9db8",
+  "article_title": "Solar and Wind Overtake Fossil Fuels in the EU",
+  "extraction_date": "2026-02-07T13:10:00.444598"
+}

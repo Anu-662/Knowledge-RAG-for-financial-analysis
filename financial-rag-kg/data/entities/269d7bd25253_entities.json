@@ -1,0 +1,40 @@
+{
+  "companies": [
+    {
+      "name": "Palantir",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "CrowdStrike",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "OpenAI",
+      "ticker": "",
+      "role": "related entity"
+    }
+  ],
+  "people": [
+    {
+      "name": "Daniel Ives",
+      "role": "analyst",
+      "company": ""
+    }
+  ],
+  "sectors": [
+    "Technology",
+    "Artificial Intelligence"
+  ],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [
+    "ChatGPT"
+  ],
+  "relationships": [],
+  "article_id": "269d7bd25253",
+  "article_title": "Palantir and CrowdStrike: Daniel Ives Reveals His Top AI Stocks for 2026",
+  "extraction_date": "2026-02-07T13:01:08.919390"
+}

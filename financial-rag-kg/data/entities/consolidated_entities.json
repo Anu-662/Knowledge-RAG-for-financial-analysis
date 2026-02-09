@@ -1,0 +1,2142 @@
+{
+  "extraction_date": "2026-02-07T13:21:09.475908",
+  "total_articles": 527,
+  "total_companies": 260,
+  "total_people": 270,
+  "total_sectors": 72,
+  "total_events": 117,
+  "total_relationships": 80,
+  "unique_companies": [
+    {
+      "name": "Verizon",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Frontier",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Tesla",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Alibaba",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "T-Head",
+      "ticker": "",
+      "role": "subsidiary"
+    },
+    {
+      "name": "Cambricon",
+      "ticker": "",
+      "role": "competitor"
+    },
+    {
+      "name": "Huawei",
+      "ticker": "",
+      "role": "competitor"
+    },
+    {
+      "name": "Central Electricity Regulatory Commission",
+      "ticker": "",
+      "role": "regulator"
+    },
+    {
+      "name": "Federal Reserve",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Department of Justice",
+      "ticker": "",
+      "role": "related entity"
+    },
+    {
+      "name": "Warner Bros.",
+      "ticker": "",
+      "role": "subject"
+    },
+    {
+      "name": "Netflix",
+      "ticker": "",
+      "role": "subject"
+    },
+    {
+      "name": "Realty Income",
+      "ticker": "",
+      "role": "dividend payer"
+    },
+    {
+      "name": "JEPI",
+      "ticker": "",
+      "role": "investment fund"
+    },
+    {
+      "name": "Anthropic",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Alexi Technologies",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Fastcase",
+      "ticker": "",
+      "role": "defendant"
+    },
+    {
+      "name": "vLex",
+      "ticker": "",
+      "role": "defendant"
+    },
+    {
+      "name": "Clio",
+      "ticker": "",
+      "role": "defendant"
+    },
+    {
+      "name": "Saks Global",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Saks Fifth Avenue",
+      "ticker": "",
+      "role": "subsidiary"
+    },
+    {
+      "name": "Neiman Marcus",
+      "ticker": "",
+      "role": "subsidiary"
+    },
+    {
+      "name": "Moltbook",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Octane",
+      "ticker": "",
+      "role": "creator"
+    },
+    {
+      "name": "Vanguard",
+      "ticker": "VTI",
+      "role": "primary subject"
+    },
+    {
+      "name": "Rio Tinto",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Glencore",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "OpenAI",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Paramount",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Intel",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "6502",
+      "ticker": "",
+      "role": "competitor"
+    },
+    {
+      "name": "Intel 8085",
+      "ticker": "",
+      "role": "competitor"
+    },
+    {
+      "name": "Discord",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Bloomberg",
+      "ticker": "",
+      "role": "source"
+    },
+    {
+      "name": "SpaceX",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "xAI",
+      "ticker": "",
+      "role": "partner"
+    },
+    {
+      "name": "Space Forge",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "SPDR S&P 400 Mid Cap Growth ETF",
+      "ticker": "MDYG",
+      "role": "primary subject"
+    },
+    {
+      "name": "AMD",
+      "ticker": "AMD",
+      "role": "primary subject"
+    },
+    {
+      "name": "Microsoft",
+      "ticker": "MSFT",
+      "role": "competitor"
+    },
+    {
+      "name": "Meta",
+      "ticker": "META",
+      "role": "competitor"
+    },
+    {
+      "name": "Disney",
+      "ticker": "",
+      "role": "subject"
+    },
+    {
+      "name": "Fox",
+      "ticker": "",
+      "role": "subject"
+    },
+    {
+      "name": "JPMorgan Chase",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Sony Pictures",
+      "ticker": "",
+      "role": "investor"
+    },
+    {
+      "name": "CAA",
+      "ticker": "",
+      "role": "backer"
+    },
+    {
+      "name": "JPMorgan",
+      "ticker": "",
+      "role": "reporting earnings"
+    },
+    {
+      "name": "Goldman Sachs",
+      "ticker": "",
+      "role": "reporting earnings"
+    },
+    {
+      "name": "Apple Inc.",
+      "ticker": "AAPL",
+      "role": "primary subject"
+    },
+    {
+      "name": "Apple",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Asus",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Filevine",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Harvey",
+      "ticker": "",
+      "role": "competitor"
+    },
+    {
+      "name": "Klarna",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Donald Trump",
+      "ticker": "",
+      "role": "related figure"
+    },
+    {
+      "name": "SCHD",
+      "ticker": "",
+      "role": "ETF"
+    },
+    {
+      "name": "FDVV",
+      "ticker": "",
+      "role": "ETF"
+    },
+    {
+      "name": "T-Mobile",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "AT&T",
+      "ticker": "",
+      "role": "competitor"
+    },
+    {
+      "name": "CoreWeave",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "GOOG",
+      "ticker": "",
+      "role": "stock"
+    },
+    {
+      "name": "QCOM",
+      "ticker": "",
+      "role": "stock"
+    },
+    {
+      "name": "AMZN",
+      "ticker": "",
+      "role": "stock"
+    },
+    {
+      "name": "Nasdaq",
+      "ticker": "",
+      "role": "index"
+    },
+    {
+      "name": "S&P 500",
+      "ticker": "",
+      "role": "index"
+    },
+    {
+      "name": "Taiwan Semiconductor Manufacturing",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Nvidia",
+      "ticker": "",
+      "role": "investor"
+    },
+    {
+      "name": "Broadcom",
+      "ticker": "",
+      "role": "investor"
+    },
+    {
+      "name": "Micron Technology, Inc.",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Powerchip Semiconductor Manufacturing Corporation",
+      "ticker": "",
+      "role": "acquired entity"
+    },
+    {
+      "name": "Palantir",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "CrowdStrike",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Amazon",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Virgin Media O2",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Netomnia",
+      "ticker": "",
+      "role": "acquired company"
+    },
+    {
+      "name": "Google",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Atari",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Oracle",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Freddie Mac",
+      "ticker": "",
+      "role": "source"
+    },
+    {
+      "name": "XPeng",
+      "ticker": "XPEV",
+      "role": "primary subject"
+    },
+    {
+      "name": "Nintendo",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Meta Platforms",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Jackery",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "JP Morgan",
+      "ticker": "",
+      "role": "analyst"
+    },
+    {
+      "name": "Coinbase",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Korg",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Tudou Guarantee Marketplace",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Elliptic",
+      "ticker": "",
+      "role": "source"
+    },
+    {
+      "name": "OnePlus",
+      "ticker": "",
+      "role": "subject"
+    },
+    {
+      "name": "Electronic Arts",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Bank of America",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "MEXC",
+      "ticker": "",
+      "role": "centralized cryptocurrency exchange"
+    },
+    {
+      "name": "Uber",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "DoorDash",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "International Renewable Energy Agency",
+      "ticker": "",
+      "role": "publisher"
+    },
+    {
+      "name": "NVIDIA Corporation",
+      "ticker": "NVDA",
+      "role": "potential competitor"
+    },
+    {
+      "name": "Grindr",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Tinder",
+      "ticker": "",
+      "role": "competitor"
+    },
+    {
+      "name": "Hinge",
+      "ticker": "",
+      "role": "competitor"
+    },
+    {
+      "name": "RationalFX",
+      "ticker": "",
+      "role": "reporting company"
+    },
+    {
+      "name": "FTX",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Ampol Limited",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "EG Australia",
+      "ticker": "",
+      "role": "acquisition target"
+    },
+    {
+      "name": "Australian Competition and Consumer Commission",
+      "ticker": "",
+      "role": "regulatory body"
+    },
+    {
+      "name": "Tether",
+      "ticker": "",
+      "role": "subject"
+    },
+    {
+      "name": "Tigress Financial",
+      "ticker": "",
+      "role": "analyst"
+    },
+    {
+      "name": "ASML",
+      "ticker": "ASML",
+      "role": "monopoly"
+    },
+    {
+      "name": "Alphabet",
+      "ticker": "GOOG",
+      "role": "monopoly"
+    },
+    {
+      "name": "Activision Blizzard",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Embracer",
+      "ticker": "",
+      "role": "competitor"
+    },
+    {
+      "name": "Walmart",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Arm Holdings",
+      "ticker": "ARM",
+      "role": "primary subject"
+    },
+    {
+      "name": "Warner Bros Discovery",
+      "ticker": "WBD",
+      "role": "target"
+    },
+    {
+      "name": "Paramount Skydance",
+      "ticker": "",
+      "role": "associated"
+    },
+    {
+      "name": "Sandisk Corporation",
+      "ticker": "SNDK",
+      "role": "added to Zacks Rank #1"
+    },
+    {
+      "name": "SHOO",
+      "ticker": "",
+      "role": "added to Zacks Rank #1"
+    },
+    {
+      "name": "DAWN",
+      "ticker": "",
+      "role": "added to Zacks Rank #1"
+    },
+    {
+      "name": "EFXT",
+      "ticker": "",
+      "role": "added to Zacks Rank #1"
+    },
+    {
+      "name": "MCHP",
+      "ticker": "",
+      "role": "added to Zacks Rank #1"
+    },
+    {
+      "name": "Taiwan Semiconductor Manufacturing Company",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "GDC",
+      "ticker": "",
+      "role": "reporting entity"
+    },
+    {
+      "name": "Workday",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Warner Bros. Discovery",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Texas Roadhouse",
+      "ticker": "TXRH",
+      "role": "primary subject"
+    },
+    {
+      "name": "BMO Capital",
+      "ticker": "",
+      "role": "analyst"
+    },
+    {
+      "name": "Wells Fargo",
+      "ticker": "",
+      "role": "analyst"
+    },
+    {
+      "name": "Bayer",
+      "ticker": "BAYRY",
+      "role": "added to Zacks Rank #1 (Strong Buy) List"
+    },
+    {
+      "name": "Daktronics",
+      "ticker": "DAKT",
+      "role": "added to Zacks Rank #1 (Strong Buy) List"
+    },
+    {
+      "name": "ZTO Express",
+      "ticker": "ZTO",
+      "role": "added to Zacks Rank #1 (Strong Buy) List"
+    },
+    {
+      "name": "Lloyds Banking Group",
+      "ticker": "LRLCY",
+      "role": "added to Zacks Rank #1 (Strong Buy) List"
+    },
+    {
+      "name": "Avaya",
+      "ticker": "AVAH",
+      "role": "added to Zacks Rank #1 (Strong Buy) List"
+    },
+    {
+      "name": "Electric Coin Company",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Zcash",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "SPINS",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "MikMak",
+      "ticker": "",
+      "role": "acquired company"
+    },
+    {
+      "name": "Berkshire Hathaway",
+      "ticker": "BRK.A",
+      "role": "primary subject"
+    },
+    {
+      "name": "Avala Global",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Viking Global",
+      "ticker": "",
+      "role": "related"
+    },
+    {
+      "name": "Citi",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Toto",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Sony Semiconductor Solutions",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Authentic Brands Group",
+      "ticker": "",
+      "role": "acquirer"
+    },
+    {
+      "name": "Guess?",
+      "ticker": "",
+      "role": "target"
+    },
+    {
+      "name": "MITO AI",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "ELITE Solar",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "SoFi",
+      "ticker": "",
+      "role": "mentioned"
+    },
+    {
+      "name": "Investcorp",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "LATAM Airlines Group S.A.",
+      "ticker": "LTM",
+      "role": "primary subject"
+    },
+    {
+      "name": "Kohl's Corporation",
+      "ticker": "KSS",
+      "role": "primary subject"
+    },
+    {
+      "name": "Dollar General Corporation",
+      "ticker": "DG",
+      "role": "primary subject"
+    },
+    {
+      "name": "Warner Brothers",
+      "ticker": "",
+      "role": "subject"
+    },
+    {
+      "name": "CBS",
+      "ticker": "",
+      "role": "owner"
+    },
+    {
+      "name": "Renaissance",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Schonfeld",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Engineers Gate",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "WRU",
+      "ticker": "",
+      "role": "owner"
+    },
+    {
+      "name": "Y11",
+      "ticker": "",
+      "role": "owner"
+    },
+    {
+      "name": "Ospreys",
+      "ticker": "",
+      "role": "subject"
+    },
+    {
+      "name": "Sony Semiconductor Solutions Group",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Bob\u2019s Discount Furniture",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Delta Air Lines",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Boeing",
+      "ticker": "",
+      "role": "supplier"
+    },
+    {
+      "name": "American Airlines",
+      "ticker": "",
+      "role": "competitor"
+    },
+    {
+      "name": "United Airlines",
+      "ticker": "",
+      "role": "competitor"
+    },
+    {
+      "name": "Hewlett-Packard Enterprise Company",
+      "ticker": "HPE",
+      "role": "primary subject"
+    },
+    {
+      "name": "Helium Inc.",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "National Stock Exchange",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Securities and Exchange Board of India",
+      "ticker": "",
+      "role": "regulatory body"
+    },
+    {
+      "name": "Evernorth",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Trump Media & Technology Group",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "TAE Technologies",
+      "ticker": "",
+      "role": "partner"
+    },
+    {
+      "name": "Chainalysis",
+      "ticker": "",
+      "role": "reporting entity"
+    },
+    {
+      "name": "Trump administration",
+      "ticker": "",
+      "role": "influencer"
+    },
+    {
+      "name": "Securities and Exchange Commission",
+      "ticker": "",
+      "role": "regulatory body"
+    },
+    {
+      "name": "Alphabet Inc.",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Mixue",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "McDonald's",
+      "ticker": "",
+      "role": "competitor"
+    },
+    {
+      "name": "Tesla Inc.",
+      "ticker": "TSLA",
+      "role": "primary subject"
+    },
+    {
+      "name": "Positron",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "QIA",
+      "ticker": "",
+      "role": "investor"
+    },
+    {
+      "name": "Pinterest",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "SPDR Portfolio S&P 500 High Dividend ETF",
+      "ticker": "SPYD",
+      "role": "recommended ETF"
+    },
+    {
+      "name": "Wall Street Journal",
+      "ticker": "",
+      "role": "source"
+    },
+    {
+      "name": "Prism",
+      "ticker": "",
+      "role": "parent company"
+    },
+    {
+      "name": "Oyo",
+      "ticker": "",
+      "role": "subsidiary"
+    },
+    {
+      "name": "Sunday PropTech",
+      "ticker": "",
+      "role": "acquirer"
+    },
+    {
+      "name": "Pinnacle Financial Partners",
+      "ticker": "PNFP",
+      "role": "primary subject"
+    },
+    {
+      "name": "Kaufman Hall",
+      "ticker": "",
+      "role": "analysis provider"
+    },
+    {
+      "name": "Vizient",
+      "ticker": "",
+      "role": "parent company"
+    },
+    {
+      "name": "Cerebras Systems",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "G42",
+      "ticker": "",
+      "role": "customer"
+    },
+    {
+      "name": "Santander",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Masdar",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Taiwan Semiconductor",
+      "ticker": "",
+      "role": "subject"
+    },
+    {
+      "name": "CoinDesk",
+      "ticker": "",
+      "role": "reporting entity"
+    },
+    {
+      "name": "CoinGecko",
+      "ticker": "",
+      "role": "data aggregator"
+    },
+    {
+      "name": "Intuit",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Take-Two Interactive",
+      "ticker": "",
+      "role": "parent company"
+    },
+    {
+      "name": "Rockstar",
+      "ticker": "",
+      "role": "developer"
+    },
+    {
+      "name": "Nikkei Asia",
+      "ticker": "",
+      "role": "source"
+    },
+    {
+      "name": "The Information",
+      "ticker": "",
+      "role": "source"
+    },
+    {
+      "name": "Ming-Chi Kuo",
+      "ticker": "",
+      "role": "analyst"
+    },
+    {
+      "name": "Oracle Corporation",
+      "ticker": "",
+      "role": "associated with Larry Ellison"
+    },
+    {
+      "name": "Vistra",
+      "ticker": "",
+      "role": "top investment"
+    },
+    {
+      "name": "Larry Ellison",
+      "ticker": "",
+      "role": "subject"
+    },
+    {
+      "name": "KB Home",
+      "ticker": "KBH",
+      "role": "primary subject"
+    },
+    {
+      "name": "SoundHound AI, Inc.",
+      "ticker": "SOUN",
+      "role": "primary subject"
+    },
+    {
+      "name": "Dell Technologies",
+      "ticker": "DELL",
+      "role": "primary subject"
+    },
+    {
+      "name": "DraftKings",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Kalshi",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Juice Reel",
+      "ticker": "",
+      "role": "competitor"
+    },
+    {
+      "name": "Mappa",
+      "ticker": "",
+      "role": "partner"
+    },
+    {
+      "name": "AlixPartners",
+      "ticker": "",
+      "role": "consulting firm"
+    },
+    {
+      "name": "XAI",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Elon Musk's companies",
+      "ticker": "",
+      "role": "associated entity"
+    },
+    {
+      "name": "Warner Bros",
+      "ticker": "",
+      "role": "acquired company"
+    },
+    {
+      "name": "Bank of America Corporation",
+      "ticker": "BAC",
+      "role": "primary subject"
+    },
+    {
+      "name": "Xbox",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "TrueAchievements",
+      "ticker": "",
+      "role": "data source"
+    },
+    {
+      "name": "Dow Jones Industrial Average",
+      "ticker": "",
+      "role": "index"
+    },
+    {
+      "name": "Stripe",
+      "ticker": "",
+      "role": "involved"
+    },
+    {
+      "name": "Sony",
+      "ticker": "",
+      "role": "involved"
+    },
+    {
+      "name": "Washington Post",
+      "ticker": "",
+      "role": "subject"
+    },
+    {
+      "name": "Fujifilm",
+      "ticker": "",
+      "role": "competitor"
+    },
+    {
+      "name": "Qualcomm",
+      "ticker": "QCOM",
+      "role": "primary subject"
+    },
+    {
+      "name": "Worcester Polytechnic Institute",
+      "ticker": "",
+      "role": "developer"
+    },
+    {
+      "name": "AES Andes",
+      "ticker": "",
+      "role": "subsidiary"
+    },
+    {
+      "name": "AES Corporation",
+      "ticker": "",
+      "role": "parent company"
+    },
+    {
+      "name": "Spotify",
+      "ticker": "",
+      "role": "podcast platform"
+    },
+    {
+      "name": "YouTube",
+      "ticker": "",
+      "role": "podcast platform"
+    },
+    {
+      "name": "LPL Financial",
+      "ticker": "",
+      "role": "financial entity"
+    },
+    {
+      "name": "ARK Invest",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Bitcoin",
+      "ticker": "",
+      "role": "subject"
+    },
+    {
+      "name": "Mizuho",
+      "ticker": "",
+      "role": "analyst"
+    },
+    {
+      "name": "Zillow",
+      "ticker": "",
+      "role": "data source"
+    },
+    {
+      "name": "Waymo",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Dragoneer Investment Group",
+      "ticker": "",
+      "role": "investor"
+    },
+    {
+      "name": "New York Stock Exchange",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Goldbridge",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "World Liberty Financial",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "OpenClaw",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "1Password",
+      "ticker": "",
+      "role": "mentioned"
+    },
+    {
+      "name": "Google LLC",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Micron",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Grantham, Mayo & van Otterloo",
+      "ticker": "",
+      "role": "co-founder"
+    },
+    {
+      "name": "Powerchip Semiconductor Manufacturing Corp.",
+      "ticker": "",
+      "role": "acquired company"
+    },
+    {
+      "name": "Amagi Media Labs",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Tejas Networks",
+      "ticker": "",
+      "role": "supplier"
+    },
+    {
+      "name": "Anduril Industries",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Erebor Bank",
+      "ticker": "",
+      "role": "associated"
+    },
+    {
+      "name": "Cleanspark",
+      "ticker": "CLSK",
+      "role": "added to Zacks Rank #5"
+    },
+    {
+      "name": "Lucid Motors",
+      "ticker": "LCID",
+      "role": "added to Zacks Rank #5"
+    },
+    {
+      "name": "Diversified Healthcare Trust",
+      "ticker": "DHC",
+      "role": "added to Zacks Rank #5"
+    },
+    {
+      "name": "Copper",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "BitGo",
+      "ticker": "",
+      "role": "rival"
+    },
+    {
+      "name": "Deutsche Bank",
+      "ticker": "",
+      "role": "investment bank"
+    },
+    {
+      "name": "CXMT",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Warner Bros Television",
+      "ticker": "",
+      "role": "employer"
+    },
+    {
+      "name": "BitGo Holdings",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Adobe",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "sectors": [
+    "AI",
+    "Advertising",
+    "Aerospace",
+    "Artificial Intelligence",
+    "Augmented Reality",
+    "Automotive",
+    "Banking",
+    "Blockchain",
+    "Business",
+    "CPG",
+    "Chip Industry",
+    "Chip Sector",
+    "Clean Energy",
+    "Cloud Computing",
+    "Commercial Space Launch Services",
+    "Computer Chip Industry",
+    "Consumer Electronics",
+    "Crypto",
+    "Cryptocurrency",
+    "Data Center",
+    "Defense",
+    "Economics",
+    "Electric Vehicles",
+    "Energy",
+    "Entertainment",
+    "Finance",
+    "Financial Services",
+    "Fuel Retail",
+    "GCC investment",
+    "Games Industry",
+    "Gaming",
+    "Green Energy",
+    "Green Technology",
+    "Healthcare",
+    "Hedge Funds",
+    "Homebuilding",
+    "IPO market",
+    "Industrials",
+    "Information Technology",
+    "Investing",
+    "Investment Banking",
+    "Legal Software",
+    "Legal Tech",
+    "Legal Technology",
+    "Media",
+    "Mid-Cap Growth",
+    "Mining",
+    "Nuclear Energy",
+    "Oil",
+    "Politics",
+    "Power",
+    "Precious Metals",
+    "Prediction Market",
+    "Private Equity",
+    "Real Estate",
+    "Renewable Energy",
+    "Restaurant",
+    "Retail",
+    "Reusable Rocket Technology",
+    "Satellite Internet",
+    "Semiconductor",
+    "Semiconductors",
+    "Software",
+    "Streaming",
+    "Technology",
+    "Telecommunications",
+    "Transportation",
+    "Utility",
+    "Virtual Reality",
+    "Waste Management",
+    "Wealth Management",
+    "creator economy"
+  ],
+  "sample_people": [
+    {
+      "name": "Trump",
+      "role": "influencer",
+      "company": ""
+    },
+    {
+      "name": "Donald Trump",
+      "role": "proposer",
+      "company": ""
+    },
+    {
+      "name": "Donald Trump",
+      "role": "President",
+      "company": ""
+    },
+    {
+      "name": "Jerome Powell",
+      "role": "Chair",
+      "company": "Federal Reserve"
+    },
+    {
+      "name": "Federal Reserve Chair",
+      "role": "Chair",
+      "company": "Federal Reserve"
+    },
+    {
+      "name": "Ted Sarandos",
+      "role": "executive",
+      "company": "Netflix"
+    },
+    {
+      "name": "Eric Adams",
+      "role": "Former Mayor",
+      "company": "New York City"
+    },
+    {
+      "name": "Bharath Rajeswaran",
+      "role": "author",
+      "company": "Reuters"
+    },
+    {
+      "name": "Sai Ishwarbharath B",
+      "role": "author",
+      "company": "Reuters"
+    },
+    {
+      "name": "Elizabeth Warren",
+      "role": "Senator",
+      "company": ""
+    },
+    {
+      "name": "Sam Altman",
+      "role": "CEO",
+      "company": "OpenAI"
+    },
+    {
+      "name": "Bobby Kotick",
+      "role": "Ex-Activision Boss",
+      "company": "Activision"
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "role": "Alleged contact",
+      "company": ""
+    },
+    {
+      "name": "Elon Musk",
+      "role": "CEO",
+      "company": "SpaceX"
+    },
+    {
+      "name": "Jerome Powell",
+      "role": "Chair",
+      "company": "Federal Reserve"
+    },
+    {
+      "name": "Ted Sarandos",
+      "role": "co-CEO",
+      "company": "Netflix"
+    },
+    {
+      "name": "Donald Trump",
+      "role": "President"
+    },
+    {
+      "name": "Barack Obama",
+      "role": "former President"
+    },
+    {
+      "name": "Bernie Sanders",
+      "role": "politician"
+    },
+    {
+      "name": "Jamie Dimon",
+      "role": "CEO",
+      "company": "JPMorgan Chase"
+    },
+    {
+      "name": "Brian Robbins",
+      "role": "Co-CEO",
+      "company": "Paramount"
+    },
+    {
+      "name": "Tim Cook",
+      "role": "CEO",
+      "company": "Apple Inc."
+    },
+    {
+      "name": "James Daley",
+      "role": "financial campaigner",
+      "company": ""
+    },
+    {
+      "name": "Thalha Jubair",
+      "role": "accused",
+      "company": ""
+    },
+    {
+      "name": "Sona Sulakian",
+      "role": "",
+      "company": ""
+    },
+    {
+      "name": "Mariam Sulakian",
+      "role": "",
+      "company": ""
+    },
+    {
+      "name": "Sebastian Siemiatkowski",
+      "role": "CEO",
+      "company": "Klarna"
+    },
+    {
+      "name": "Donald Trump",
+      "role": "President",
+      "company": ""
+    },
+    {
+      "name": "Jerome Powell",
+      "role": "Fed Chair",
+      "company": "Federal Reserve"
+    },
+    {
+      "name": "Scott Bessent",
+      "role": "Treasury Secretary",
+      "company": "US Treasury"
+    },
+    {
+      "name": "Jerome Powell",
+      "role": "Chairman",
+      "company": "Federal Reserve"
+    },
+    {
+      "name": "Donald Trump",
+      "role": "former President",
+      "company": ""
+    },
+    {
+      "name": "Dario Amodei",
+      "role": "CEO",
+      "company": "Anthropic"
+    },
+    {
+      "name": "Daniel Ives",
+      "role": "analyst",
+      "company": ""
+    },
+    {
+      "name": "Jeremy Barnum",
+      "role": "CFO",
+      "company": "JPMorgan Chase"
+    },
+    {
+      "name": "Donald Trump",
+      "role": "President",
+      "company": ""
+    },
+    {
+      "name": "Bill Ackman",
+      "role": "respondent",
+      "company": ""
+    },
+    {
+      "name": "Donald Trump",
+      "role": "President",
+      "company": ""
+    },
+    {
+      "name": "Michael Burry",
+      "role": "investor",
+      "company": "The Big Short"
+    },
+    {
+      "name": "Warren Buffett",
+      "role": "investor",
+      "company": ""
+    },
+    {
+      "name": "Jerome Powell",
+      "role": "Chair",
+      "company": "Federal Reserve"
+    },
+    {
+      "name": "Rui-Siang Lin",
+      "role": "operator",
+      "company": "Incognito Market"
+    },
+    {
+      "name": "Larry Ellison",
+      "role": "keynote speaker",
+      "company": "Oracle"
+    },
+    {
+      "name": "Rebecca Rettig",
+      "role": "negotiator",
+      "company": ""
+    },
+    {
+      "name": "Trump",
+      "role": "politician",
+      "company": ""
+    },
+    {
+      "name": "Donald Trump",
+      "role": "President",
+      "company": ""
+    },
+    {
+      "name": "Kevin Warsh",
+      "role": "nominated chair",
+      "company": "Federal Reserve"
+    },
+    {
+      "name": "Jerome Powell",
+      "role": "current chair",
+      "company": "Federal Reserve"
+    },
+    {
+      "name": "Donald Trump",
+      "role": "President",
+      "company": ""
+    },
+    {
+      "name": "Elon Musk",
+      "role": "CEO",
+      "company": "SpaceX"
+    }
+  ],
+  "sample_events": [
+    {
+      "type": "IPO",
+      "description": "Alibaba plans IPO for T-Head",
+      "date": null
+    },
+    {
+      "type": "earnings_report",
+      "description": "Q4 earnings results",
+      "date": null
+    },
+    {
+      "type": "subpoena",
+      "description": "grand jury subpoenas served",
+      "date": null
+    },
+    {
+      "type": "bankruptcy",
+      "description": "expected to file for bankruptcy protection",
+      "date": null
+    },
+    {
+      "type": "IPO",
+      "description": "confidentially filed for IPO",
+      "date": null
+    },
+    {
+      "type": "merger",
+      "description": "SpaceX merger with xAI",
+      "date": null
+    },
+    {
+      "type": "IPO",
+      "description": "SpaceX ahead of IPO",
+      "date": null
+    },
+    {
+      "type": "Senate hearing",
+      "description": "heated exchange over the Fed's renovation plans",
+      "date": "June"
+    },
+    {
+      "type": "earnings_report",
+      "description": "Q4 earnings",
+      "date": null
+    },
+    {
+      "type": "antitrust_hearing",
+      "description": "Hearing relating to the Warner Bros. merger",
+      "date": null
+    },
+    {
+      "type": "earnings_call",
+      "description": "Defended tech spending",
+      "date": null
+    },
+    {
+      "type": "earnings_report",
+      "description": "fourth-quarter earnings",
+      "date": null
+    },
+    {
+      "type": "legal_action",
+      "description": "class action lawsuit against Apple",
+      "date": null
+    },
+    {
+      "type": "grand_jury_subpoena",
+      "description": "Central bank received grand jury subpoenas from the Justice Department",
+      "date": null
+    },
+    {
+      "type": "criminal_probe",
+      "description": "US justice department opens criminal probe",
+      "date": null
+    },
+    {
+      "type": "earnings_report",
+      "description": "strong fourth-quarter earnings",
+      "date": null
+    },
+    {
+      "type": "policy_proposal",
+      "description": "call for a one-year 10% cap on credit card interest",
+      "date": null
+    },
+    {
+      "type": "layoff",
+      "description": "Amazon announced another round of layoffs impacting roughly 16,000 employees",
+      "date": null
+    },
+    {
+      "type": "sentencing",
+      "description": "Sentenced to 30 years in US federal prison",
+      "date": null
+    },
+    {
+      "type": "earnings_report",
+      "description": "record revenue from the American government",
+      "date": "2025"
+    },
+    {
+      "type": "conference",
+      "description": "Oracle's 2025 conference",
+      "date": null
+    },
+    {
+      "type": "IPO",
+      "description": "Unit IPO",
+      "date": null
+    },
+    {
+      "type": "earnings_report",
+      "description": "latest earnings report",
+      "date": null
+    },
+    {
+      "type": "earnings_report",
+      "description": "Q4 earnings report",
+      "date": null
+    },
+    {
+      "type": "earnings_report",
+      "description": "Q4 earnings beat Wall Street estimates",
+      "date": null
+    },
+    {
+      "type": "earnings_report",
+      "description": "Q1 2026 earnings",
+      "date": null
+    },
+    {
+      "type": "meeting",
+      "description": "World Economic Forum meeting",
+      "date": "2026"
+    },
+    {
+      "type": "job_cut",
+      "description": "Cutting about 1,500 VR and AR jobs",
+      "date": null
+    },
+    {
+      "type": "arrest_warrant",
+      "description": "Arrest warrant issued for CEO of OnePlus",
+      "date": null
+    },
+    {
+      "type": "investigation",
+      "description": "DOJ investigation into Powell",
+      "date": null
+    },
+    {
+      "type": "withdrawal",
+      "description": "U.S. withdrawal from the climate treaty",
+      "date": null
+    },
+    {
+      "type": "report_publication",
+      "description": "Renewable Energy and Jobs Annual Review 2025",
+      "date": null
+    },
+    {
+      "type": "criminal_probe",
+      "description": "DOJ opens criminal investigation into Federal Reserve Chair",
+      "date": null
+    },
+    {
+      "type": "investigation",
+      "description": "DOJ's criminal probe into Fed Chair Powell",
+      "date": null
+    },
+    {
+      "type": "subpoena",
+      "description": "grand jury subpoenas from the Justice Department",
+      "date": null
+    },
+    {
+      "type": "release",
+      "description": "Caroline Ellison released from federal custody",
+      "date": null
+    },
+    {
+      "type": "grand_jury_subpoena",
+      "description": "Federal Reserve received grand jury subpoenas from the Department of Justice",
+      "date": null
+    },
+    {
+      "type": "merger_review",
+      "description": "ACCC reviews Ampol's proposed acquisition of EG Australia",
+      "date": null
+    },
+    {
+      "type": "lawsuit",
+      "description": "ongoing lawsuit against Bobby Kotick and Microsoft",
+      "date": null
+    },
+    {
+      "type": "earnings_report",
+      "description": "Q3 results",
+      "date": "2024-02-04"
+    },
+    {
+      "type": "stock_addition",
+      "description": "Added to Zacks Rank #1 (Strong Buy)",
+      "date": "2026-01-27"
+    },
+    {
+      "type": "grand_jury_subpoena",
+      "description": "served by the Justice Department",
+      "date": null
+    },
+    {
+      "type": "IPO",
+      "description": "record-breaking IPO",
+      "date": null
+    },
+    {
+      "type": "earnings_report",
+      "description": "1Q 2026 Results",
+      "date": null
+    },
+    {
+      "type": "stock_addition",
+      "description": "Added to Zacks Rank #1 (Strong Buy) List",
+      "date": "2026-01-21"
+    },
+    {
+      "type": "price_drop",
+      "description": "Zcash price fell more than 20% overnight",
+      "date": null
+    },
+    {
+      "type": "earnings_report",
+      "description": "fourth quarter earnings",
+      "date": "2024-01-28"
+    },
+    {
+      "type": "earnings_report",
+      "description": "fourth-quarter earnings",
+      "date": null
+    },
+    {
+      "type": "acquisition",
+      "description": "Authentic acquired 51% of substantially all of Guess?\u2019s intellectual property",
+      "date": null
+    },
+    {
+      "type": "earnings_report",
+      "description": "Q4 earnings beat expectations",
+      "date": null
+    }
+  ],
+  "sample_relationships": [
+    {
+      "entity1": "Alibaba",
+      "relationship": "plans_to",
+      "entity2": "IPO for T-Head"
+    },
+    {
+      "entity1": "T-Head",
+      "relationship": "competes_with",
+      "entity2": "Cambricon"
+    },
+    {
+      "entity1": "T-Head",
+      "relationship": "competes_with",
+      "entity2": "Huawei"
+    },
+    {
+      "entity1": "Alexi Technologies",
+      "relationship": "accuses",
+      "entity2": "Fastcase"
+    },
+    {
+      "entity1": "Fastcase",
+      "relationship": "merges_with",
+      "entity2": "Clio"
+    },
+    {
+      "entity1": "Rio Tinto",
+      "relationship": "in_merger_discussions_with",
+      "entity2": "Glencore"
+    },
+    {
+      "entity1": "Paramount",
+      "relationship": "competes_with",
+      "entity2": "Netflix"
+    },
+    {
+      "entity1": "Paramount",
+      "relationship": "competes_with",
+      "entity2": "Warner Bros."
+    },
+    {
+      "entity1": "Brian Robbins",
+      "relationship": "former_co-CEO_of",
+      "entity2": "Paramount"
+    },
+    {
+      "entity1": "Sony Pictures",
+      "relationship": "minority_investor_in",
+      "entity2": "new family production company"
+    },
+    {
+      "entity1": "CAA",
+      "relationship": "backer_of",
+      "entity2": "new family production company"
+    },
+    {
+      "entity1": "T-Mobile",
+      "relationship": "competes_with",
+      "entity2": "AT&T"
+    },
+    {
+      "entity1": "Micron Technology, Inc.",
+      "relationship": "acquires",
+      "entity2": "Powerchip Semiconductor Manufacturing Corporation"
+    },
+    {
+      "entity1": "Virgin Media O2",
+      "relationship": "acquires",
+      "entity2": "Netomnia"
+    },
+    {
+      "entity1": "Oracle",
+      "relationship": "partners_with",
+      "entity2": "OpenAI"
+    },
+    {
+      "entity1": "Glencore",
+      "relationship": "in_merger_talks_with",
+      "entity2": "Rio Tinto"
+    },
+    {
+      "entity1": "Kevin Warsh",
+      "relationship": "succeeds",
+      "entity2": "Jerome Powell"
+    },
+    {
+      "entity1": "Donald Trump",
+      "relationship": "nominates",
+      "entity2": "Kevin Warsh"
+    },
+    {
+      "entity1": "SpaceX",
+      "relationship": "acquires",
+      "entity2": "xAI"
+    },
+    {
+      "entity1": "SpaceX",
+      "relationship": "merges_with",
+      "entity2": "xAI"
+    },
+    {
+      "entity1": "Thom Tillis",
+      "relationship": "opposes",
+      "entity2": "Donald Trump's nominees to the Federal Reserve Board of Governors"
+    },
+    {
+      "entity1": "Donald Trump",
+      "relationship": "attempts_to_fire",
+      "entity2": "Lisa Cook"
+    },
+    {
+      "entity1": "Lisa Cook",
+      "relationship": "member_of",
+      "entity2": "Federal Reserve"
+    },
+    {
+      "entity1": "Ampol Limited",
+      "relationship": "proposes_acquisition_of",
+      "entity2": "EG Australia"
+    },
+    {
+      "entity1": "Australian Competition and Consumer Commission",
+      "relationship": "reviews",
+      "entity2": "Ampol Limited"
+    },
+    {
+      "entity1": "Nvidia",
+      "relationship": "invests_in",
+      "entity2": "CoreWeave"
+    },
+    {
+      "entity1": "Paramount",
+      "relationship": "seeks_to_acquire",
+      "entity2": "Warner Bros Discovery"
+    },
+    {
+      "entity1": "Paramount",
+      "relationship": "competes_with",
+      "entity2": "Netflix"
+    },
+    {
+      "entity1": "Paramount Skydance",
+      "relationship": "nominates_directors_to",
+      "entity2": "Warner Bros Discovery"
+    },
+    {
+      "entity1": "Taiwan Semiconductor Manufacturing Company",
+      "relationship": "stops_supply_to",
+      "entity2": "Nvidia"
+    },
+    {
+      "entity1": "Intel",
+      "relationship": "benefits_from",
+      "entity2": "Taiwan Semiconductor Manufacturing Company"
+    },
+    {
+      "entity1": "SpaceX",
+      "relationship": "potential_merger_with",
+      "entity2": "xAI"
+    },
+    {
+      "entity1": "Paramount",
+      "relationship": "bids_on",
+      "entity2": "Warner Bros. Discovery"
+    },
+    {
+      "entity1": "Paramount",
+      "relationship": "argues_against",
+      "entity2": "Netflix-WBD Merger"
+    },
+    {
+      "entity1": "Kevin Warsh",
+      "relationship": "nominated_by",
+      "entity2": "Donald Trump"
+    },
+    {
+      "entity1": "Kevin Warsh",
+      "relationship": "succeeds",
+      "entity2": "Jerome Powell"
+    },
+    {
+      "entity1": "SpaceX",
+      "relationship": "merges_with",
+      "entity2": "xAI"
+    },
+    {
+      "entity1": "SPINS",
+      "relationship": "acquires",
+      "entity2": "MikMak"
+    },
+    {
+      "entity1": "Authentic Brands Group",
+      "relationship": "acquired",
+      "entity2": "Guess?"
+    },
+    {
+      "entity1": "Donald Trump",
+      "relationship": "collaborates_with",
+      "entity2": "Larry Ellison"
+    },
+    {
+      "entity1": "Larry Ellison",
+      "relationship": "owns",
+      "entity2": "CBS"
+    },
+    {
+      "entity1": "Swansea Council",
+      "relationship": "initiates_action_against",
+      "entity2": "WRU"
+    },
+    {
+      "entity1": "Swansea Council",
+      "relationship": "initiates_action_against",
+      "entity2": "Y11"
+    },
+    {
+      "entity1": "Ospreys",
+      "relationship": "owned_by",
+      "entity2": "WRU"
+    },
+    {
+      "entity1": "Ospreys",
+      "relationship": "owned_by",
+      "entity2": "Y11"
+    },
+    {
+      "entity1": "Delta Air Lines",
+      "relationship": "competes_with",
+      "entity2": "American Airlines"
+    },
+    {
+      "entity1": "Delta Air Lines",
+      "relationship": "competes_with",
+      "entity2": "United Airlines"
+    },
+    {
+      "entity1": "Trump",
+      "relationship": "sues",
+      "entity2": "JPMorgan Chase"
+    },
+    {
+      "entity1": "Jamie Dimon",
+      "relationship": "CEO_of",
+      "entity2": "JPMorgan Chase"
+    },
+    {
+      "entity1": "Netflix",
+      "relationship": "acquires",
+      "entity2": "Warner Bros. Discovery"
+    }
+  ],
+  "cost": {
+    "total_tokens": 339226,
+    "total_cost_usd": 0.0754
+  }
+}

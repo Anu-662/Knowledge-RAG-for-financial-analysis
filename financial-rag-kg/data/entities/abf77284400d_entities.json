@@ -1,0 +1,38 @@
+{
+  "companies": [
+    {
+      "name": "Intuit",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Anthropic",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [],
+  "sectors": [
+    "Software"
+  ],
+  "events": [
+    {
+      "type": "product_release",
+      "description": "release of a new artificial intelligence tool",
+      "date": "2024-01-12"
+    }
+  ],
+  "metrics": [
+    {
+      "type": "stock_price_change",
+      "value": "16",
+      "unit": "percent"
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "abf77284400d",
+  "article_title": "'No Reasons To Own': Software Stocks Sink on Fear of New AI Tool",
+  "extraction_date": "2026-02-07T13:13:59.135049"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0a8e7db0b73c",
+  "title": "Statement from Federal Reserve Chair",
+  "url": "https://www.federalreserve.gov/newsevents/speech/powell20260111a.htm?mod=ANLink",
+  "source": "Federalreserve.gov",
+  "published_at": "2026-01-12T15:05:51Z",
+  "sector": "General",
+  "sentiment": {
+    "polarity": 0.0,
+    "label": "neutral"
+  },
+  "full_text": "Statement from Federal Reserve Chair. Good evening. On Friday, the Department of Justice served the Federal Reserve with grand jury subpoenas, threatening a criminal indictment related to my testi. Accessible Keys for Video [Space Bar] toggles play/pause; [Right/Left Arrows] seeks the video forwards and back (5 sec ); [Up/Down Arrows] increase/decrease volume; [M] toggles mute on/off; [F] \u2026 [+1952 chars]",
+  "chunks": [
+    "Statement from Federal Reserve Chair. Good evening. On Friday, the Department of Justice served the Federal Reserve with grand jury subpoenas, threatening a criminal indictment related to my testi. Accessible Keys for Video [Space Bar] toggles play/pause; [Right/Left Arrows] seeks the video forwards and back (5 sec ); [Up/Down Arrows] increase/decrease volume; [M] toggles mute on/off; [F] \u2026 [+1952 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.582997"
+}

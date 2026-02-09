@@ -1,0 +1,25 @@
+{
+  "companies": [
+    {
+      "name": "Bank of America Corporation",
+      "ticker": "BAC",
+      "role": "primary subject"
+    }
+  ],
+  "people": [
+    {
+      "name": "Jim Cramer",
+      "role": "commentator",
+      "company": ""
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "bf76b53ffb8e",
+  "article_title": "Bank of America (BAC)\u2019s Multiple is An Insult to Its CEO, Says Jim Cramer",
+  "extraction_date": "2026-02-07T13:16:05.311543"
+}

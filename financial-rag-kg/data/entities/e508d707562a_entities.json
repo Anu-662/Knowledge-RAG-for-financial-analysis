@@ -1,0 +1,32 @@
+{
+  "companies": [
+    {
+      "name": "Zillow",
+      "ticker": "",
+      "role": "data source"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "average_30_year_fixed_mortgage_rate",
+      "value": "5.90",
+      "unit": "percent",
+      "period": "January 20, 2026"
+    },
+    {
+      "type": "basis_points_change",
+      "value": "82",
+      "unit": "basis points",
+      "period": "compared to last January"
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "e508d707562a",
+  "article_title": "Mortgage and refinance interest rates today, January 20, 2026: Annual rates plummet",
+  "extraction_date": "2026-02-07T13:19:23.145506"
+}

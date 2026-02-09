@@ -1,0 +1,33 @@
+{
+  "companies": [
+    {
+      "name": "LPL Financial",
+      "ticker": "",
+      "role": "financial entity"
+    }
+  ],
+  "people": [
+    {
+      "name": "Adam Turnquist",
+      "role": "strategist",
+      "company": "LPL Financial"
+    }
+  ],
+  "sectors": [
+    "Energy"
+  ],
+  "events": [],
+  "metrics": [
+    {
+      "type": "rally_forecast",
+      "value": "20",
+      "unit": "percent"
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "dfb70912f99f",
+  "article_title": "A breakout in the red-hot energy sector is setting up another 20% rally, top technical strategist says",
+  "extraction_date": "2026-02-07T13:19:11.781005"
+}

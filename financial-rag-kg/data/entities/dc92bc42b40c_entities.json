@@ -1,0 +1,29 @@
+{
+  "companies": [
+    {
+      "name": "AES Andes",
+      "ticker": "",
+      "role": "subsidiary"
+    },
+    {
+      "name": "AES Corporation",
+      "ticker": "",
+      "role": "parent company"
+    }
+  ],
+  "people": [],
+  "sectors": [
+    "Energy"
+  ],
+  "events": [],
+  "metrics": [],
+  "locations": [
+    "Chile",
+    "Atacama Desert"
+  ],
+  "products": [],
+  "relationships": [],
+  "article_id": "dc92bc42b40c",
+  "article_title": "Astronomers triumph over telescope-threatening energy project in Chile",
+  "extraction_date": "2026-02-07T13:18:53.377350"
+}

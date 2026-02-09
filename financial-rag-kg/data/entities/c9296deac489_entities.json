@@ -1,0 +1,37 @@
+{
+  "companies": [
+    {
+      "name": "Stripe",
+      "ticker": "",
+      "role": "involved"
+    },
+    {
+      "name": "Sony",
+      "ticker": "",
+      "role": "involved"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [
+    {
+      "type": "regulatory_event",
+      "description": "GENIUS Act provided regulatory clarity for stablecoins",
+      "date": null
+    }
+  ],
+  "metrics": [
+    {
+      "type": "stablecoin_adoption",
+      "value": "1",
+      "unit": "percent",
+      "period": "2025"
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "c9296deac489",
+  "article_title": "It Turns Out Crypto\u2019s Stablecoin Adoption is Around 1% of Previous Estimates",
+  "extraction_date": "2026-02-07T13:16:49.954775"
+}

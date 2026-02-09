@@ -1,0 +1,23 @@
+{
+  "companies": [],
+  "people": [
+    {
+      "name": "Eric Adams",
+      "role": "Former Mayor",
+      "company": "New York City"
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [
+    "New York City"
+  ],
+  "products": [
+    "NYC Token"
+  ],
+  "relationships": [],
+  "article_id": "0c179aaacf0d",
+  "article_title": "Former NYC Mayor Eric Adams Accused of Crypto Pump and Dump With NYC Token",
+  "extraction_date": "2026-02-07T12:58:54.299379"
+}

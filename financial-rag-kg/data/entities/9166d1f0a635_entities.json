@@ -1,0 +1,43 @@
+{
+  "companies": [
+    {
+      "name": "Positron",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "QIA",
+      "ticker": "",
+      "role": "investor"
+    }
+  ],
+  "people": [],
+  "sectors": [
+    "Semiconductors"
+  ],
+  "events": [],
+  "metrics": [
+    {
+      "type": "funding",
+      "value": "230M",
+      "unit": "USD",
+      "period": "Series B"
+    },
+    {
+      "type": "total_funding",
+      "value": "300M+",
+      "unit": "USD",
+      "period": null
+    }
+  ],
+  "locations": [
+    "Reno"
+  ],
+  "products": [
+    "high-speed memory chips"
+  ],
+  "relationships": [],
+  "article_id": "9166d1f0a635",
+  "article_title": "Sources: Reno-based chip startup Positron raised a $230M Series B from the QIA and others to build high-speed memory chips, taking its total raised to $300M+ (Rebecca Bellan/TechCrunch)",
+  "extraction_date": "2026-02-07T13:12:02.433536"
+}

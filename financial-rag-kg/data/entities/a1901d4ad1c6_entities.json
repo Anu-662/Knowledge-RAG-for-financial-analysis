@@ -1,0 +1,25 @@
+{
+  "companies": [
+    {
+      "name": "Disney",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [
+    {
+      "name": "Bob Iger",
+      "role": "CEO",
+      "company": "Disney"
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "a1901d4ad1c6",
+  "article_title": "Disney's sluggish stock threatens to dent CEO Bob Iger's legacy",
+  "extraction_date": "2026-02-07T13:13:20.374255"
+}

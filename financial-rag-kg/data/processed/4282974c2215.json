@@ -1,0 +1,18 @@
+{
+  "id": "4282974c2215",
+  "title": "Minister claims 'sabotage' behind Chagos debate delay",
+  "url": "https://www.bbc.com/news/articles/czjgwllmy99o",
+  "source": "BBC News",
+  "published_at": "2026-01-26T18:58:11Z",
+  "sector": "General",
+  "sentiment": {
+    "polarity": 0.0,
+    "label": "neutral"
+  },
+  "full_text": "Minister claims 'sabotage' behind Chagos debate delay. The Conservatives have raised further concerns after Donald Trump described the agreement as a \"great act of stupidity\".. Richard WheelerPolitical reporter The UK government said it \"remains confident\" a deal to give the Chagos Islands to Mauritius is the \"best way forward\", despite criticism from US President Donald T\u2026 [+4235 chars]",
+  "chunks": [
+    "Minister claims 'sabotage' behind Chagos debate delay. The Conservatives have raised further concerns after Donald Trump described the agreement as a \"great act of stupidity\".. Richard WheelerPolitical reporter The UK government said it \"remains confident\" a deal to give the Chagos Islands to Mauritius is the \"best way forward\", despite criticism from US President Donald T\u2026 [+4235 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.586355"
+}

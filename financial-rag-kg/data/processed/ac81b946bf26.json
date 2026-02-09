@@ -1,0 +1,18 @@
+{
+  "id": "ac81b946bf26",
+  "title": "Stock market today: Dow, S&P 500, Nasdaq sell-off builds as tech rout continues, bitcoin plunges",
+  "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-sell-off-builds-as-tech-rout-continues-bitcoin-plunges-210019775.html",
+  "source": "Yahoo Entertainment",
+  "published_at": "2026-02-05T21:05:50Z",
+  "sector": "Technology",
+  "sentiment": {
+    "polarity": 0.0,
+    "label": "neutral"
+  },
+  "full_text": "Stock market today: Dow, S&P 500, Nasdaq sell-off builds as tech rout continues, bitcoin plunges. Wall Street is looking to Amazon with high hopes after a rough week in tech, as silver plunges again and bitcoin drops near $65,000.. The performance of Amazon's (AMZN) cloud business, AWS, will be keenly examined when its earnings report lands later, after Microsoft (MSFT) stock plunged last week, in part due to a slowdown in clou\u2026 [+1469 chars]",
+  "chunks": [
+    "Stock market today: Dow, S&P 500, Nasdaq sell-off builds as tech rout continues, bitcoin plunges. Wall Street is looking to Amazon with high hopes after a rough week in tech, as silver plunges again and bitcoin drops near $65,000.. The performance of Amazon's (AMZN) cloud business, AWS, will be keenly examined when its earnings report lands later, after Microsoft (MSFT) stock plunged last week, in part due to a slowdown in clou\u2026 [+1469 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.579775"
+}

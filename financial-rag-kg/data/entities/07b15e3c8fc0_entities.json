@@ -1,0 +1,29 @@
+{
+  "companies": [
+    {
+      "name": "Central Electricity Regulatory Commission",
+      "ticker": "",
+      "role": "regulator"
+    }
+  ],
+  "people": [],
+  "sectors": [
+    "Power",
+    "Renewable Energy"
+  ],
+  "events": [],
+  "metrics": [
+    {
+      "type": "renewable_capacity",
+      "value": "31.8",
+      "unit": "gigawatts",
+      "period": null
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "07b15e3c8fc0",
+  "article_title": "Power sector regulator CERC\u2019s proposal to revamp transmission connectivity faces pushback from renewable energy industry",
+  "extraction_date": "2026-02-07T12:57:42.447751"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "26d14ac412ac",
+  "title": "Cyberattack on Poland's power grid could have turned deadly in winter cold",
+  "url": "https://www.theregister.com/2026/01/29/cyberattack_poland_power_grid/",
+  "source": "Theregister.com",
+  "published_at": "2026-01-29T12:10:12Z",
+  "sector": "Energy",
+  "sentiment": {
+    "polarity": 0.0,
+    "label": "neutral"
+  },
+  "full_text": "Cyberattack on Poland's power grid could have turned deadly in winter cold. Close call after an apparently deliberate attempt to starve a country of energy at the worst time Cybersecurity experts involved in the cleanup of the cyberattacks on Poland's power network say the consequences could have been lethal.\u2026<!--#include virtual='/d\u2026. Cybersecurity experts involved in the cleanup of the cyberattacks on Poland's power network say the consequences could have been lethal. In a report published this week, Dragos said it is working wi\u2026 [+3343 chars]",
+  "chunks": [
+    "Cyberattack on Poland's power grid could have turned deadly in winter cold. Close call after an apparently deliberate attempt to starve a country of energy at the worst time Cybersecurity experts involved in the cleanup of the cyberattacks on Poland's power network say the consequences could have been lethal.\u2026<!--#include virtual='/d\u2026. Cybersecurity experts involved in the cleanup of the cyberattacks on Poland's power network say the consequences could have been lethal. In a report published this week, Dragos said it is working wi\u2026 [+3343 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.602214"
+}

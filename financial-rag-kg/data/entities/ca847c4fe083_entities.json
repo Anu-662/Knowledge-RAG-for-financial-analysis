@@ -1,0 +1,28 @@
+{
+  "companies": [],
+  "people": [],
+  "sectors": [
+    "Energy",
+    "Green Technology"
+  ],
+  "events": [],
+  "metrics": [
+    {
+      "type": "funding",
+      "value": "15",
+      "unit": "billion GBP",
+      "period": null
+    }
+  ],
+  "locations": [
+    "UK"
+  ],
+  "products": [
+    "solar panels",
+    "green tech"
+  ],
+  "relationships": [],
+  "article_id": "ca847c4fe083",
+  "article_title": "UK households to get \u00a315bn for solar and green tech to lower energy bills",
+  "extraction_date": "2026-02-07T13:17:22.103266"
+}

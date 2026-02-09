@@ -1,0 +1,31 @@
+{
+  "companies": [
+    {
+      "name": "Citi",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [
+    {
+      "name": "Mark Mason",
+      "role": "CFO",
+      "company": "Citi"
+    }
+  ],
+  "sectors": [],
+  "events": [
+    {
+      "type": "earnings_report",
+      "description": "fourth-quarter earnings",
+      "date": null
+    }
+  ],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "6ad818f37e29",
+  "article_title": "Citi CFO says a credit card cap would have a 'deleterious' impact on the economy",
+  "extraction_date": "2026-02-07T13:05:55.026752"
+}

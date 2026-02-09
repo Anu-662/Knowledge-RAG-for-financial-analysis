@@ -1,0 +1,18 @@
+{
+  "id": "7f01ca6bd870",
+  "title": "Why a new AI tool hammered some software stocks this week",
+  "url": "https://abcnews.go.com/Business/new-ai-tool-hammered-software-stocks-week/story?id=129845251",
+  "source": "ABC News",
+  "published_at": "2026-02-05T22:04:51Z",
+  "sector": "Technology",
+  "sentiment": {
+    "polarity": 0.0,
+    "label": "neutral"
+  },
+  "full_text": "Why a new AI tool hammered some software stocks this week. The new tool adapts a workplace assistant for white-collar specific industries.. Shares of some software companies worldwide plummeted in recent days after Anthropic unveiled an artificial intelligence tool viewed by some investors as a potential replacement for widely-used enter\u2026 [+4163 chars]",
+  "chunks": [
+    "Why a new AI tool hammered some software stocks this week. The new tool adapts a workplace assistant for white-collar specific industries.. Shares of some software companies worldwide plummeted in recent days after Anthropic unveiled an artificial intelligence tool viewed by some investors as a potential replacement for widely-used enter\u2026 [+4163 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.597568"
+}

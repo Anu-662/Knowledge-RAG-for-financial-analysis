@@ -1,0 +1,31 @@
+{
+  "companies": [
+    {
+      "name": "Federal Reserve",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [
+    {
+      "name": "Jerome Powell",
+      "role": "Chair",
+      "company": "Federal Reserve"
+    }
+  ],
+  "sectors": [],
+  "events": [
+    {
+      "type": "Senate hearing",
+      "description": "heated exchange over the Fed's renovation plans",
+      "date": "June"
+    }
+  ],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "14f8c25e3970",
+  "article_title": "The controversy behind Jerome Powell's Senate testimony, from the VIP dining room to the special elevators",
+  "extraction_date": "2026-02-07T12:59:50.632090"
+}

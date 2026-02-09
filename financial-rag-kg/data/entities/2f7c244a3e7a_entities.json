@@ -1,0 +1,32 @@
+{
+  "companies": [
+    {
+      "name": "Apple Inc.",
+      "ticker": "AAPL",
+      "role": "primary subject"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "patent_grants",
+      "value": 2722,
+      "unit": "count",
+      "period": "2025"
+    },
+    {
+      "type": "patent_grants_change",
+      "value": 11,
+      "unit": "percent",
+      "period": "2025"
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "2f7c244a3e7a",
+  "article_title": "Apple drops to 7th in U.S. patent rankings for 2025 as grants fall 11%, per report",
+  "extraction_date": "2026-02-07T13:01:38.369108"
+}

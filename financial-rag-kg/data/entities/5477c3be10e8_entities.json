@@ -1,0 +1,27 @@
+{
+  "companies": [
+    {
+      "name": "Arm Holdings",
+      "ticker": "ARM",
+      "role": "primary subject"
+    }
+  ],
+  "people": [],
+  "sectors": [
+    "Technology"
+  ],
+  "events": [
+    {
+      "type": "earnings_report",
+      "description": "Q3 results",
+      "date": "2024-02-04"
+    }
+  ],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "5477c3be10e8",
+  "article_title": "This AI Chip Stock Could Power the Next Decade. Is It a Buy Ahead of Its Next Earnings Report?",
+  "extraction_date": "2026-02-07T13:04:17.008085"
+}

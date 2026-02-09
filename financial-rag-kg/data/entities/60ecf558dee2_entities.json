@@ -1,0 +1,46 @@
+{
+  "companies": [
+    {
+      "name": "Paramount",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Netflix",
+      "ticker": "",
+      "role": "related"
+    },
+    {
+      "name": "Warner Bros. Discovery",
+      "ticker": "",
+      "role": "related"
+    }
+  ],
+  "people": [
+    {
+      "name": "David Ellison",
+      "role": "leader",
+      "company": "Paramount"
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [
+    {
+      "entity1": "Paramount",
+      "relationship": "bids_on",
+      "entity2": "Warner Bros. Discovery"
+    },
+    {
+      "entity1": "Paramount",
+      "relationship": "argues_against",
+      "entity2": "Netflix-WBD Merger"
+    }
+  ],
+  "article_id": "60ecf558dee2",
+  "article_title": "Paramount Tells Lawmakers That Netflix-WBD Merger Is \u201cPresumptively Unlawful\u201d",
+  "extraction_date": "2026-02-07T13:05:06.809024"
+}

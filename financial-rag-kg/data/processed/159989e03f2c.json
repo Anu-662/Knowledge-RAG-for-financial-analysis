@@ -1,0 +1,18 @@
+{
+  "id": "159989e03f2c",
+  "title": "'A completely new manufacturing frontier': Space Forge fires up 1st commercial semiconductor factory in space",
+  "url": "https://www.space.com/space-exploration/a-completely-new-manufacturing-frontier-space-forge-fires-up-1st-commercial-semiconductor-factory-in-space",
+  "source": "Space.com",
+  "published_at": "2026-01-11T15:00:00Z",
+  "sector": "Technology",
+  "sentiment": {
+    "polarity": 0.0,
+    "label": "neutral"
+  },
+  "full_text": "'A completely new manufacturing frontier': Space Forge fires up 1st commercial semiconductor factory in space. Such experiments have previously only been conducted aboard the International Space Station.. In-orbit manufacturing start-up Space Forge has produced its first plasma in orbit aboard the ForgeStar-1 satellite. It's a world first and a major step toward the company's vision of making novel se\u2026 [+3019 chars]",
+  "chunks": [
+    "'A completely new manufacturing frontier': Space Forge fires up 1st commercial semiconductor factory in space. Such experiments have previously only been conducted aboard the International Space Station.. In-orbit manufacturing start-up Space Forge has produced its first plasma in orbit aboard the ForgeStar-1 satellite. It's a world first and a major step toward the company's vision of making novel se\u2026 [+3019 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.600022"
+}

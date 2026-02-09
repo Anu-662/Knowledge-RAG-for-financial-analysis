@@ -1,0 +1,30 @@
+{
+  "companies": [],
+  "people": [
+    {
+      "name": "Xi Jinping",
+      "role": "leader",
+      "company": ""
+    }
+  ],
+  "sectors": [
+    "Hedge Funds"
+  ],
+  "events": [],
+  "metrics": [
+    {
+      "type": "average_return",
+      "value": "18",
+      "unit": "percent",
+      "period": "2025"
+    }
+  ],
+  "locations": [
+    "China"
+  ],
+  "products": [],
+  "relationships": [],
+  "article_id": "f61d8cde3ca4",
+  "article_title": "China-focused hedge funds surged in 2025. Here's who won big.",
+  "extraction_date": "2026-02-07T13:20:05.286756"
+}

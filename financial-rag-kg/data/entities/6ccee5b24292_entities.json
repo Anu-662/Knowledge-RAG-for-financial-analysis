@@ -1,0 +1,35 @@
+{
+  "companies": [
+    {
+      "name": "Oracle",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [
+    {
+      "name": "Larry Ellison",
+      "role": "cofounder",
+      "company": "Oracle"
+    }
+  ],
+  "sectors": [
+    "Software"
+  ],
+  "metrics": [
+    {
+      "type": "net_worth",
+      "value": "200B",
+      "unit": "USD"
+    },
+    {
+      "type": "loss",
+      "value": "49B",
+      "unit": "USD"
+    }
+  ],
+  "relationships": [],
+  "article_id": "6ccee5b24292",
+  "article_title": "Oracle's Larry Ellison is down an unmatched $49 billion this year after the plunge in software stocks",
+  "extraction_date": "2026-02-07T13:06:07.748707"
+}

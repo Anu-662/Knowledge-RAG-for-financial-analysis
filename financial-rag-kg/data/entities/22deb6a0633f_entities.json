@@ -1,0 +1,25 @@
+{
+  "companies": [],
+  "people": [
+    {
+      "name": "Jerome Powell",
+      "role": "Fed Chair",
+      "company": "Federal Reserve"
+    }
+  ],
+  "sectors": [],
+  "events": [
+    {
+      "type": "grand_jury_subpoena",
+      "description": "Central bank received grand jury subpoenas from the Justice Department",
+      "date": null
+    }
+  ],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "22deb6a0633f",
+  "article_title": "Here's what smart people in economics and business are saying about the DOJ's Fed probe",
+  "extraction_date": "2026-02-07T13:00:38.890547"
+}

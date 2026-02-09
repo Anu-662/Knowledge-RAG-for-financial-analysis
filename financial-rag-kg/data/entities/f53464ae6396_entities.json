@@ -1,0 +1,24 @@
+{
+  "companies": [],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "inflation_rate_year_over_year",
+      "value": "2.8",
+      "unit": "percent"
+    },
+    {
+      "type": "inflation_rate_month_over_month",
+      "value": "0.2",
+      "unit": "percent"
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "f53464ae6396",
+  "article_title": "Inflation rises as expected in November: PCE data",
+  "extraction_date": "2026-02-07T13:20:03.734125"
+}

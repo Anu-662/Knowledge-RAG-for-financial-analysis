@@ -1,0 +1,35 @@
+{
+  "companies": [
+    {
+      "name": "CBS",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [
+    {
+      "name": "Stephen Colbert",
+      "role": "host",
+      "company": "CBS"
+    },
+    {
+      "name": "Seth Meyers",
+      "role": "host",
+      "company": "NBC"
+    }
+  ],
+  "events": [
+    {
+      "type": "show_ending",
+      "description": "The Late Show ending",
+      "date": "2024-05-21"
+    }
+  ],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "97d376a690eb",
+  "article_title": "Stephen Colbert On \u2018Late Show\u2019 Ending In Four Months: \u201cIt Feels Real Now. I\u2019m Not Thrilled With It\u201d",
+  "extraction_date": "2026-02-07T13:12:32.766198"
+}

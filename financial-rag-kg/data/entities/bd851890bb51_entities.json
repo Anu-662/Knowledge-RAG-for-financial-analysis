@@ -1,0 +1,31 @@
+{
+  "companies": [],
+  "people": [
+    {
+      "name": "MrBeast",
+      "role": "YouTuber",
+      "company": ""
+    },
+    {
+      "name": "Jimmy Donaldson",
+      "role": "real name",
+      "company": ""
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "net_worth",
+      "value": "negative",
+      "unit": "money",
+      "period": null
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "bd851890bb51",
+  "article_title": "YouTube billionaire MrBeast says he's actually cash poor: 'I have negative money'",
+  "extraction_date": "2026-02-07T13:15:50.899037"
+}

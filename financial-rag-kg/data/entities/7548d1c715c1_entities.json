@@ -1,0 +1,29 @@
+{
+  "companies": [
+    {
+      "name": "LATAM Airlines Group S.A.",
+      "ticker": "LTM",
+      "role": "primary subject"
+    },
+    {
+      "name": "Kohl's Corporation",
+      "ticker": "KSS",
+      "role": "primary subject"
+    },
+    {
+      "name": "Dollar General Corporation",
+      "ticker": "DG",
+      "role": "primary subject"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "7548d1c715c1",
+  "article_title": "Best Value Stocks to Buy for Jan.12",
+  "extraction_date": "2026-02-07T13:10:09.539366"
+}

@@ -1,0 +1,47 @@
+{
+  "companies": [
+    {
+      "name": "Delta Air Lines",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Boeing",
+      "ticker": "",
+      "role": "supplier"
+    },
+    {
+      "name": "American Airlines",
+      "ticker": "",
+      "role": "competitor"
+    },
+    {
+      "name": "United Airlines",
+      "ticker": "",
+      "role": "competitor"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [
+    "Boeing 787 Dreamliner"
+  ],
+  "relationships": [
+    {
+      "entity1": "Delta Air Lines",
+      "relationship": "competes_with",
+      "entity2": "American Airlines"
+    },
+    {
+      "entity1": "Delta Air Lines",
+      "relationship": "competes_with",
+      "entity2": "United Airlines"
+    }
+  ],
+  "article_id": "7997cd5348b6",
+  "article_title": "Delta is buying Boeing 787s for the first time. Here's why United and American may feel the pressure.",
+  "extraction_date": "2026-02-07T13:10:42.224917"
+}

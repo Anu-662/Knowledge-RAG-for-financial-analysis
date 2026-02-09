@@ -1,0 +1,34 @@
+{
+  "companies": [
+    {
+      "name": "Meta Platforms",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [],
+  "sectors": [
+    "Technology"
+  ],
+  "events": [
+    {
+      "type": "earnings_report",
+      "description": "Q4 earnings report",
+      "date": null
+    }
+  ],
+  "metrics": [
+    {
+      "type": "capex",
+      "value": null,
+      "unit": null,
+      "period": "coming year"
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "3650a7d76029",
+  "article_title": "Meta earnings updates: Wall Street is focused on AI capex heading into Q4 results",
+  "extraction_date": "2026-02-07T13:02:05.448330"
+}

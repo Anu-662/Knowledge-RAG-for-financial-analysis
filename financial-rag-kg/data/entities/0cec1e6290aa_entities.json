@@ -1,0 +1,23 @@
+{
+  "companies": [
+    {
+      "name": "Anthropic",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [],
+  "sectors": [
+    "Software"
+  ],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [
+    "AI legal tool"
+  ],
+  "relationships": [],
+  "article_id": "0cec1e6290aa",
+  "article_title": "Wall Street Apparently Believes the Future Involves Making Your Software Instead of Buying It",
+  "extraction_date": "2026-02-07T12:58:58.010971"
+}

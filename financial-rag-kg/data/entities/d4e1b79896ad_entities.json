@@ -1,0 +1,29 @@
+{
+  "companies": [],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "credit_card_debt",
+      "value": "30000",
+      "unit": "USD"
+    },
+    {
+      "type": "mortgage_debt",
+      "value": "69000",
+      "unit": "USD"
+    },
+    {
+      "type": "credit_score",
+      "value": "715",
+      "unit": null
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "d4e1b79896ad",
+  "article_title": "I Have $30,000 in Credit Card Debt and $69,000 Left on My Mortgage. Is a Home Equity Loan a Mistake?",
+  "extraction_date": "2026-02-07T13:18:26.023348"
+}

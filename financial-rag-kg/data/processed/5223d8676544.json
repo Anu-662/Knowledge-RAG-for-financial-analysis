@@ -1,0 +1,18 @@
+{
+  "id": "5223d8676544",
+  "title": "149M logins exposed in unsecured database, inc 900k Apple accounts",
+  "url": "https://9to5mac.com/2026/01/26/149m-logins-exposed-in-unsecured-database-inc-900k-apple-accounts/",
+  "source": "9to5Mac",
+  "published_at": "2026-01-26T13:31:41Z",
+  "sector": "Technology",
+  "sentiment": {
+    "polarity": 0.0,
+    "label": "neutral"
+  },
+  "full_text": "149M logins exposed in unsecured database, inc 900k Apple accounts. A database containing 149 million account logins has been found sitting unsecured on a cloud service. The records include 900,000 usernames and passwords for Apple accounts. It was discovered by the same security researcher who found a similar database of \u2026. A database containing 149 million account logins has been found sitting unsecured on a cloud service. The records include 900,000 usernames and passwords for Apple accounts. It was discovered by the\u2026 [+2022 chars]",
+  "chunks": [
+    "149M logins exposed in unsecured database, inc 900k Apple accounts. A database containing 149 million account logins has been found sitting unsecured on a cloud service. The records include 900,000 usernames and passwords for Apple accounts. It was discovered by the same security researcher who found a similar database of \u2026. A database containing 149 million account logins has been found sitting unsecured on a cloud service. The records include 900,000 usernames and passwords for Apple accounts. It was discovered by the\u2026 [+2022 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.595293"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "b5add1e4a51b",
+  "title": "Student loan system 'fair and reasonable', says Reeves",
+  "url": "https://www.bbc.com/news/articles/ce3k4xdqyp1o",
+  "source": "BBC News",
+  "published_at": "2026-01-31T11:12:38Z",
+  "sector": "General",
+  "sentiment": {
+    "polarity": 0.0,
+    "label": "neutral"
+  },
+  "full_text": "Student loan system 'fair and reasonable', says Reeves. The chancellor's defence comes after Martin Lewis called her freeze on student loans \"not a moral thing\".. But Lewis said there was growing anger, particularly among those in England and Wales with Plan 2 loans, because recent higher inflation has resulted in increased interest rates being applied to the \u2026 [+5 chars]",
+  "chunks": [
+    "Student loan system 'fair and reasonable', says Reeves. The chancellor's defence comes after Martin Lewis called her freeze on student loans \"not a moral thing\".. But Lewis said there was growing anger, particularly among those in England and Wales with Plan 2 loans, because recent higher inflation has resulted in increased interest rates being applied to the \u2026 [+5 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.585224"
+}

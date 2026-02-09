@@ -1,0 +1,18 @@
+{
+  "id": "fb46a0fe1446",
+  "title": "Microsoft's early bet on OpenAI is weighing heavily on Azure, causing 45% of its backlog \u2014 but it's finally starting to pay off",
+  "url": "https://www.windowscentral.com/artificial-intelligence/openai-chatgpt/microsoft-early-bet-on-openai-is-finally-paying-off",
+  "source": "Windows Central",
+  "published_at": "2026-01-29T12:55:59Z",
+  "sector": "Technology",
+  "sentiment": {
+    "polarity": 0.0,
+    "label": "neutral"
+  },
+  "full_text": "Microsoft's early bet on OpenAI is weighing heavily on Azure, causing 45% of its backlog \u2014 but it's finally starting to pay off. Microsoft's financial earnings report reveals that OpenAI accounts for 45% of its Azure cloud computing backlog, yet Microsoft's net income jumped by $7.6 billion, primarily due to its investment in OpenAI.. \u201cWe are pushing the frontier across our entire AI stack to drive new value for our customers and partners,\" indicated Microsoft CEO Satya Nadella while reporting on the company's financial results fo\u2026 [+2964 chars]",
+  "chunks": [
+    "Microsoft's early bet on OpenAI is weighing heavily on Azure, causing 45% of its backlog \u2014 but it's finally starting to pay off. Microsoft's financial earnings report reveals that OpenAI accounts for 45% of its Azure cloud computing backlog, yet Microsoft's net income jumped by $7.6 billion, primarily due to its investment in OpenAI.. \u201cWe are pushing the frontier across our entire AI stack to drive new value for our customers and partners,\" indicated Microsoft CEO Satya Nadella while reporting on the company's financial results fo\u2026 [+2964 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.582136"
+}

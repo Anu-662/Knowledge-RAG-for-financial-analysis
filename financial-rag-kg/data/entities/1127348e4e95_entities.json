@@ -1,0 +1,39 @@
+{
+  "companies": [
+    {
+      "name": "Rio Tinto",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Glencore",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [],
+  "sectors": [
+    "Mining"
+  ],
+  "events": [],
+  "metrics": [
+    {
+      "type": "market_capitalisation",
+      "value": "207",
+      "unit": "billion USD",
+      "period": null
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [
+    {
+      "entity1": "Rio Tinto",
+      "relationship": "in_merger_discussions_with",
+      "entity2": "Glencore"
+    }
+  ],
+  "article_id": "1127348e4e95",
+  "article_title": "Rio Tinto, Glencore announce preliminary merger talks to create mining giant",
+  "extraction_date": "2026-02-07T12:59:33.086489"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "c29f6e87a257",
+  "title": "The Taiwanese president's proposal to hike defense spending faces gridlock at home",
+  "url": "https://www.npr.org/2026/01/22/nx-s1-5683130/taiwan-defense-spending",
+  "source": "NPR",
+  "published_at": "2026-01-22T16:54:24Z",
+  "sector": "General",
+  "sentiment": {
+    "polarity": 0.0,
+    "label": "neutral"
+  },
+  "full_text": "The Taiwanese president's proposal to hike defense spending faces gridlock at home. Opposition parties are slamming the brakes on billions in defense funding as the China escalates military pressure.. TAIPEI, Taiwan Taiwan's President Lai Ching-te has spent his first year in office warning that time is running out to prepare for a possible conflict with China. In the past two months alone, he has \u2026 [+6217 chars]",
+  "chunks": [
+    "The Taiwanese president's proposal to hike defense spending faces gridlock at home. Opposition parties are slamming the brakes on billions in defense funding as the China escalates military pressure.. TAIPEI, Taiwan Taiwan's President Lai Ching-te has spent his first year in office warning that time is running out to prepare for a possible conflict with China. In the past two months alone, he has \u2026 [+6217 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.600461"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "b501646ee79f",
+  "title": "Elon Musk Is Convinced He Can Turn Low-Earth Orbit Into a Gigantic Data Center",
+  "url": "https://gizmodo.com/elon-musk-is-convinced-he-can-turn-low-earth-orbit-into-a-gigantic-data-center-2000716711",
+  "source": "Gizmodo.com",
+  "published_at": "2026-02-02T17:45:29Z",
+  "sector": "Technology",
+  "sentiment": {
+    "polarity": 0.0,
+    "label": "neutral"
+  },
+  "full_text": "Elon Musk Is Convinced He Can Turn Low-Earth Orbit Into a Gigantic Data Center. In a newly filed FCC application, Musk\u2019s SpaceX outlines plans to launch a data center constellation of up to 1 million satellites.. Orbital data centers are the latest big tech craze, promising to provide near-limitless power and capacity to support the AI boom without draining Earths resources. The industrys biggest players are \u2026 [+4619 chars]",
+  "chunks": [
+    "Elon Musk Is Convinced He Can Turn Low-Earth Orbit Into a Gigantic Data Center. In a newly filed FCC application, Musk\u2019s SpaceX outlines plans to launch a data center constellation of up to 1 million satellites.. Orbital data centers are the latest big tech craze, promising to provide near-limitless power and capacity to support the AI boom without draining Earths resources. The industrys biggest players are \u2026 [+4619 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.592767"
+}

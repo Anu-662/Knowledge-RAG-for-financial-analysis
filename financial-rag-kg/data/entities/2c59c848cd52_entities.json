@@ -1,0 +1,37 @@
+{
+  "companies": [
+    {
+      "name": "Nvidia",
+      "ticker": "",
+      "role": "subject"
+    },
+    {
+      "name": "Palantir",
+      "ticker": "",
+      "role": "subject"
+    }
+  ],
+  "people": [
+    {
+      "name": "Michael Burry",
+      "role": "investor",
+      "company": "The Big Short"
+    },
+    {
+      "name": "Warren Buffett",
+      "role": "investor",
+      "company": ""
+    }
+  ],
+  "sectors": [
+    "Technology"
+  ],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "2c59c848cd52",
+  "article_title": "'Big Short' investor Michael Burry says the AI boom will end badly. He shared an old Warren Buffett story to explain why.",
+  "extraction_date": "2026-02-07T13:01:26.743473"
+}

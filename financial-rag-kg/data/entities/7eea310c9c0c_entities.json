@@ -1,0 +1,25 @@
+{
+  "companies": [
+    {
+      "name": "Amazon",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [
+    {
+      "name": "CEO",
+      "role": "CEO",
+      "company": "Amazon"
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "7eea310c9c0c",
+  "article_title": "Amazon CEO warns shoppers of major changes ahead",
+  "extraction_date": "2026-02-07T13:11:03.293245"
+}

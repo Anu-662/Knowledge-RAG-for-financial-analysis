@@ -1,0 +1,50 @@
+{
+  "companies": [
+    {
+      "name": "Apple Inc.",
+      "ticker": "AAPL",
+      "role": "primary subject"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [
+    {
+      "type": "earnings_report",
+      "description": "Q1 2026 earnings",
+      "date": null
+    }
+  ],
+  "metrics": [
+    {
+      "type": "revenue",
+      "value": "143.7B",
+      "unit": "USD",
+      "period": "Q1 2026"
+    },
+    {
+      "type": "net_profit",
+      "value": "42.09",
+      "unit": "USD",
+      "period": "Q1 2026"
+    },
+    {
+      "type": "earnings_per_share",
+      "value": "2.84",
+      "unit": "USD",
+      "period": "Q1 2026"
+    },
+    {
+      "type": "revenue_growth",
+      "value": "16",
+      "unit": "percent",
+      "period": "Q1 2026"
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "8fdf5ed645cd",
+  "article_title": "Apple reports record-breaking Q1 2026 earnings: $143.7\u00a0billion in revenue, up 16%",
+  "extraction_date": "2026-02-07T13:11:50.438602"
+}

@@ -1,0 +1,45 @@
+{
+  "companies": [
+    {
+      "name": "Bayer",
+      "ticker": "BAYRY",
+      "role": "added to Zacks Rank #1 (Strong Buy) List"
+    },
+    {
+      "name": "Daktronics",
+      "ticker": "DAKT",
+      "role": "added to Zacks Rank #1 (Strong Buy) List"
+    },
+    {
+      "name": "ZTO Express",
+      "ticker": "ZTO",
+      "role": "added to Zacks Rank #1 (Strong Buy) List"
+    },
+    {
+      "name": "Lloyds Banking Group",
+      "ticker": "LRLCY",
+      "role": "added to Zacks Rank #1 (Strong Buy) List"
+    },
+    {
+      "name": "Avaya",
+      "ticker": "AVAH",
+      "role": "added to Zacks Rank #1 (Strong Buy) List"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [
+    {
+      "type": "stock_addition",
+      "description": "Added to Zacks Rank #1 (Strong Buy) List",
+      "date": "2026-01-21"
+    }
+  ],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "610b87da2cdb",
+  "article_title": "New Strong Buy Stocks for January 21st",
+  "extraction_date": "2026-02-07T13:05:10.837724"
+}

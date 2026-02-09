@@ -1,0 +1,29 @@
+{
+  "companies": [],
+  "people": [
+    {
+      "name": "Donald Trump",
+      "role": "candidate",
+      "company": ""
+    }
+  ],
+  "sectors": [],
+  "events": [
+    {
+      "type": "presidential_run",
+      "description": "2024 U.S. presidential run",
+      "date": null
+    }
+  ],
+  "metrics": [],
+  "locations": [
+    "Arizona",
+    "New Hampshire",
+    "Texas"
+  ],
+  "products": [],
+  "relationships": [],
+  "article_id": "c373f0dde36f",
+  "article_title": "Trump\u2019s National Bitcoin Reserve Is Still in the Works. Some States Have Already Taken Action on Theirs",
+  "extraction_date": "2026-02-07T13:16:27.530742"
+}

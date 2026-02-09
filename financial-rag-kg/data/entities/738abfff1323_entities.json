@@ -1,0 +1,47 @@
+{
+  "companies": [
+    {
+      "name": "JPMorgan Chase",
+      "ticker": "",
+      "role": "major bank"
+    },
+    {
+      "name": "Citi",
+      "ticker": "",
+      "role": "major bank"
+    },
+    {
+      "name": "Klarna",
+      "ticker": "",
+      "role": "supporter"
+    },
+    {
+      "name": "SoFi",
+      "ticker": "",
+      "role": "mentioned"
+    }
+  ],
+  "people": [
+    {
+      "name": "Donald Trump",
+      "role": "proposer",
+      "company": ""
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "credit_card_cap",
+      "value": "10",
+      "unit": "percent",
+      "period": null
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "738abfff1323",
+  "article_title": "How business leaders are responding to Trump's plan to cap credit card interest rates, from JPMorgan to SoFi",
+  "extraction_date": "2026-02-07T13:09:05.681650"
+}

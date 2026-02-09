@@ -1,0 +1,24 @@
+{
+  "companies": [
+    {
+      "name": "Moltbook",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Octane",
+      "ticker": "",
+      "role": "creator"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "0ec6d10a7e5c",
+  "article_title": "AI agents got their own Reddit, and now they're asking who's really in charge",
+  "extraction_date": "2026-02-07T12:59:26.905506"
+}

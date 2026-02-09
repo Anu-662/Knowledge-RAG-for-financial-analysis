@@ -1,0 +1,38 @@
+{
+  "companies": [
+    {
+      "name": "Hewlett-Packard Enterprise Company",
+      "ticker": "HPE",
+      "role": "primary subject"
+    },
+    {
+      "name": "Goldman Sachs",
+      "ticker": "",
+      "role": "analyst"
+    }
+  ],
+  "people": [
+    {
+      "name": "Katherine Murphy",
+      "role": "analyst",
+      "company": "Goldman Sachs"
+    }
+  ],
+  "sectors": [
+    "Technology"
+  ],
+  "events": [
+    {
+      "type": "coverage_assumption",
+      "description": "Coverage assumed on the stock to Buy from Neutral",
+      "date": "2024-01-13"
+    }
+  ],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "7a3f7334b47e",
+  "article_title": "HPE Labeled a \u2018Show-Me Story\u2019 for 2026 as Strategy Evolves",
+  "extraction_date": "2026-02-07T13:10:48.636602"
+}

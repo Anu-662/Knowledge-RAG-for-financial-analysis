@@ -1,0 +1,18 @@
+{
+  "id": "f84503a1cb2e",
+  "title": "The US ended 2025 with steady but elevated inflation in December",
+  "url": "https://www.businessinsider.com/inflation-december-cpi-consumer-price-index-federal-reserve-interest-rates-2026-1",
+  "source": "Business Insider",
+  "published_at": "2026-01-13T13:33:48Z",
+  "sector": "Consumer",
+  "sentiment": {
+    "polarity": 0.0,
+    "label": "neutral"
+  },
+  "full_text": "The US ended 2025 with steady but elevated inflation in December. The consumer price index increased 2.7% in December as expected, matching the year-over-year increase in November.. The Bureau of Labor Statistics published the December consumer price index data.Myung J. Chun/Los Angeles Times via Getty Images <ul><li>The inflation rate remained at 2.7% in December, matching exp\u2026 [+1679 chars]",
+  "chunks": [
+    "The US ended 2025 with steady but elevated inflation in December. The consumer price index increased 2.7% in December as expected, matching the year-over-year increase in November.. The Bureau of Labor Statistics published the December consumer price index data.Myung J. Chun/Los Angeles Times via Getty Images <ul><li>The inflation rate remained at 2.7% in December, matching exp\u2026 [+1679 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.583827"
+}

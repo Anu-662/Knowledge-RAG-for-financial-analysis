@@ -1,0 +1,30 @@
+{
+  "companies": [],
+  "people": [
+    {
+      "name": "Miles Guo",
+      "role": "billionaire",
+      "company": ""
+    }
+  ],
+  "sectors": [],
+  "events": [
+    {
+      "type": "bankruptcy",
+      "description": "Miles Guo's lifestyle being sold in bankruptcy court",
+      "date": null
+    }
+  ],
+  "metrics": [],
+  "locations": [
+    "New York City"
+  ],
+  "products": [
+    "luxury cars",
+    "private jets"
+  ],
+  "relationships": [],
+  "article_id": "90caeed039ef",
+  "article_title": "A billionaire's life is on the auction block. The fire sale includes a Gilded Age mansion and a 15-room NYC penthouse.",
+  "extraction_date": "2026-02-07T13:11:54.468341"
+}

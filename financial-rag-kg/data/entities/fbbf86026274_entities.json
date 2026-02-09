@@ -1,0 +1,42 @@
+{
+  "companies": [
+    {
+      "name": "Nvidia",
+      "ticker": "NVDA",
+      "role": "primary subject"
+    },
+    {
+      "name": "Apple",
+      "ticker": "AAPL",
+      "role": "competitor"
+    },
+    {
+      "name": "Taiwan Semiconductor Manufacturing Company",
+      "ticker": "TSM",
+      "role": "supplier"
+    }
+  ],
+  "people": [],
+  "sectors": [
+    "Chip Sector"
+  ],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [
+    {
+      "entity1": "Nvidia",
+      "relationship": "surpasses",
+      "entity2": "Apple"
+    },
+    {
+      "entity1": "Nvidia",
+      "relationship": "is_customer_of",
+      "entity2": "Taiwan Semiconductor Manufacturing Company"
+    }
+  ],
+  "article_id": "fbbf86026274",
+  "article_title": "Chip sector shifts: Nvidia to beat Apple as TSMC's top customer",
+  "extraction_date": "2026-02-07T13:20:43.782473"
+}

@@ -1,0 +1,25 @@
+{
+  "companies": [
+    {
+      "name": "Grantham, Mayo & van Otterloo",
+      "ticker": "",
+      "role": "co-founder"
+    }
+  ],
+  "people": [
+    {
+      "name": "Jeremy Grantham",
+      "role": "investor",
+      "company": "Grantham, Mayo & van Otterloo"
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "f3684c4884ae",
+  "article_title": "Veteran investor Jeremy Grantham says AI is 'obviously a bubble' \u2014 and it could tank the stock market when it bursts",
+  "extraction_date": "2026-02-07T13:19:58.880500"
+}

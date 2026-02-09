@@ -1,0 +1,21 @@
+{
+  "companies": [
+    {
+      "name": "Apple Inc.",
+      "ticker": "AAPL",
+      "role": "primary subject"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [
+    "Apple AirTag 2"
+  ],
+  "relationships": [],
+  "article_id": "9197b3ac5c33",
+  "article_title": "Teardown of an Apple AirTag 2 With Die Shots",
+  "extraction_date": "2026-02-07T13:12:03.638855"
+}

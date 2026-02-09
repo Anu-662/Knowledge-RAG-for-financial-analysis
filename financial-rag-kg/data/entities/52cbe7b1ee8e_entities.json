@@ -1,0 +1,24 @@
+{
+  "companies": [],
+  "people": [],
+  "sectors": [
+    "Energy"
+  ],
+  "events": [],
+  "metrics": [
+    {
+      "type": "savings",
+      "value": "4.6",
+      "unit": "B euros",
+      "period": "last year"
+    }
+  ],
+  "locations": [
+    "Spain"
+  ],
+  "products": [],
+  "relationships": [],
+  "article_id": "52cbe7b1ee8e",
+  "article_title": "Wind power slashed 4.6B euros off electricity bills in Spain last year",
+  "extraction_date": "2026-02-07T13:04:12.449920"
+}

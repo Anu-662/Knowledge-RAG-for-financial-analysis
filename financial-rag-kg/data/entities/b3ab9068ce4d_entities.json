@@ -1,0 +1,36 @@
+{
+  "companies": [
+    {
+      "name": "Google",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [
+    {
+      "name": "Sundar Pichai",
+      "role": "CEO",
+      "company": "Google"
+    }
+  ],
+  "sectors": [
+    "Technology",
+    "Artificial Intelligence"
+  ],
+  "events": [
+    {
+      "type": "earnings_report",
+      "description": "upcoming earnings report",
+      "date": null
+    }
+  ],
+  "metrics": [],
+  "locations": [],
+  "products": [
+    "Gemini 3"
+  ],
+  "relationships": [],
+  "article_id": "b3ab9068ce4d",
+  "article_title": "Google keeping its place atop the AI rankings might mean doing something it's resisting",
+  "extraction_date": "2026-02-07T13:14:59.633390"
+}

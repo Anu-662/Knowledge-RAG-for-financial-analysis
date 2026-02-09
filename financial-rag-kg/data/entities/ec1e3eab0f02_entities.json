@@ -1,0 +1,33 @@
+{
+  "companies": [
+    {
+      "name": "Goldbridge",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [],
+  "sectors": [
+    "Real Estate"
+  ],
+  "events": [],
+  "metrics": [
+    {
+      "type": "annual_rent_flow",
+      "value": "1T",
+      "unit": "USD",
+      "period": "annual"
+    },
+    {
+      "type": "idle_reserves",
+      "value": "25",
+      "unit": "percent"
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "ec1e3eab0f02",
+  "article_title": "Insane Growth Goldbridge (YC F25) Is Hiring a Forward Deployed Engineer",
+  "extraction_date": "2026-02-07T13:19:41.152259"
+}

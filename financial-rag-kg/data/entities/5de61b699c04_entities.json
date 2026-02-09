@@ -1,0 +1,35 @@
+{
+  "companies": [
+    {
+      "name": "Netflix",
+      "ticker": "",
+      "role": "subject"
+    },
+    {
+      "name": "Paramount",
+      "ticker": "",
+      "role": "subject"
+    },
+    {
+      "name": "Warner Bros.",
+      "ticker": "",
+      "role": "subject"
+    }
+  ],
+  "people": [
+    {
+      "name": "Donald Trump",
+      "role": "former president",
+      "company": ""
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "5de61b699c04",
+  "article_title": "Donald Trump Now Says He \u201cShouldn\u2019t Be Involved\u201d In DOJ Review Of A Netflix Or Paramount Acquisition Of Warner Bros.",
+  "extraction_date": "2026-02-07T13:04:51.175173"
+}

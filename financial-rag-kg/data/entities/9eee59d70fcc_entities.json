@@ -1,0 +1,19 @@
+{
+  "companies": [
+    {
+      "name": "Anthropic",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "9eee59d70fcc",
+  "article_title": "Claude gets its meme moment",
+  "extraction_date": "2026-02-07T13:13:05.889635"
+}

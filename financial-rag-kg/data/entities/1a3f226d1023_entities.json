@@ -1,0 +1,26 @@
+{
+  "companies": [],
+  "people": [
+    {
+      "name": "Donald Trump",
+      "role": "President"
+    },
+    {
+      "name": "Barack Obama",
+      "role": "former President"
+    },
+    {
+      "name": "Bernie Sanders",
+      "role": "politician"
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "1a3f226d1023",
+  "article_title": "Wall Street Is Dancing While Trump Assaults Free Markets. It Won\u2019t End Well",
+  "extraction_date": "2026-02-07T13:00:08.363586"
+}

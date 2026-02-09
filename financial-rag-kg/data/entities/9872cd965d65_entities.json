@@ -1,0 +1,35 @@
+{
+  "companies": [],
+  "people": [
+    {
+      "name": "Kevin Warsh",
+      "role": "nominated chair",
+      "company": "US Federal Reserve"
+    },
+    {
+      "name": "Donald Trump",
+      "role": "President",
+      "company": null
+    }
+  ],
+  "sectors": [
+    "Economics",
+    "Business"
+  ],
+  "events": [
+    {
+      "type": "nomination",
+      "description": "Kevin Warsh's nomination as Fed chair",
+      "date": null
+    }
+  ],
+  "metrics": [],
+  "locations": [
+    "United States"
+  ],
+  "products": [],
+  "relationships": [],
+  "article_id": "9872cd965d65",
+  "article_title": "What smart people in economics and business are saying about Kevin Warsh's nomination as Fed chair",
+  "extraction_date": "2026-02-07T13:12:37.442141"
+}

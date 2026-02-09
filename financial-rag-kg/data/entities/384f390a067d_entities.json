@@ -1,0 +1,32 @@
+{
+  "companies": [
+    {
+      "name": "Palantir",
+      "ticker": "PLTR",
+      "role": "primary subject"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [
+    {
+      "type": "earnings_report",
+      "description": "Q4 earnings beat Wall Street estimates",
+      "date": null
+    }
+  ],
+  "metrics": [
+    {
+      "type": "revenue",
+      "value": "70",
+      "unit": "percent",
+      "period": "Q4"
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "384f390a067d",
+  "article_title": "Palantir Q4 earnings beat Wall Street estimates on strong sales to US businesses",
+  "extraction_date": "2026-02-07T13:02:11.494401"
+}

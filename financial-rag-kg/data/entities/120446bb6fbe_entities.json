@@ -1,0 +1,40 @@
+{
+  "companies": [
+    {
+      "name": "Paramount",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Netflix",
+      "ticker": "",
+      "role": "competitor"
+    },
+    {
+      "name": "Warner Bros.",
+      "ticker": "",
+      "role": "competitor"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [
+    {
+      "entity1": "Paramount",
+      "relationship": "competes_with",
+      "entity2": "Netflix"
+    },
+    {
+      "entity1": "Paramount",
+      "relationship": "competes_with",
+      "entity2": "Warner Bros."
+    }
+  ],
+  "article_id": "120446bb6fbe",
+  "article_title": "Paramount Claims Netflix-Warner Bros. Merger is \"Unlawful\" in Letter to Lawmakers",
+  "extraction_date": "2026-02-07T12:59:38.827127"
+}

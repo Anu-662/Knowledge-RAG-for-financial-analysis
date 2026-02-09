@@ -1,0 +1,21 @@
+{
+  "companies": [],
+  "people": [
+    {
+      "name": "Luigi Mangione",
+      "role": "subject",
+      "company": ""
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [
+    "New York City"
+  ],
+  "products": [],
+  "relationships": [],
+  "article_id": "fe41628b3857",
+  "article_title": "A man impersonating an FBI agent tried to get Luigi Mangione out of jail, authorities say",
+  "extraction_date": "2026-02-07T13:20:58.985174"
+}

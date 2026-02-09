@@ -1,0 +1,37 @@
+{
+  "companies": [
+    {
+      "name": "Viking Global",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [
+    {
+      "name": "Stuart Brown",
+      "role": "head of trading",
+      "company": "Viking Global"
+    },
+    {
+      "name": "Andreas Halvorsen",
+      "role": "CEO",
+      "company": "Viking Global"
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "assets_under_management",
+      "value": "55",
+      "unit": "billion USD",
+      "period": ""
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "bf2a94e4eedd",
+  "article_title": "Viking Global's longtime head of trading is stepping down from the $55 billion asset manager",
+  "extraction_date": "2026-02-07T13:16:03.678457"
+}

@@ -1,0 +1,29 @@
+{
+  "companies": [],
+  "people": [
+    {
+      "name": "Donald Trump",
+      "role": "President",
+      "company": ""
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "government_purchase",
+      "value": "200B",
+      "unit": "USD"
+    }
+  ],
+  "locations": [
+    "Washington"
+  ],
+  "products": [
+    "mortgage bonds"
+  ],
+  "relationships": [],
+  "article_id": "8a280859e74f",
+  "article_title": "Trump says he wants government to buy $200B in mortgage bonds in a push to bring down mortgage rates",
+  "extraction_date": "2026-02-07T13:11:36.168843"
+}

@@ -1,0 +1,28 @@
+{
+  "companies": [
+    {
+      "name": "Investcorp",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [
+    {
+      "name": "Alardhi",
+      "role": "",
+      "company": "Investcorp"
+    }
+  ],
+  "sectors": [
+    "GCC investment",
+    "IPO market"
+  ],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "7425e999112b",
+  "article_title": "Investcorp's Alardhi on GCC investment, IPO market",
+  "extraction_date": "2026-02-07T13:09:43.366067"
+}

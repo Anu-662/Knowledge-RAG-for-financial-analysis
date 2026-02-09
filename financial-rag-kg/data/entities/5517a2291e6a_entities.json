@@ -1,0 +1,25 @@
+{
+  "companies": [],
+  "people": [
+    {
+      "name": "Tom Sosnoff",
+      "role": "trader",
+      "company": "Thinkorswim"
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "stock_market_sell_off",
+      "value": "10-15",
+      "unit": "percent"
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "5517a2291e6a",
+  "article_title": "Why a 'nasty' 10% to 15% sell-off in the stock market may be a few months away",
+  "extraction_date": "2026-02-07T13:04:21.057165"
+}

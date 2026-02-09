@@ -1,0 +1,37 @@
+{
+  "companies": [
+    {
+      "name": "Amagi Media Labs",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "fundraising_amount",
+      "value": "816",
+      "unit": "crore",
+      "context": "fresh issue"
+    },
+    {
+      "type": "fundraising_amount",
+      "value": "973",
+      "unit": "crore",
+      "context": "offer for sale"
+    },
+    {
+      "type": "profitability_period",
+      "value": "H1 FY26",
+      "context": "turn profitable"
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "f7ef183b66c6",
+  "article_title": "Is Amagi\u2019s IPO a long-term bet for high risk investors?",
+  "extraction_date": "2026-02-07T13:20:17.718659"
+}

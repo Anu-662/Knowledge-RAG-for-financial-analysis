@@ -1,0 +1,25 @@
+{
+  "companies": [],
+  "people": [
+    {
+      "name": "Jerome Powell",
+      "role": "Chairman",
+      "company": "Federal Reserve"
+    }
+  ],
+  "sectors": [],
+  "events": [
+    {
+      "type": "investigation",
+      "description": "DOJ's criminal probe into Fed Chair Powell",
+      "date": null
+    }
+  ],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "4a1aac8502ea",
+  "article_title": "WATCH: What to know about the DOJ's criminal probe into Fed Chair Powell",
+  "extraction_date": "2026-02-07T13:03:33.287648"
+}

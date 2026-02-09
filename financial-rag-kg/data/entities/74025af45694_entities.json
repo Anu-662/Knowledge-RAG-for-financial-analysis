@@ -1,0 +1,30 @@
+{
+  "companies": [
+    {
+      "name": "Nvidia",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [],
+  "sectors": [
+    "Technology"
+  ],
+  "events": [],
+  "metrics": [
+    {
+      "type": "price_increase",
+      "value": "hundreds or thousands",
+      "unit": "USD",
+      "context": "RTX 50-series graphics cards"
+    }
+  ],
+  "locations": [],
+  "products": [
+    "RTX 50-series"
+  ],
+  "relationships": [],
+  "article_id": "74025af45694",
+  "article_title": "Doom Has Come for Nvidia\u2019s Graphics Cards, After All",
+  "extraction_date": "2026-02-07T13:09:31.475995"
+}

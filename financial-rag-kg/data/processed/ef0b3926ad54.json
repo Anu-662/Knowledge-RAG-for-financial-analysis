@@ -1,0 +1,18 @@
+{
+  "id": "ef0b3926ad54",
+  "title": "OpenClaw\u2019s AI \u2018skill\u2019 extensions are a security nightmare",
+  "url": "https://www.theverge.com/news/874011/openclaw-ai-skill-clawhub-extensions-security-nightmare",
+  "source": "The Verge",
+  "published_at": "2026-02-04T19:03:38Z",
+  "sector": "General",
+  "sentiment": {
+    "polarity": 0.0,
+    "label": "neutral"
+  },
+  "full_text": "OpenClaw\u2019s AI \u2018skill\u2019 extensions are a security nightmare. OpenClaw, the AI agent that has exploded in popularity over the past week, is raising new security concerns after researchers uncovered malware in hundreds of user-submitted \"skill\" add-ons on its marketplace. In a post on Monday, 1Password product VP Jason M\u2026. <ul><li></li><li></li><li></li></ul> Security researchers found hundreds of malicious add-ons on ClawHub. Security researchers found hundreds of malicious add-ons on ClawHub. by Emma RothClose P\u2026 [+3311 chars]",
+  "chunks": [
+    "OpenClaw\u2019s AI \u2018skill\u2019 extensions are a security nightmare. OpenClaw, the AI agent that has exploded in popularity over the past week, is raising new security concerns after researchers uncovered malware in hundreds of user-submitted \"skill\" add-ons on its marketplace. In a post on Monday, 1Password product VP Jason M\u2026. <ul><li></li><li></li><li></li></ul> Security researchers found hundreds of malicious add-ons on ClawHub. Security researchers found hundreds of malicious add-ons on ClawHub. by Emma RothClose P\u2026 [+3311 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.593879"
+}

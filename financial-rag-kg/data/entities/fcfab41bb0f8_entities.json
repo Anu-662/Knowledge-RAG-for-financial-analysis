@@ -1,0 +1,23 @@
+{
+  "companies": [],
+  "people": [],
+  "sectors": [
+    "Energy"
+  ],
+  "events": [],
+  "metrics": [
+    {
+      "type": "opportunity_value",
+      "value": "multibillion",
+      "unit": "USD"
+    }
+  ],
+  "locations": [
+    "India"
+  ],
+  "products": [],
+  "relationships": [],
+  "article_id": "fcfab41bb0f8",
+  "article_title": "India Ups Energy Clout With Renewables Surge And 40-Plus Oil Suppliers",
+  "extraction_date": "2026-02-07T13:20:51.139776"
+}

@@ -1,0 +1,33 @@
+{
+  "companies": [
+    {
+      "name": "Discord",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Bloomberg",
+      "ticker": "",
+      "role": "source"
+    }
+  ],
+  "people": [],
+  "sectors": [
+    "Gaming",
+    "Technology"
+  ],
+  "events": [
+    {
+      "type": "IPO",
+      "description": "confidentially filed for IPO",
+      "date": null
+    }
+  ],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "138cac5238fd",
+  "article_title": "What would Discord going public mean for gaming's biggest communication platform?",
+  "extraction_date": "2026-02-07T12:59:45.404726"
+}

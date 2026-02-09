@@ -1,0 +1,38 @@
+{
+  "companies": [
+    {
+      "name": "Chainalysis",
+      "ticker": "",
+      "role": "reporting entity"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [
+    {
+      "type": "crypto_crime_report",
+      "description": "annual crypto crime report",
+      "date": null
+    }
+  ],
+  "metrics": [
+    {
+      "type": "illicit_crypto_flows",
+      "value": "154",
+      "unit": "billion USD",
+      "period": "2025"
+    },
+    {
+      "type": "growth_percentage",
+      "value": "162",
+      "unit": "percent",
+      "period": null
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "8b01286feb34",
+  "article_title": "Illicit Crypto Flows Climbed to $154 Billion in 2025 as Nation States Evade Sanctions, Report Finds",
+  "extraction_date": "2026-02-07T13:11:40.147516"
+}

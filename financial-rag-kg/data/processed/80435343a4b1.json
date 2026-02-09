@@ -1,0 +1,18 @@
+{
+  "id": "80435343a4b1",
+  "title": "The \u2018Magnificent 7\u2019 stocks are dying, and Wall Street is pretty happy about it",
+  "url": "https://finance.yahoo.com/news/magnificent-7-stocks-dying-wall-113857386.html",
+  "source": "Yahoo Entertainment",
+  "published_at": "2026-01-14T11:38:57Z",
+  "sector": "General",
+  "sentiment": {
+    "polarity": 0.0,
+    "label": "neutral"
+  },
+  "full_text": "The \u2018Magnificent 7\u2019 stocks are dying, and Wall Street is pretty happy about it. But the dominance of the Mag 7 is likely to come to an end this year, many on Wall Street believe\u2014if only because their valuations can\u2019t exponentially go up .... The S&amp;P 500 fell 0.19% yesterday but, interestingly, the equal weight S&amp;P 500 (a notional index that values each stock equally) was marginally up. Thats because more investors are picking bet\u2026 [+2526 chars]",
+  "chunks": [
+    "The \u2018Magnificent 7\u2019 stocks are dying, and Wall Street is pretty happy about it. But the dominance of the Mag 7 is likely to come to an end this year, many on Wall Street believe\u2014if only because their valuations can\u2019t exponentially go up .... The S&amp;P 500 fell 0.19% yesterday but, interestingly, the equal weight S&amp;P 500 (a notional index that values each stock equally) was marginally up. Thats because more investors are picking bet\u2026 [+2526 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.595905"
+}

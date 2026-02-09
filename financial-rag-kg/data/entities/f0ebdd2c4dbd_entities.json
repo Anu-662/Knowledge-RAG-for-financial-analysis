@@ -1,0 +1,34 @@
+{
+  "companies": [
+    {
+      "name": "Nvidia",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Taiwan Semiconductor",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Broadcom",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "AMD",
+      "ticker": "",
+      "role": "not included"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "f0ebdd2c4dbd",
+  "article_title": "Prediction: This Will Be the Next Artificial Intelligence (AI) Chip Stock to Join Nvidia, Taiwan Semiconductor, and Broadcom in the Trillion-Dollar Club (Hint: It's Not AMD)",
+  "extraction_date": "2026-02-07T13:19:54.839814"
+}

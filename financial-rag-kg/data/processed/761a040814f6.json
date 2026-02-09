@@ -1,0 +1,18 @@
+{
+  "id": "761a040814f6",
+  "title": "Swansea Council 'were told Ospreys wouldn't exist'",
+  "url": "https://www.bbc.com/sport/rugby-union/articles/ceqz4nj80yqo",
+  "source": "BBC News",
+  "published_at": "2026-02-04T17:40:15Z",
+  "sector": "General",
+  "sentiment": {
+    "polarity": 1.0,
+    "label": "positive"
+  },
+  "full_text": "Swansea Council 'were told Ospreys wouldn't exist'. The local authority where Ospreys play have started legal action against Cardiff owners the WRU and Y11, who currently own Ospreys.. Swansea Council had said it would publish the minutes of the meeting, which took place on 22 January, but in its statement claimed they had not done so because the WRU, Y11, and Ospreys objected to i\u2026 [+1716 chars]",
+  "chunks": [
+    "Swansea Council 'were told Ospreys wouldn't exist'. The local authority where Ospreys play have started legal action against Cardiff owners the WRU and Y11, who currently own Ospreys.. Swansea Council had said it would publish the minutes of the meeting, which took place on 22 January, but in its statement claimed they had not done so because the WRU, Y11, and Ospreys objected to i\u2026 [+1716 chars]"
+  ],
+  "num_chunks": 1,
+  "processed_at": "2026-02-07T11:42:03.590478"
+}

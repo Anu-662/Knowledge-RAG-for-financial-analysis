@@ -1,0 +1,41 @@
+{
+  "companies": [
+    {
+      "name": "SpaceX",
+      "ticker": "",
+      "role": "subject"
+    },
+    {
+      "name": "xAI",
+      "ticker": "",
+      "role": "subject"
+    }
+  ],
+  "people": [
+    {
+      "name": "Elon Musk",
+      "role": "subject",
+      "company": "SpaceX"
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "role": "subject",
+      "company": ""
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [],
+  "relationships": [
+    {
+      "entity1": "SpaceX",
+      "relationship": "merges_with",
+      "entity2": "xAI"
+    }
+  ],
+  "article_id": "6619294bc450",
+  "article_title": "Will Elon Musk\u2019s emails with Jeffrey Epstein derail his very important year?",
+  "extraction_date": "2026-02-07T13:05:36.350693"
+}

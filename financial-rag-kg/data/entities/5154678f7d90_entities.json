@@ -1,0 +1,26 @@
+{
+  "companies": [
+    {
+      "name": "SpaceX",
+      "ticker": "",
+      "role": "primary subject"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "profit",
+      "value": "8 billion",
+      "unit": "USD",
+      "period": "last year"
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "5154678f7d90",
+  "article_title": "SpaceX generated about $8 billion in profit last year ahead of IPO, sources say",
+  "extraction_date": "2026-02-07T13:04:04.992656"
+}

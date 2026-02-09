@@ -1,0 +1,26 @@
+{
+  "companies": [],
+  "people": [
+    {
+      "name": "Scott Bessent",
+      "role": "Treasury Secretary",
+      "company": "US Treasury"
+    }
+  ],
+  "sectors": [],
+  "events": [],
+  "metrics": [
+    {
+      "type": "interest_rate",
+      "value": "substantially above",
+      "unit": "",
+      "period": "2026"
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "22e5f22d839c",
+  "article_title": "Bessent believes Fed rates are 'substantially above' the neutral",
+  "extraction_date": "2026-02-07T13:00:40.791755"
+}

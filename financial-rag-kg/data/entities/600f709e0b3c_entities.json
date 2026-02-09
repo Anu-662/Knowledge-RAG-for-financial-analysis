@@ -1,0 +1,28 @@
+{
+  "companies": [],
+  "people": [
+    {
+      "name": "Michael Burry",
+      "role": "investor",
+      "company": "The Big Short"
+    }
+  ],
+  "sectors": [
+    "Technology"
+  ],
+  "events": [],
+  "metrics": [
+    {
+      "type": "return_on_invested_capital",
+      "value": null,
+      "unit": null,
+      "period": null
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "600f709e0b3c",
+  "article_title": "'Big Short' investor Michael Burry says AI is turning Big Tech into a worse business",
+  "extraction_date": "2026-02-07T13:05:01.265534"
+}

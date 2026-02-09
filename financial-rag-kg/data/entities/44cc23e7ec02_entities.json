@@ -1,0 +1,35 @@
+{
+  "companies": [
+    {
+      "name": "Bank of America",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Nvidia",
+      "ticker": "",
+      "role": "related"
+    }
+  ],
+  "people": [
+    {
+      "name": "Jensen Huang",
+      "role": "CEO",
+      "company": "Nvidia"
+    }
+  ],
+  "sectors": [
+    "Finance",
+    "Technology"
+  ],
+  "events": [],
+  "metrics": [],
+  "locations": [],
+  "products": [
+    "AI Factory"
+  ],
+  "relationships": [],
+  "article_id": "44cc23e7ec02",
+  "article_title": "Emails show Bank of America's struggles with Nvidia AI: 'You have to help us as local car mechanics drive the race car!'",
+  "extraction_date": "2026-02-07T13:03:06.733375"
+}

@@ -1,0 +1,43 @@
+{
+  "companies": [
+    {
+      "name": "National Stock Exchange",
+      "ticker": "",
+      "role": "primary subject"
+    },
+    {
+      "name": "Securities and Exchange Board of India",
+      "ticker": "",
+      "role": "related entity"
+    }
+  ],
+  "people": [],
+  "sectors": [],
+  "events": [
+    {
+      "type": "IPO",
+      "description": "Upcoming IPO clearance",
+      "date": null
+    }
+  ],
+  "metrics": [
+    {
+      "type": "stock_price",
+      "value": "2000",
+      "unit": "INR"
+    },
+    {
+      "type": "stock_price_change",
+      "value": "6",
+      "unit": "percent"
+    }
+  ],
+  "locations": [
+    "Mumbai"
+  ],
+  "products": [],
+  "relationships": [],
+  "article_id": "feec4a55dbaa",
+  "article_title": "NSE shares surge after IPO clouds seem to clear",
+  "extraction_date": "2026-02-07T13:21:04.316148"
+}

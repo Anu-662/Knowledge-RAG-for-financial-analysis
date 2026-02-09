@@ -1,0 +1,45 @@
+{
+  "companies": [
+    {
+      "name": "SPDR S&P 400 Mid Cap Growth ETF",
+      "ticker": "MDYG",
+      "role": "primary subject"
+    }
+  ],
+  "people": [],
+  "sectors": [
+    "Mid-Cap Growth",
+    "Industrials",
+    "Technology"
+  ],
+  "events": [],
+  "metrics": [
+    {
+      "type": "return",
+      "value": "11.5",
+      "unit": "percent"
+    },
+    {
+      "type": "allocation_industrials",
+      "value": "26",
+      "unit": "percent"
+    },
+    {
+      "type": "allocation_technology",
+      "value": "20",
+      "unit": "percent"
+    },
+    {
+      "type": "gain",
+      "value": "42",
+      "unit": "percent",
+      "period": "five years"
+    }
+  ],
+  "locations": [],
+  "products": [],
+  "relationships": [],
+  "article_id": "18b3ed914d46",
+  "article_title": "This Mid-Cap Growth ETF Delivers 11.5% Returns Without Betting 40% of Your Portfolio on Seven Tech Stocks",
+  "extraction_date": "2026-02-07T12:59:58.770400"
+}
