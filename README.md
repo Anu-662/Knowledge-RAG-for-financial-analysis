@@ -323,24 +323,6 @@ Total project cost: **~$3-4**
 
 MIT License - see [LICENSE](LICENSE) file for details
 
-## 🤝 Contributing
-
-Contributions welcome! Please feel free to submit a Pull Request.
-
-## 📧 Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-
-Project Link: [https://github.com/yourusername/financial-rag-kg](https://github.com/yourusername/financial-rag-kg)
-
-## 🙏 Acknowledgments
-
-- OpenAI for GPT-4o-mini and embeddings API
-- Neo4j for graph database technology
-- Facebook Research for FAISS
-- NewsAPI for financial news data
-
----
 
 ⭐ **Star this repo if you found it helpful!**
 
