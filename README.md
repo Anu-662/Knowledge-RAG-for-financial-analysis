@@ -287,16 +287,6 @@ extract_entities(article_text) → {
 >
 > Sources: [Links to 3 relevant articles with sentiment context]
 
-## 💰 Cost Analysis
-
-Total project cost: **~$3-4**
-
-| Phase | Cost |
-|-------|------|
-| Entity Extraction (527 articles) | $0.08 |
-| Vector Embeddings (527 chunks) | $0.50 |
-| Query Testing (~100 queries) | $1-2 |
-| **Total** | **$2.58-3.08** |
 
 ## 🛠️ Technologies Used
 
